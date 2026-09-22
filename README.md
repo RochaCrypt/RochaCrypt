@@ -56,19 +56,41 @@ engineering and executive audiences.
 
 ## Latest in Cybersecurity
 
-<!-- CYBER-NEWS:START -->| [Canadian regulator opens probe of IDScan for allegedly violating data privacy laws](https://therecord.media/canadian-regulator-opens-probe-of-idscan-following-data-breach) | `
-` || [ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/) | `
-` || [Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks](https://thehackernews.com/2026/09/check-point-warns-of-management-server.html) | `
-` || [New ClosedQuorum Windows malware uses AI for attack decisions](https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/) | `
-` || [WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers](https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html) | `
-` || [Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials](https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html) | `
-` || [BigCommerce Data Stolen via Ribon Apps Hack](https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/) | `
-` || [Reducing shadow IT visibility gaps with Wazuh](https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/) | `
-` || [Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises](https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html) | `
-` || [Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials](https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html) | `
-` || [Check Point warns of Management Server zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/) | `
-` || [Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates](https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html) | `
-` |<!-- CYBER-NEWS:END -->
+<!-- CYBER-NEWS:START -->
+
+**[Chinese hackers exploit multiple technologies to steal govt data](https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/)**  
+A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from…  
+<sub>`BleepingComputer`</sub>
+
+**[Microsoft Disrupts EvilTokens Device Code Phishing Service](https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service)**  
+Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform…  
+<sub>`Dark Reading`</sub>
+
+**[ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/)**  
+The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal…  
+<sub>`BleepingComputer`</sub>
+
+**[Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks](https://thehackernews.com/2026/09/check-point-warns-of-management-server.html)**  
+Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23, the company…  
+<sub>`The Hacker News`</sub>
+
+**[New ClosedQuorum Windows malware uses AI for attack decisions](https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/)**  
+A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take…  
+<sub>`BleepingComputer`</sub>
+
+**[WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers](https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html)**  
+WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme…  
+<sub>`The Hacker News`</sub>
+
+**[Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials](https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html)**  
+Cybersecurity researchers have disclosed details of a malicious npm package named "tw-pkgprobe-7731" that masquerades as a security tool targeting…  
+<sub>`The Hacker News`</sub>
+
+**[BigCommerce Data Stolen via Ribon Apps Hack](https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/)**  
+The attackers used a compromised BigCommerce application key held by Ribon to access customer data. The post BigCommerce Data Stolen via Ribon Apps…  
+<sub>`SecurityWeek`</sub>
+
+<!-- CYBER-NEWS:END -->
 
 <sub>Auto-updated every 6 hours from The Hacker News, BleepingComputer, Krebs on Security, Dark Reading, SecurityWeek, The Record and CISA advisories. Headlines link to the original source.</sub>
 
