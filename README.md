@@ -1,89 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3a0008,100:ff2e4c&height=200&section=header&text=Alexandre%20Rocha&fontSize=44&fontColor=ffffff&desc=Lead%20Cybersecurity%20Engineer&descSize=17&descAlignY=64" width="100%" alt="Alexandre Rocha"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0521,30:6d0b2e,100:ff2e4c&height=200&section=header&text=Alexandre%20Rocha&fontSize=44&fontColor=ffffff&desc=Lead%20Cybersecurity%20Engineer&descSize=17&descAlignY=64" width="100%" alt="Alexandre Rocha"/>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=FF2E4C&center=true&vCenter=true&width=640&height=36&lines=Lead+Cybersecurity+Engineer;Penetration+Testing+and+Vulnerability+Management;Threat+Detection+%7C+Incident+Response+%7C+EDR%2FXDR;CEH+%7C+CCFA+%7C+CLLMSP" alt="Roles"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FF2E4C&center=true&vCenter=true&width=680&height=40&lines=Penetration+Testing+%26+Vulnerability+Management;Threat+Detection+%2C+Incident+Response+%26+EDR%2FXDR;Offensive+Security+with+an+Enterprise+Mindset" alt="Roles"/>
 </a>
 
+<br/>
+
+<a href="https://linkedin.com/in/alexandrevrocha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:alexandrev.rocha@hotmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://img.shields.io/badge/Dublin,_Ireland-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+<img src="https://komarev.com/ghpvc/?username=RochaCrypt&style=for-the-badge&color=ff2e4c&label=VIEWS" alt="Profile views"/>
+
 <br/><br/>
 
-<a href="https://linkedin.com/in/alexandrevrocha"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=ff2e4c" alt="LinkedIn"/></a>
-<a href="mailto:alexandrev.rocha@hotmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=maildotru&logoColor=ff2e4c" alt="Email"/></a>
-<img src="https://img.shields.io/badge/Dublin,_Ireland-0d1117?style=flat-square&labelColor=0d1117&color=ff2e4c" alt="Location"/>
-<img src="https://komarev.com/ghpvc/?username=RochaCrypt&style=flat-square&color=ff2e4c&label=profile+views" alt="Profile views"/>
+![Experience](https://img.shields.io/badge/Experience-14%2B_years_IT-2E6BFF?style=flat-square&labelColor=11161f)
+![Security](https://img.shields.io/badge/Security-7%2B_years-FF2E4C?style=flat-square&labelColor=11161f)
+![Certified](https://img.shields.io/badge/Certified-CEH_·_CCFA_·_CLLMSP-2ECC71?style=flat-square&labelColor=11161f)
+![Open source](https://img.shields.io/badge/Open_source-2_live_projects-8A63FF?style=flat-square&labelColor=11161f)
 
-<br/><br/>
+<br/>
 
-**Live links**
-
-[![Cyber Pulse](https://img.shields.io/badge/▶-Cyber_Pulse_·_live_news-ff2e4c?style=for-the-badge&labelColor=0d1117)](https://rochacrypt.github.io/cyber-pulse/)
-[![Arsenal](https://img.shields.io/badge/▶-Arsenal_·_112_tools-ff2e4c?style=for-the-badge&labelColor=0d1117)](https://rochacrypt.github.io/arsenal/)
-[![Knowledge Base](https://img.shields.io/badge/▶-Knowledge_Base_·_50_maps-ff2e4c?style=for-the-badge&labelColor=0d1117)](https://github.com/RochaCrypt/security-knowledge-base)
-
-**Jump to** (opens in the repo view)
-
-[![Summary](https://img.shields.io/badge/›-Summary-0d1117?style=flat-square&labelColor=3a0008)](#summary)
-[![News](https://img.shields.io/badge/›-News-0d1117?style=flat-square&labelColor=3a0008)](#latest-in-cybersecurity)
-[![Expertise](https://img.shields.io/badge/›-Expertise-0d1117?style=flat-square&labelColor=3a0008)](#core-expertise)
-[![Experience](https://img.shields.io/badge/›-Experience-0d1117?style=flat-square&labelColor=3a0008)](#experience)
-[![Technologies](https://img.shields.io/badge/›-Technologies-0d1117?style=flat-square&labelColor=3a0008)](#technologies)
-[![Certifications](https://img.shields.io/badge/›-Certifications-0d1117?style=flat-square&labelColor=3a0008)](#certifications-and-education)
-[![Activity](https://img.shields.io/badge/›-Activity-0d1117?style=flat-square&labelColor=3a0008)](#activity)
+<a href="https://rochacrypt.github.io/cyber-pulse/"><img src="https://img.shields.io/badge/▶_Cyber_Pulse-live_news_portal-FF2E4C?style=for-the-badge&labelColor=0d1117" alt="Cyber Pulse"/></a>
+<a href="https://rochacrypt.github.io/arsenal/"><img src="https://img.shields.io/badge/▶_Arsenal-112_tools-8A63FF?style=for-the-badge&labelColor=0d1117" alt="Arsenal"/></a>
+<a href="https://github.com/RochaCrypt/security-knowledge-base"><img src="https://img.shields.io/badge/▶_Knowledge_Base-50_maps-2ECC71?style=for-the-badge&labelColor=0d1117" alt="Knowledge Base"/></a>
 
 </div>
-
-```text
-$ ./init rochacrypt --profile
-[  OK  ] mount  knowledge-base ......................... 50 maps
-[  OK  ] load   arsenal ................................ 112 tools
-[  OK  ] start  threat-intel feed (cyber-pulse) ........ live
-[  OK  ] module offensive-security ..................... ready
-[  OK  ] module detection-and-response ................. ready
-[  OK  ] module vulnerability-management ............... ready
-[ INFO ] operator ................................. Alexandre Rocha
-[ INFO ] location ................................. Dublin, IE
-[ INFO ] clearance ............................... authorised engagements only
-system online.
-```
 
 ---
 
 ## Summary
 
-```text
-                          operator@rochacrypt
-        .:~!!!!!~:.       ------------------------------------------------
-      :!!!!!!!!!!!!!:     host.......  rochacrypt
-     !!!!!!!!!!!!!!!!!    role.......  Lead Cybersecurity Engineer
-    !!!!!:     :!!!!!!    uptime.....  14+ yrs in IT · 7+ yrs in security
-    !!!!.        .::::    shell......  offensive-security · detection · response
-    !!!!!:     :!!!!!!    location...  Dublin, Ireland
-     !!!!!!!!!!!!!!!!!    lang.......  PT-BR · EN · ES
-      :!!!!!!!!!!!!!:     stack......  MITRE ATT&CK · OWASP · NIST CSF · ISO 27001
-        .:~!!!!!~:.       services...  pentest · vuln-mgmt · EDR/XDR · SOC  [online]
-                          research...  LLM application security · offensive AI
-                          creds......  CEH · CCFA · CLLMSP
-                          status.....  operational · authorised targets only
-```
+Cybersecurity professional with over **14 years in IT** and **7+ years specialising in information security, security operations and cybersecurity consulting**. I lead security initiatives across enterprise and multi-tenant environments, combining technical depth in penetration testing, vulnerability management, incident response and EDR/XDR with a consultative, business-focused approach — translating technical risk into clear reporting for both engineering and executive audiences.
 
-Cybersecurity professional with over 14 years in IT and 7+ years specialising in
-information security, security operations and cybersecurity consulting. I lead
-security initiatives across enterprise and multi-tenant environments, combining
-technical depth in penetration testing, vulnerability management, incident response
-and EDR/XDR with a consultative, business-focused approach. I align delivery with
-recognised frameworks and translate technical risk into clear reporting for both
-engineering and executive audiences.
+| | |
+| :--- | :--- |
+| **Role** | Lead Cybersecurity Engineer |
+| **Focus** | Offensive Security · Detection · Response |
+| **Location** | Dublin, Ireland |
+| **Languages** | Portuguese (native) · English (professional) · Spanish (basic) |
+| **Frameworks** | MITRE ATT&CK · OWASP · NIST CSF · ISO 27001 |
+| **Focus now** | LLM application security · offensive AI |
+| **Credentials** | CEH · CCFA · CLLMSP |
 
 ---
 
 ## Latest in Cybersecurity
 
-```console
-root@rochacrypt:~# tail -n 8 /var/log/threat-intel   # full feed at cyber-pulse
-```
-
-<div align="center"><a href="https://rochacrypt.github.io/cyber-pulse/"><img src="https://img.shields.io/badge/Open_Cyber_Pulse_—_live_news_portal-0d1117?style=for-the-badge&labelColor=ff2e4c" alt="Cyber Pulse"/></a></div>
+<div align="center"><a href="https://rochacrypt.github.io/cyber-pulse/"><img src="https://img.shields.io/badge/Open_Cyber_Pulse_—_live_news_portal-FF2E4C?style=for-the-badge&labelColor=0d1117" alt="Cyber Pulse"/></a></div>
 
 <!-- CYBER-NEWS:START -->
 <!-- CYBER-NEWS:END -->
@@ -102,9 +67,6 @@ root@rochacrypt:~# tail -n 8 /var/log/threat-intel   # full feed at cyber-pulse
 | **Security Operations** | SIEM engineering (FortiSIEM), correlation rules, monitoring use cases, SOC capability development |
 | **Cloud & Architecture** | Private, Public and Hybrid cloud security; security architecture design and review |
 | **Governance & Reporting** | NIST CSF, ISO 27001, MITRE ATT&CK and OWASP alignment; technical and executive reporting |
-
-**Engagement approach**  
-`Reconnaissance` → `Assessment` → `Exploitation` → `Post-exploitation` → `Detection review (purple-team)` → `Technical & executive reporting`
 
 ---
 
@@ -177,7 +139,7 @@ Platforms and tools I operate in production and assessment environments.
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Offensive & Assessment** | Nmap, Burp Suite, Metasploit, Kali Linux, Qualys VMDR, Qualys WAS, OWASP methodology |
+| **Offensive & Assessment** | Nmap, Burp Suite, Metasploit, Kali Linux, Qualys VMDR / WAS, OWASP methodology |
 | **Detection & Response** | CrowdStrike Falcon (RTR), FortiEDR, FortiSIEM |
 | **Network & Perimeter** | FortiGate, FortiManager, IDS/IPS, Web Filtering, Application Control, Cloudflare (WAF/DDoS) |
 | **Identity & Cloud** | Keycloak, AWS, Private / Public / Hybrid Cloud |
@@ -185,19 +147,19 @@ Platforms and tools I operate in production and assessment environments.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=ff2e4c"/>
-<img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=ff2e4c"/>
-<img src="https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=ff2e4c"/>
-<img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/OWASP-0d1117?style=flat-square&logo=owasp&logoColor=ff2e4c"/>
-<img src="https://img.shields.io/badge/CrowdStrike-0d1117?style=flat-square&logo=crowdstrike&logoColor=ff2e4c"/>
-<img src="https://img.shields.io/badge/Fortinet-0d1117?style=flat-square&logo=fortinet&logoColor=ff2e4c"/>
-<img src="https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare&logoColor=ff2e4c"/>
-<img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=ff2e4c"/>
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ff2e4c"/>
-<img src="https://img.shields.io/badge/PowerShell-0d1117?style=flat-square&logo=powershell&logoColor=ff2e4c"/>
-<img src="https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=ff2e4c"/>
-<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=ff2e4c"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-4A25AA?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP-546E7A?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrowdStrike-E01F3D?style=for-the-badge&logo=crowdstrike&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </div>
 
@@ -205,19 +167,13 @@ Platforms and tools I operate in production and assessment environments.
 
 ## Projects and Knowledge Base
 
-Open resources I build and maintain for the community.
+Open resources I build and maintain.
 
 | Repository | Description | Stack |
 | :--- | :--- | :--- |
-| **[Arsenal](https://github.com/RochaCrypt/arsenal)** | Interactive catalog of 112 security tools, segmented by function, plus my own operational scripts. [Live catalog](https://rochacrypt.github.io/arsenal/). | `Bash` · `Python` · `PowerShell` · `HTML` |
+| **[Cyber Pulse](https://github.com/RochaCrypt/cyber-pulse)** | Auto-updating cybersecurity news portal, refreshed every 3 hours. [Live](https://rochacrypt.github.io/cyber-pulse/). | `Python` · `HTML` · `Actions` |
+| **[Arsenal](https://github.com/RochaCrypt/arsenal)** | Interactive catalog of 112 security tools plus my own operational scripts. [Live](https://rochacrypt.github.io/arsenal/). | `Bash` · `Python` · `PowerShell` · `HTML` |
 | **[Security Knowledge Base](https://github.com/RochaCrypt/security-knowledge-base)** | 50 certification and framework references — what each is, what it validates, key concepts and a mind map. | `Docs` · `Mermaid` |
-
-<div align="center">
-
-<a href="https://rochacrypt.github.io/arsenal/"><img src="https://img.shields.io/badge/Open_the_Arsenal_(112_tools)-0d1117?style=for-the-badge&labelColor=ff2e4c" alt="Arsenal"/></a>
-<a href="https://github.com/RochaCrypt/security-knowledge-base"><img src="https://img.shields.io/badge/Open_the_Knowledge_Base_(50_maps)-0d1117?style=for-the-badge&labelColor=ff2e4c" alt="Knowledge Base"/></a>
-
-</div>
 
 ---
 
@@ -225,14 +181,12 @@ Open resources I build and maintain for the community.
 
 **Certifications**
 
-| Credential | Issuer |
-| :--- | :--- |
-| Certified Ethical Hacker (CEH) | EC-Council |
-| CrowdStrike Certified Falcon Administrator (CCFA) | CrowdStrike |
-| Certified LLM Security Professional (CLLMSP) | — |
-| Certified Associate in Cybersecurity | Fortinet |
-| Ethical Hacking Essentials (EHE) · Network Defense Essentials (NDE) | EC-Council |
-| Architecting on AWS (training) | AWS |
+<img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-A80030?style=flat-square&labelColor=11161f"/>
+<img src="https://img.shields.io/badge/CCFA-CrowdStrike_Falcon_Admin-E01F3D?style=flat-square&labelColor=11161f"/>
+<img src="https://img.shields.io/badge/CLLMSP-LLM_Security-8A63FF?style=flat-square&labelColor=11161f"/>
+<img src="https://img.shields.io/badge/Fortinet-Certified_Associate-EE3124?style=flat-square&labelColor=11161f"/>
+<img src="https://img.shields.io/badge/EC--Council-EHE_·_NDE-2E6BFF?style=flat-square&labelColor=11161f"/>
+<img src="https://img.shields.io/badge/AWS-Architecting_(training)-FF9900?style=flat-square&labelColor=11161f"/>
 
 **Education**
 
@@ -245,7 +199,8 @@ Open resources I build and maintain for the community.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=RochaCrypt&theme=dark&hide_border=true&background=0d1117&ring=ff2e4c&fire=ff2e4c&currStreakNum=ffffff&sideNums=ff2e4c&currStreakLabel=ff2e4c&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" alt="Contribution streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaCrypt&layout=compact&hide_border=true&title_color=ff2e4c&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top languages"/>
+<img height="165" src="https://streak-stats.demolab.com?user=RochaCrypt&theme=dark&hide_border=true&background=0d1117&ring=ff2e4c&fire=ff2e4c&currStreakNum=ffffff&sideNums=ff2e4c&currStreakLabel=ff2e4c&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" alt="Contribution streak"/>
 
 <br/><br/>
 
@@ -258,17 +213,12 @@ Open resources I build and maintain for the community.
 
 </div>
 
-<!-- Add offensive-platform badges when available:
-<img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_USER.png" alt="TryHackMe"/>
-<img src="https://www.hackthebox.com/badge/image/YOUR_ID" alt="Hack The Box"/>
--->
-
 ---
 
 <div align="center">
 
-<sub>All techniques and tooling are used exclusively in authorised engagements. · Security is a process, not a product.</sub>
+<sub>All techniques and tooling are used exclusively in authorised engagements.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e4c,50:3a0008,100:000000&height=90&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e4c,50:6d0b2e,100:1a0521&height=90&section=footer" width="100%" alt=""/>
 
 </div>
