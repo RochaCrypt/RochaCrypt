@@ -16,6 +16,7 @@
 <br/><br/>
 
 [![Summary](https://img.shields.io/badge/›-Summary-0d1117?style=for-the-badge&labelColor=ff2e4c)](#summary)
+[![News](https://img.shields.io/badge/›-News-0d1117?style=for-the-badge&labelColor=ff2e4c)](#latest-in-cybersecurity)
 [![Expertise](https://img.shields.io/badge/›-Expertise-0d1117?style=for-the-badge&labelColor=ff2e4c)](#core-expertise)
 [![Experience](https://img.shields.io/badge/›-Experience-0d1117?style=for-the-badge&labelColor=ff2e4c)](#experience)
 [![Technologies](https://img.shields.io/badge/›-Technologies-0d1117?style=for-the-badge&labelColor=ff2e4c)](#technologies)
@@ -50,6 +51,15 @@ technical depth in penetration testing, vulnerability management, incident respo
 and EDR/XDR with a consultative, business-focused approach. I align delivery with
 recognised frameworks and translate technical risk into clear reporting for both
 engineering and executive audiences.
+
+---
+
+## Latest in Cybersecurity
+
+<!-- CYBER-NEWS:START -->
+<!-- CYBER-NEWS:END -->
+
+<sub>Auto-updated every 6 hours from The Hacker News, BleepingComputer, Krebs on Security, Dark Reading, SecurityWeek, The Record and CISA advisories. Headlines link to the original source.</sub>
 
 ---
 
