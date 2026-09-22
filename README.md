@@ -1,170 +1,218 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f2fe&height=200&section=header&text=Alexandre%20Rocha&fontSize=42&fontColor=ffffff&desc=Lead%20Cybersecurity%20Engineer%20%7C%20Offensive%20Security&descSize=16&descAlignY=65&animation=fadeIn" width="100%" alt="Alexandre Rocha — Lead Cybersecurity Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3a0008,100:ff2e4c&height=210&section=header&text=Alexandre%20Rocha&fontSize=44&fontColor=ffffff&desc=Offensive%20Security%20%7C%20Lead%20Cybersecurity%20Engineer&descSize=16&descAlignY=66&animation=fadeIn" width="100%" alt="Alexandre Rocha — Offensive Security"/>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F2FE&center=true&vCenter=true&width=620&height=40&lines=Penetration+Testing+%26+Vulnerability+Management;Threat+Hunting+%26+EDR%2FXDR+Engineering;LLM+Security+%7C+CEH+%7C+CCFA" alt="Areas of focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=900&color=FF2E4C&center=true&vCenter=true&width=640&height=40&lines=root%40rochacrypt%3A~%23+whoami;%3E+pentester+%7C+threat+hunter+%7C+red+%26+purple+team;root%40rochacrypt%3A~%23+nmap+-sC+-sV+-p-+target;%3E+22%2Ftcp+open+ssh+%7C+443%2Ftcp+open+https;root%40rochacrypt%3A~%23+.%2Fexploit+--authorised-only;%3E+%5B%2B%5D+access+granted.+writing+report..." alt="Terminal animation"/>
 </a>
 
 <br/>
 
-<a href="https://linkedin.com/in/alexandrevrocha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:alexandrev.rocha@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=maildotru&logoColor=white" alt="Email"/></a>
-<img src="https://img.shields.io/badge/Based_in-Dublin%2C_Ireland-169B62?style=flat-square" alt="Dublin, Ireland"/>
-<img src="https://komarev.com/ghpvc/?username=RochaCrypt&style=flat-square&color=00f2fe&label=Profile+views" alt="Profile views"/>
+<a href="https://linkedin.com/in/alexandrevrocha"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=ff2e4c" alt="LinkedIn"/></a>
+<a href="mailto:alexandrev.rocha@hotmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=maildotru&logoColor=ff2e4c" alt="Email"/></a>
+<img src="https://img.shields.io/badge/Location-Dublin%2C_IE-0d1117?style=flat-square&labelColor=0d1117&color=ff2e4c" alt="Dublin, Ireland"/>
+<img src="https://komarev.com/ghpvc/?username=RochaCrypt&style=flat-square&color=ff2e4c&label=hits" alt="Profile hits"/>
 
 <sub>
-<a href="#-about">About</a> •
-<a href="#-what-i-do">What I do</a> •
-<a href="#-products--platforms">Products</a> •
-<a href="#-projects">Projects</a> •
-<a href="#-experience">Experience</a> •
-<a href="#-certifications--education">Certifications</a> •
-<a href="#-live-stats">Live stats</a>
+<a href="#-whoami">whoami</a> ·
+<a href="#-kill-chain">kill chain</a> ·
+<a href="#-arsenal">arsenal</a> ·
+<a href="#-operations">operations</a> ·
+<a href="#-career-log">career</a> ·
+<a href="#-certs">certs</a> ·
+<a href="#-activity">activity</a>
 </sub>
 
 </div>
 
 ---
 
-## 👋 About
+## 💀 whoami
 
-Lead Cybersecurity Engineer with **14+ years in IT** and **7+ years focused on offensive security, vulnerability management and SOC operations**. I help organisations find and fix weaknesses before attackers do — from web application pentests to enterprise-scale EDR/XDR detection engineering.
-
-```yaml
-role:        Lead Cybersecurity Engineer
-focus:       [Pentesting, Vulnerability Management, Threat Hunting, EDR/XDR]
-frameworks:  [MITRE ATT&CK, OWASP Top 10, NIST CSF, ISO 27001]
-currently:   Exploring LLM application security & offensive AI testing
-open_to:     Security collaboration, research and knowledge sharing
+```console
+root@rochacrypt:~# cat profile.txt
+name       : Alexandre Rocha
+role       : Lead Cybersecurity Engineer — Offensive Security
+experience : 14+ yrs IT · 7+ yrs offensive security, vuln management & SOC
+base       : Dublin, Ireland  [EN | PT-BR]
+mindset    : think like an attacker, report like a consultant
+frameworks : MITRE ATT&CK · OWASP Top 10 · NIST CSF · ISO 27001
+researching: LLM application security & offensive AI testing
+rules      : authorised targets only. always.
 ```
 
 ---
 
-## 🎯 What I Do
+## 🎯 Kill Chain
 
-| Area | In practice |
-| :--- | :--- |
-| **Offensive Security** | Web app (OWASP), network and infrastructure pentests; enumeration, manual exploitation and threat simulation |
-| **Vulnerability Management** | Asset discovery, Qualys VMDR/WAS scanning workflows, custom QQL and risk-based remediation plans |
-| **Detection & Response** | L3 incident escalation, threat hunting, endpoint isolation and forensic triage with CrowdStrike Falcon RTR |
-| **Reporting & Governance** | Technical pentest reports and executive summaries that translate risk into business decisions |
+How I work an engagement — from first packet to executive report.
 
----
+```mermaid
+flowchart LR
+    A[🔍 Recon<br/>OSINT · footprinting] --> B[🚪 Initial Access<br/>web · network · auth]
+    B --> C[💥 Exploitation<br/>manual · Metasploit]
+    C --> D[🧗 Post-Exploitation<br/>privesc · lateral movement]
+    D --> E[🛡️ Detection Review<br/>what did the EDR/SIEM see?]
+    E --> F[📄 Report<br/>technical + executive]
+    style A fill:#0d1117,stroke:#ff2e4c,color:#ffffff
+    style B fill:#0d1117,stroke:#ff2e4c,color:#ffffff
+    style C fill:#3a0008,stroke:#ff2e4c,color:#ffffff
+    style D fill:#3a0008,stroke:#ff2e4c,color:#ffffff
+    style E fill:#0d1117,stroke:#8b949e,color:#ffffff
+    style F fill:#0d1117,stroke:#8b949e,color:#ffffff
+```
 
-## 🧰 Products & Platforms
-
-Platforms I deploy, operate or assess in production environments.
-
-| Category | Products | How I use them |
+| Phase | MITRE ATT&CK | What I do |
 | :--- | :--- | :--- |
-| **EDR / XDR** | CrowdStrike Falcon | Policy tuning, RTR triage, host isolation, threat hunting |
-| **Vulnerability Management** | Qualys VMDR, Qualys WAS | Asset discovery, scan orchestration, QQL dashboards, remediation tracking |
-| **SIEM / SOC** | FortiSIEM | Correlation rules, use-case engineering, alert triage |
-| **Network Security** | Fortinet FortiGate | Firewall policies, VPN tunnels, segmentation |
-| **Edge / WAF** | Cloudflare | WAF rules, DDoS protection, access policies |
-| **Identity** | Keycloak | SSO / OIDC configuration and hardening |
-| **Offensive Tooling** | Burp Suite, Metasploit, Nmap, Kali Linux | Web and network assessments, exploitation |
-| **Reporting** | SysReptor | Pentest findings management and report generation |
-| **Cloud & Automation** | AWS, Docker, Python, PowerShell, Bash | Tooling, automation and lab environments |
-<!-- ADD: other products from LinkedIn (e.g. other EDRs, SIEMs, scanners, cloud platforms) -->
-
-<details>
-<summary><b>Tech stack badges</b></summary>
-<br/>
-
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" alt="Nmap"/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-<img src="https://img.shields.io/badge/Qualys_VMDR-ED2E26?style=flat-square" alt="Qualys VMDR"/>
-<img src="https://img.shields.io/badge/CrowdStrike_Falcon-E01F3D?style=flat-square" alt="CrowdStrike Falcon"/>
-<img src="https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="FortiGate"/>
-<img src="https://img.shields.io/badge/FortiSIEM-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="FortiSIEM"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square" alt="PowerShell"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS"/>
-
-</details>
+| **Recon** | TA0043 | Network footprinting, service enumeration, attack-surface mapping |
+| **Initial Access** | TA0001 | Web application testing against OWASP Top 10, exposed services, weak auth |
+| **Exploitation** | TA0002 | Manual exploitation and controlled threat simulation |
+| **Post-Exploitation** | TA0004 · TA0008 | Privilege escalation and lateral movement paths |
+| **Detection Review** | — | Purple-team view: validating what CrowdStrike Falcon and FortiSIEM actually caught |
+| **Report** | — | Evidence-driven findings, risk ratings and remediation for tech and exec audiences |
 
 ---
 
-## 🏗️ Projects
+## ⚔️ Arsenal
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🔴 Offensive**
+
+| Use | Tools |
+| :--- | :--- |
+| Recon & enumeration | Nmap, Kali Linux |
+| Web app testing | Burp Suite, OWASP methodology |
+| Exploitation | Metasploit |
+| Vuln discovery | Qualys VMDR / WAS, custom QQL |
+| Reporting | SysReptor |
+<!-- ADD more offensive tools -->
+
+</td>
+<td valign="top" width="50%">
+
+**🔵 Defenses I operate & test against**
+
+| Use | Platforms |
+| :--- | :--- |
+| EDR / XDR | CrowdStrike Falcon (RTR) |
+| SIEM | FortiSIEM |
+| Firewall / VPN | Fortinet FortiGate |
+| Edge / WAF | Cloudflare |
+| Identity / SSO | Keycloak |
+<!-- ADD more platforms -->
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=ff2e4c"/>
+<img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=ff2e4c"/>
+<img src="https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=ff2e4c"/>
+<img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/OWASP-0d1117?style=flat-square&logo=owasp&logoColor=ff2e4c"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ff2e4c"/>
+<img src="https://img.shields.io/badge/PowerShell-0d1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=ff2e4c"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=ff2e4c"/>
+<img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square"/>
+
+</div>
+
+---
+
+## 🗂️ Operations
 
 <!--
-ADD only real projects. Template (one block per project):
+ADD only real engagements/projects. Client names omitted for confidentiality.
 
 <details>
-<summary><b>Project name</b> · Year · <code>Tag</code> <code>Tag</code></summary>
+<summary><b>[OP-01] Engagement name</b> · Year · <code>Web</code> <code>Internal</code></summary>
 <br/>
 
-- **Context:** what was needed
-- **What I did:** your role and actions
-- **Result:** measurable outcome
+- **Scope:** what was tested
+- **Approach:** techniques / ATT&CK tactics used
+- **Impact:** key finding type and business risk (no sensitive details)
+- **Outcome:** what got fixed / measurable result
 
 </details>
 -->
 
+> 🔒 Engagement details are confidential. Sanitised write-ups coming soon.
+
 ---
 
-## 💼 Experience
+## 📜 Career Log
+
+```console
+root@rochacrypt:~# cat /var/log/career.log
+```
 
 **Lead Cybersecurity Engineer** · Claranet
 <br/><sub>Jun 2020 – Present · Dublin, Ireland (remote) & São Paulo, Brazil</sub>
-- Lead web application, network and infrastructure pentests for managed enterprise clients
-- Run continuous vulnerability management programmes with Qualys VMDR and custom QQL
-- Act as L3 escalation point for complex incidents, threat hunting and containment
-- Manage CrowdStrike Falcon EDR/XDR and engineer SOC correlation rules in FortiSIEM
-<!-- If LinkedIn lists separate positions inside Claranet (e.g. Analyst → Senior → Lead), list each with its dates -->
+- Lead web application, network and infrastructure penetration tests for managed enterprise clients
+- Run continuous vulnerability management with Qualys VMDR and custom QQL
+- L3 escalation for complex incidents, threat hunting and containment
+- Operate CrowdStrike Falcon EDR/XDR and engineer FortiSIEM correlation rules
+<!-- If you held several positions at Claranet, list each with its dates -->
 
 **Network & Telecommunications Engineer** · Amistad Networks
 <br/><sub>Jul 2015 – Mar 2019 · Brazil</sub>
-- Deployed and secured core networks, firewalls, routing and encrypted VPN tunnels
+- Deployed and hardened core networks, firewalls, routing and encrypted VPN tunnels
 
 <details>
 <summary><b>Earlier experience</b></summary>
 <br/>
 
-<!-- ADD earlier roles from LinkedIn (supports the "14+ years in IT" claim) -->
+<!-- ADD earlier roles -->
 
 </details>
 
 ---
 
-## 🎓 Certifications & Education
+## 🏴 Certs
 
-| Certifications | Education |
+```console
+root@rochacrypt:~# ls ~/certs
+```
+
+| Certification | Issuer |
 | :--- | :--- |
-| **CEH** — Certified Ethical Hacker (EC-Council) | **Postgraduate, Cybersecurity** — Instituto Daryus (2023–2024) |
-| **CCFA** — CrowdStrike Certified Falcon Administrator | **BSc, Information Security Management** — UNINOVE (2018–2021) |
-| **CLLMSP** — Certified LLM Security Professional | |
-| **Fortinet Certified Associate** in Cybersecurity | |
-| **EC-Council EHE & NDE** · **AWS** Architecting on AWS (training) | |
+| **CEH** — Certified Ethical Hacker | EC-Council |
+| **CCFA** — CrowdStrike Certified Falcon Administrator | CrowdStrike |
+| **CLLMSP** — Certified LLM Security Professional | — |
+| **Certified Associate in Cybersecurity** | Fortinet |
+| **Ethical Hacking Essentials** · **Network Defense Essentials** | EC-Council |
+| **Architecting on AWS** (training) | AWS |
+
+🎓 **Postgraduate, Cybersecurity** — Instituto Daryus (2023–2024) · **BSc, Information Security Management** — UNINOVE (2018–2021)
 
 ---
 
-## 📊 Live Stats
+## 📡 Activity
+
+```console
+root@rochacrypt:~# tail -f activity.log
+```
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=RochaCrypt&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=RochaCrypt&theme=dark&hide_border=true&background=0d1117&ring=ff2e4c&fire=ff2e4c&currStreakNum=ffffff&sideNums=ff2e4c&currStreakLabel=ff2e4c&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" alt="Contribution streak"/>
 
 <br/><br/>
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%"/>
-
-<br/>
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution calendar" width="100%"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RochaCrypt/RochaCrypt/output/snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/RochaCrypt/RochaCrypt/output/snake.svg" alt="Contribution snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/RochaCrypt/RochaCrypt/output/snake.svg" alt="Contribution snake" width="100%"/>
 </picture>
 
-<!-- Offensive-security platforms: uncomment and replace YOUR_USER / YOUR_ID -->
+<!-- Uncomment and replace YOUR_USER / YOUR_ID -->
 <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_USER.png" alt="TryHackMe"/> -->
 <!-- <img src="https://www.hackthebox.com/badge/image/YOUR_ID" alt="Hack The Box"/> -->
 
@@ -173,7 +221,13 @@ ADD only real projects. Template (one block per project):
 ---
 
 <div align="center">
-<sub>🔐 Security is a process, not a product. · Always hack ethically and with authorisation.</sub>
-<br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:0d1117&height=100&section=footer" width="100%" alt=""/>
+
+```console
+[!] All techniques and tooling are used exclusively in authorised engagements.
+```
+
+<sub>🔐 Security is a process, not a product.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e4c,50:3a0008,100:000000&height=100&section=footer" width="100%" alt=""/>
+
 </div>
