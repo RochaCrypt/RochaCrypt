@@ -15,15 +15,21 @@
 
 <br/><br/>
 
-[![Summary](https://img.shields.io/badge/›-Summary-0d1117?style=for-the-badge&labelColor=ff2e4c)](#summary)
-[![News](https://img.shields.io/badge/›-News-0d1117?style=for-the-badge&labelColor=ff2e4c)](#latest-in-cybersecurity)
-[![Pulse](https://img.shields.io/badge/›-Pulse-0d1117?style=for-the-badge&labelColor=ff2e4c)](https://rochacrypt.github.io/cyber-pulse/)
-[![Expertise](https://img.shields.io/badge/›-Expertise-0d1117?style=for-the-badge&labelColor=ff2e4c)](#core-expertise)
-[![Experience](https://img.shields.io/badge/›-Experience-0d1117?style=for-the-badge&labelColor=ff2e4c)](#experience)
-[![Technologies](https://img.shields.io/badge/›-Technologies-0d1117?style=for-the-badge&labelColor=ff2e4c)](#technologies)
-[![Knowledge Base](https://img.shields.io/badge/›-Knowledge_Base-0d1117?style=for-the-badge&labelColor=ff2e4c)](#projects-and-knowledge-base)
-[![Certifications](https://img.shields.io/badge/›-Certifications-0d1117?style=for-the-badge&labelColor=ff2e4c)](#certifications-and-education)
-[![Activity](https://img.shields.io/badge/›-Activity-0d1117?style=for-the-badge&labelColor=ff2e4c)](#activity)
+**Live links**
+
+[![Cyber Pulse](https://img.shields.io/badge/▶-Cyber_Pulse_·_live_news-ff2e4c?style=for-the-badge&labelColor=0d1117)](https://rochacrypt.github.io/cyber-pulse/)
+[![Arsenal](https://img.shields.io/badge/▶-Arsenal_·_112_tools-ff2e4c?style=for-the-badge&labelColor=0d1117)](https://rochacrypt.github.io/arsenal/)
+[![Knowledge Base](https://img.shields.io/badge/▶-Knowledge_Base_·_50_maps-ff2e4c?style=for-the-badge&labelColor=0d1117)](https://github.com/RochaCrypt/security-knowledge-base)
+
+**Jump to** (opens in the repo view)
+
+[![Summary](https://img.shields.io/badge/›-Summary-0d1117?style=flat-square&labelColor=3a0008)](#summary)
+[![News](https://img.shields.io/badge/›-News-0d1117?style=flat-square&labelColor=3a0008)](#latest-in-cybersecurity)
+[![Expertise](https://img.shields.io/badge/›-Expertise-0d1117?style=flat-square&labelColor=3a0008)](#core-expertise)
+[![Experience](https://img.shields.io/badge/›-Experience-0d1117?style=flat-square&labelColor=3a0008)](#experience)
+[![Technologies](https://img.shields.io/badge/›-Technologies-0d1117?style=flat-square&labelColor=3a0008)](#technologies)
+[![Certifications](https://img.shields.io/badge/›-Certifications-0d1117?style=flat-square&labelColor=3a0008)](#certifications-and-education)
+[![Activity](https://img.shields.io/badge/›-Activity-0d1117?style=flat-square&labelColor=3a0008)](#activity)
 
 </div>
 
