@@ -17,6 +17,7 @@
 <a href="#-whoami">whoami</a> ·
 <a href="#-kill-chain">kill chain</a> ·
 <a href="#-arsenal">arsenal</a> ·
+<a href="#-projects">projects</a> ·
 <a href="#-operations">operations</a> ·
 <a href="#-career-log">career</a> ·
 <a href="#-certs">certs</a> ·
@@ -76,6 +77,14 @@ flowchart LR
 
 ## ⚔️ Arsenal
 
+<div align="center">
+
+### 🧰 [**Browse my full arsenal — 112 tools, searchable →**](https://rochacrypt.github.io/arsenal/)
+
+<sub>An interactive catalog of security tooling, segmented by function · <a href="https://github.com/RochaCrypt/arsenal">repo</a></sub>
+
+</div>
+
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -89,7 +98,6 @@ flowchart LR
 | Exploitation | Metasploit |
 | Vuln discovery | Qualys VMDR / WAS, custom QQL |
 | Reporting | SysReptor |
-<!-- ADD more offensive tools -->
 
 </td>
 <td valign="top" width="50%">
@@ -127,6 +135,41 @@ flowchart LR
 
 ---
 
+## 🗂️ Projects
+
+```console
+root@rochacrypt:~# ls ~/projects
+```
+
+<div align="center">
+
+<a href="https://github.com/RochaCrypt/arsenal"><img src="https://img.shields.io/badge/🧰_Arsenal-0d1117?style=for-the-badge&logo=gnubash&logoColor=ff2e4c" alt="Arsenal"/></a>
+<a href="https://github.com/RochaCrypt/security-knowledge-base"><img src="https://img.shields.io/badge/🧠_Knowledge_Base-0d1117?style=for-the-badge&logo=bookstack&logoColor=ff2e4c" alt="Knowledge Base"/></a>
+
+</div>
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| [**🧰 Arsenal**](https://github.com/RochaCrypt/arsenal) | Interactive catalog of 112 security tools + my own scripts | `Bash` `Python` `PowerShell` `HTML` |
+| [**🧠 Security Knowledge Base**](https://github.com/RochaCrypt/security-knowledge-base) | 50 certification & framework mind maps | `Docs` `Mermaid` |
+
+<!--
+ADD your own projects below — one row per project, or a detailed block:
+
+<details>
+<summary><b>Project name</b> · Year · <code>Tag</code> <code>Tag</code></summary>
+<br/>
+
+- **What it is:** one-line description
+- **What I built:** your role and the key features
+- **Result:** outcome or metric
+- 🔗 [Repository](https://github.com/RochaCrypt/REPO)
+
+</details>
+-->
+
+---
+
 ## 🗂️ Operations
 
 <!--
@@ -154,19 +197,19 @@ ADD only real engagements/projects. Client names omitted for confidentiality.
 root@rochacrypt:~# cd ~/knowledge-base && ls
 ```
 
-Mind maps and study notes for every certification I hold — open, free and built from real engagement experience.
+A catalog of **50 security certifications & frameworks** — each with what it is, what it validates, key concepts and a mind map. Marked ✔️ are ones I hold.
 
 <div align="center">
 
 | | Map | What's inside |
 | :-: | :--- | :--- |
-| ⚔️ | [**CEH**](https://github.com/RochaCrypt/security-knowledge-base/blob/main/certs/ceh.md) | 5 phases of hacking, 20 modules, Nmap cheat sheet |
-| 🦅 | [**CCFA**](https://github.com/RochaCrypt/security-knowledge-base/blob/main/certs/ccfa.md) | Falcon policies, exclusions, RTR in practice |
-| 🤖 | [**CLLMSP**](https://github.com/RochaCrypt/security-knowledge-base/blob/main/certs/cllmsp.md) | OWASP Top 10 for LLMs (2025) |
-| 🧱 | [**Fortinet FCA**](https://github.com/RochaCrypt/security-knowledge-base/blob/main/certs/fortinet-fca.md) | Firewall & FortiGate fundamentals |
-| 🛡️ | [**EHE & NDE**](https://github.com/RochaCrypt/security-knowledge-base/blob/main/certs/ehe-nde.md) | Attack vs defend foundations |
+| ⚔️ | [**CEH**](https://github.com/RochaCrypt/security-knowledge-base/blob/main/catalog/ceh.md) ✔️ | 5 phases of hacking, 20 modules, Nmap cheat sheet |
+| 🦅 | [**CCFA**](https://github.com/RochaCrypt/security-knowledge-base/blob/main/catalog/ccfa.md) ✔️ | Falcon policies, exclusions, RTR in practice |
+| 🤖 | [**CLLMSP**](https://github.com/RochaCrypt/security-knowledge-base/blob/main/catalog/cllmsp.md) ✔️ | OWASP Top 10 for LLM applications |
+| 🗡️ | [**OSCP**](https://github.com/RochaCrypt/security-knowledge-base/blob/main/catalog/oscp.md) | Hands-on pentest benchmark |
+| 🏛️ | [**CISSP**](https://github.com/RochaCrypt/security-knowledge-base/blob/main/catalog/cissp.md) | Senior security management |
 
-<a href="https://github.com/RochaCrypt/security-knowledge-base"><img src="https://img.shields.io/badge/Open_the_Knowledge_Base-0d1117?style=for-the-badge&logo=github&logoColor=ff2e4c" alt="Open the Knowledge Base"/></a>
+<a href="https://github.com/RochaCrypt/security-knowledge-base"><img src="https://img.shields.io/badge/Open_the_Knowledge_Base_(50_maps)-0d1117?style=for-the-badge&logo=github&logoColor=ff2e4c" alt="Open the Knowledge Base"/></a>
 
 </div>
 
