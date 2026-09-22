@@ -17,6 +17,7 @@
 
 [![Summary](https://img.shields.io/badge/›-Summary-0d1117?style=for-the-badge&labelColor=ff2e4c)](#summary)
 [![News](https://img.shields.io/badge/›-News-0d1117?style=for-the-badge&labelColor=ff2e4c)](#latest-in-cybersecurity)
+[![Pulse](https://img.shields.io/badge/›-Pulse-0d1117?style=for-the-badge&labelColor=ff2e4c)](https://rochacrypt.github.io/cyber-pulse/)
 [![Expertise](https://img.shields.io/badge/›-Expertise-0d1117?style=for-the-badge&labelColor=ff2e4c)](#core-expertise)
 [![Experience](https://img.shields.io/badge/›-Experience-0d1117?style=for-the-badge&labelColor=ff2e4c)](#experience)
 [![Technologies](https://img.shields.io/badge/›-Technologies-0d1117?style=for-the-badge&labelColor=ff2e4c)](#technologies)
@@ -26,22 +27,38 @@
 
 </div>
 
+```text
+$ ./init rochacrypt --profile
+[  OK  ] mount  knowledge-base ......................... 50 maps
+[  OK  ] load   arsenal ................................ 112 tools
+[  OK  ] start  threat-intel feed (cyber-pulse) ........ live
+[  OK  ] module offensive-security ..................... ready
+[  OK  ] module detection-and-response ................. ready
+[  OK  ] module vulnerability-management ............... ready
+[ INFO ] operator ................................. Alexandre Rocha
+[ INFO ] location ................................. Dublin, IE
+[ INFO ] clearance ............................... authorised engagements only
+system online.
+```
+
 ---
 
 ## Summary
 
 ```text
-                          alexandre@rochacrypt
+                          operator@rochacrypt
         .:~!!!!!~:.       ------------------------------------------------
-      :!!!!!!!!!!!!!:     Role........  Lead Cybersecurity Engineer
-     !!!!!!!!!!!!!!!!!    Discipline..  Offensive Security · Detection · Response
-    !!!!!:     :!!!!!!    Experience..  14+ years in IT · 7+ years in security
-    !!!!.        .::::    Location....  Dublin, Ireland
-    !!!!!:     :!!!!!!    Languages...  PT-BR (native) · EN (professional) · ES (basic)
-     !!!!!!!!!!!!!!!!!    Frameworks..  MITRE ATT&CK · OWASP · NIST CSF · ISO 27001
-      :!!!!!!!!!!!!!:     Researching.  LLM application security · offensive AI
-        .:~!!!!!~:.       Credentials.  CEH · CCFA · CLLMSP
-                          Principle...  Think like an attacker, report like a consultant
+      :!!!!!!!!!!!!!:     host.......  rochacrypt
+     !!!!!!!!!!!!!!!!!    role.......  Lead Cybersecurity Engineer
+    !!!!!:     :!!!!!!    uptime.....  14+ yrs in IT · 7+ yrs in security
+    !!!!.        .::::    shell......  offensive-security · detection · response
+    !!!!!:     :!!!!!!    location...  Dublin, Ireland
+     !!!!!!!!!!!!!!!!!    lang.......  PT-BR · EN · ES
+      :!!!!!!!!!!!!!:     stack......  MITRE ATT&CK · OWASP · NIST CSF · ISO 27001
+        .:~!!!!!~:.       services...  pentest · vuln-mgmt · EDR/XDR · SOC  [online]
+                          research...  LLM application security · offensive AI
+                          creds......  CEH · CCFA · CLLMSP
+                          status.....  operational · authorised targets only
 ```
 
 Cybersecurity professional with over 14 years in IT and 7+ years specialising in
@@ -56,40 +73,13 @@ engineering and executive audiences.
 
 ## Latest in Cybersecurity
 
+```console
+root@rochacrypt:~# tail -n 8 /var/log/threat-intel   # full feed at cyber-pulse
+```
+
+<div align="center"><a href="https://rochacrypt.github.io/cyber-pulse/"><img src="https://img.shields.io/badge/Open_Cyber_Pulse_—_live_news_portal-0d1117?style=for-the-badge&labelColor=ff2e4c" alt="Cyber Pulse"/></a></div>
+
 <!-- CYBER-NEWS:START -->
-
-**[Chinese hackers exploit multiple technologies to steal govt data](https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/)**  
-A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from…  
-<sub>`BleepingComputer`</sub>
-
-**[Microsoft Disrupts EvilTokens Device Code Phishing Service](https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service)**  
-Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform…  
-<sub>`Dark Reading`</sub>
-
-**[ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/)**  
-The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal…  
-<sub>`BleepingComputer`</sub>
-
-**[Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks](https://thehackernews.com/2026/09/check-point-warns-of-management-server.html)**  
-Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23, the company…  
-<sub>`The Hacker News`</sub>
-
-**[New ClosedQuorum Windows malware uses AI for attack decisions](https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/)**  
-A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take…  
-<sub>`BleepingComputer`</sub>
-
-**[WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers](https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html)**  
-WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme…  
-<sub>`The Hacker News`</sub>
-
-**[Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials](https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html)**  
-Cybersecurity researchers have disclosed details of a malicious npm package named "tw-pkgprobe-7731" that masquerades as a security tool targeting…  
-<sub>`The Hacker News`</sub>
-
-**[BigCommerce Data Stolen via Ribon Apps Hack](https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/)**  
-The attackers used a compromised BigCommerce application key held by Ribon to access customer data. The post BigCommerce Data Stolen via Ribon Apps…  
-<sub>`SecurityWeek`</sub>
-
 <!-- CYBER-NEWS:END -->
 
 <sub>Auto-updated every 6 hours from The Hacker News, BleepingComputer, Krebs on Security, Dark Reading, SecurityWeek, The Record and CISA advisories. Headlines link to the original source.</sub>
