@@ -1,0 +1,33 @@
+name: Cyber News Feed
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:          # manual run from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    name: Update README with latest cybersecurity news
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest cybersecurity headlines
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "CYBER-NEWS"
+          commit_message: "chore: refresh cybersecurity news feed"
+          max_post_count: 12
+          template: "| [$title]($url) | `$newline` |"
+          feed_list: >-
+            https://feeds.feedburner.com/TheHackersNews,
+            https://www.bleepingcomputer.com/feed/,
+            https://krebsonsecurity.com/feed/,
+            https://www.darkreading.com/rss.xml,
+            https://www.securityweek.com/feed/,
+            https://therecord.media/feed/,
+            https://www.cisa.gov/cybersecurity-advisories/all.xml
