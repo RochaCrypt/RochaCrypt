@@ -20,6 +20,7 @@
 <a href="#-operations">operations</a> ·
 <a href="#-career-log">career</a> ·
 <a href="#-certs">certs</a> ·
+<a href="#-studies">studies</a> ·
 <a href="#-activity">activity</a>
 </sub>
 
@@ -144,6 +145,30 @@ ADD only real engagements/projects. Client names omitted for confidentiality.
 -->
 
 > 🔒 Engagement details are confidential. Sanitised write-ups coming soon.
+
+---
+
+## 🧠 Studies
+
+```console
+root@rochacrypt:~# cd ~/knowledge-base && ls
+```
+
+Mind maps and study notes for every certification I hold — open, free and built from real engagement experience.
+
+<div align="center">
+
+| | Map | What's inside |
+| :-: | :--- | :--- |
+| ⚔️ | [**CEH**](https://github.com/RochaCrypt/security-knowledge-base/blob/main/certs/ceh.md) | 5 phases of hacking, 20 modules, Nmap cheat sheet |
+| 🦅 | [**CCFA**](https://github.com/RochaCrypt/security-knowledge-base/blob/main/certs/ccfa.md) | Falcon policies, exclusions, RTR in practice |
+| 🤖 | [**CLLMSP**](https://github.com/RochaCrypt/security-knowledge-base/blob/main/certs/cllmsp.md) | OWASP Top 10 for LLMs (2025) |
+| 🧱 | [**Fortinet FCA**](https://github.com/RochaCrypt/security-knowledge-base/blob/main/certs/fortinet-fca.md) | Firewall & FortiGate fundamentals |
+| 🛡️ | [**EHE & NDE**](https://github.com/RochaCrypt/security-knowledge-base/blob/main/certs/ehe-nde.md) | Attack vs defend foundations |
+
+<a href="https://github.com/RochaCrypt/security-knowledge-base"><img src="https://img.shields.io/badge/Open_the_Knowledge_Base-0d1117?style=for-the-badge&logo=github&logoColor=ff2e4c" alt="Open the Knowledge Base"/></a>
+
+</div>
 
 ---
 
