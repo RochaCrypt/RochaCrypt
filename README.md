@@ -23,7 +23,7 @@
 <br/>
 
 <a href="https://rochacrypt.github.io/cyber-pulse/"><img src="https://img.shields.io/badge/▶_Cyber_Pulse-live_news_portal-FF2E4C?style=for-the-badge&labelColor=0d1117" alt="Cyber Pulse"/></a>
-<a href="https://rochacrypt.github.io/arsenal/"><img src="https://img.shields.io/badge/▶_Arsenal-112_tools-8A63FF?style=for-the-badge&labelColor=0d1117" alt="Arsenal"/></a>
+<a href="https://rochacrypt.github.io/arsenal/"><img src="https://img.shields.io/badge/▶_Arsenal-230_tools-8A63FF?style=for-the-badge&labelColor=0d1117" alt="Arsenal"/></a>
 <a href="https://github.com/RochaCrypt/security-knowledge-base"><img src="https://img.shields.io/badge/▶_Knowledge_Base-50_maps-2ECC71?style=for-the-badge&labelColor=0d1117" alt="Knowledge Base"/></a>
 
 </div>
@@ -32,16 +32,21 @@
 
 ## Summary
 
-Cybersecurity professional with over **14 years in IT** and **7+ years specialising in information security, security operations and cybersecurity consulting**. I lead security initiatives across enterprise and multi-tenant environments, combining technical depth in penetration testing, vulnerability management, incident response and EDR/XDR with a consultative, business-focused approach — translating technical risk into clear reporting for both engineering and executive audiences.
+Cybersecurity leader with over 14 years of IT experience, including 7+ years specialising in Information Security, Security Operations and Cybersecurity Consulting. I combine deep technical expertise with a strategic mindset to help organisations strengthen their security posture, reduce risk and protect business continuity.
+Based in Dublin, Ireland, I lead cybersecurity initiatives across enterprise and multi-tenant environments, aligning security strategy with business objectives to ensure that technical decisions translate into measurable value for clients and stakeholders.
+My expertise spans Security Operations, Incident Response, Vulnerability Management, Penetration Testing, Threat Detection & Response, Security Architecture, EDR/XDR and Cybersecurity Strategy, applied across Private Cloud, Public Cloud and Hybrid Cloud environments, with alignment to frameworks such as NIST CSF, ISO 27001 and MITRE ATT&CK.
+Throughout my career, I have led cybersecurity programmes spanning SOC development, EDR/XDR deployments, vulnerability remediation, offensive security engagements and cloud security initiatives. I focus on translating complex technical findings into clear, actionable insights for both technical teams and executive stakeholders, ensuring that security investments deliver tangible business outcomes.
+I add value to clients by combining operational excellence with a consultative approach, understanding not only the technical risk but also the business impact behind every security decision.
+I hold a Bachelor's Degree in Information Security Management, a Postgraduate Degree in Cybersecurity, and industry certifications including CrowdStrike Certified Falcon Administrator (CCFA), Certified Ethical Hacker (CEH) and Certified LLM Security Professional (CLLMSP).
+I'm always open to connecting with cybersecurity professionals, SOC teams and leaders shaping the future of enterprise security, and to exploring opportunities where I can bridge technical depth with strategic risk management to drive real business value.
 
 | | |
 | :--- | :--- |
-| **Role** | Lead Cybersecurity Engineer |
-| **Focus** | Offensive Security · Detection · Response |
+| **Role** | Lead Cybersecurity Specialist (or Offensive & SecOps Lead) |
+| **Focus** | Offensive Security · Threat-Informed SecOps · Purple Teaming |
 | **Location** | Dublin, Ireland |
 | **Languages** | Portuguese (native) · English (professional) · Spanish (basic) |
 | **Frameworks** | MITRE ATT&CK · OWASP · NIST CSF · ISO 27001 |
-| **Focus now** | LLM application security · offensive AI |
 | **Credentials** | CEH · CCFA · CLLMSP |
 
 ---
@@ -61,12 +66,12 @@ Cybersecurity professional with over **14 years in IT** and **7+ years specialis
 
 | Area | Focus |
 | :--- | :--- |
-| **Offensive Security** | Web application, network and infrastructure penetration testing; manual exploitation; controlled threat simulation |
-| **Vulnerability Management** | Enterprise asset discovery, Qualys VMDR/WAS, custom QQL, risk-based remediation planning |
-| **Detection & Response** | EDR/XDR operations (CrowdStrike Falcon), threat hunting, forensic triage, Level 3 incident response |
-| **Security Operations** | SIEM engineering (FortiSIEM), correlation rules, monitoring use cases, SOC capability development |
-| **Cloud & Architecture** | Private, Public and Hybrid cloud security; security architecture design and review |
-| **Governance & Reporting** | NIST CSF, ISO 27001, MITRE ATT&CK and OWASP alignment; technical and executive reporting |
+| **Offensive Security** | Penetration testing (web, network, infrastructure), breach & attack simulation (BAS), and Purple Teaming to validate detection controls |
+| **Vulnerability Management** | Risk-based vulnerability management, Qualys VMDR/WAS, advanced QQL reporting, and automated remediation workflows |
+| **Detection & Response** | Enterprise EDR/XDR operations (CrowdStrike Falcon), proactive threat hunting, forensic triage, and Level 3 incident response |
+| **Security Operations** | Threat-informed SecOps, SIEM engineering (FortiSIEM), custom correlation rules, and SOC capability maturity development |
+| **Cloud & Architecture** | Multi-cloud and hybrid security architecture, cloud workload protection, and secure infrastructure design |
+| **Governance & Strategy** | NIST CSF, ISO 27001, MITRE ATT&CK and OWASP alignment; translating technical risk into actionable business insights |
 
 ---
 
@@ -172,7 +177,7 @@ Open resources I build and maintain.
 | Repository | Description | Stack |
 | :--- | :--- | :--- |
 | **[Cyber Pulse](https://github.com/RochaCrypt/cyber-pulse)** | Auto-updating cybersecurity news portal, refreshed every 3 hours. [Live](https://rochacrypt.github.io/cyber-pulse/). | `Python` · `HTML` · `Actions` |
-| **[Arsenal](https://github.com/RochaCrypt/arsenal)** | Interactive catalog of 112 security tools plus my own operational scripts. [Live](https://rochacrypt.github.io/arsenal/). | `Bash` · `Python` · `PowerShell` · `HTML` |
+| **[Arsenal](https://github.com/RochaCrypt/arsenal)** | Interactive catalog of 230 security tools plus my own operational scripts. [Live](https://rochacrypt.github.io/arsenal/). | `Bash` · `Python` · `PowerShell` · `HTML` |
 | **[Security Knowledge Base](https://github.com/RochaCrypt/security-knowledge-base)** | 50 certification and framework references — what each is, what it validates, key concepts and a mind map. | `Docs` · `Mermaid` |
 
 ---
