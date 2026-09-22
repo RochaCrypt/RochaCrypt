@@ -34,7 +34,7 @@ root@rochacrypt:~# cat profile.txt
 name       : Alexandre Rocha
 role       : Lead Cybersecurity Engineer — Offensive Security
 experience : 14+ yrs IT · 7+ yrs offensive security, vuln management & SOC
-base       : Dublin, Ireland  [EN | PT-BR]
+base       : Dublin, Ireland  [PT-BR native | EN professional | ES basic]
 mindset    : think like an attacker, report like a consultant
 frameworks : MITRE ATT&CK · OWASP Top 10 · NIST CSF · ISO 27001
 researching: LLM application security & offensive AI testing
@@ -97,12 +97,13 @@ flowchart LR
 
 | Use | Platforms |
 | :--- | :--- |
-| EDR / XDR | CrowdStrike Falcon (RTR) |
+| EDR / XDR / MDR | CrowdStrike Falcon (RTR), FortiEDR |
 | SIEM | FortiSIEM |
-| Firewall / VPN | Fortinet FortiGate |
-| Edge / WAF | Cloudflare |
+| Firewall / VPN | Fortinet FortiGate, FortiManager |
+| Network defence | IDS/IPS, Web Filtering, Application Control |
+| Edge / WAF / DDoS | Cloudflare, WAF & DDoS protection |
 | Identity / SSO | Keycloak |
-<!-- ADD more platforms -->
+| Cloud | Private, Public & Hybrid Cloud security |
 
 </td>
 </tr>
@@ -149,26 +150,80 @@ ADD only real engagements/projects. Client names omitted for confidentiality.
 ## 📜 Career Log
 
 ```console
-root@rochacrypt:~# cat /var/log/career.log
+root@rochacrypt:~# cat /var/log/career.log | grep privesc
+[2015] tech support ─► [2017] network eng ─► [2019] jr sec analyst ─► [2020] sec analyst
+       ─► [2021] cyber engineer ─► [2024] senior analyst ─► [2026] lead engineer   # uid=0(root)
 ```
 
-**Lead Cybersecurity Engineer** · Claranet
-<br/><sub>Jun 2020 – Present · Dublin, Ireland (remote) & São Paulo, Brazil</sub>
-- Lead web application, network and infrastructure penetration tests for managed enterprise clients
-- Run continuous vulnerability management with Qualys VMDR and custom QQL
-- L3 escalation for complex incidents, threat hunting and containment
-- Operate CrowdStrike Falcon EDR/XDR and engineer FortiSIEM correlation rules
-<!-- If you held several positions at Claranet, list each with its dates -->
+### 🏢 Claranet
+<sub>Mar 2019 – Present · 7+ years · Managed security & cloud services provider</sub>
 
-**Network & Telecommunications Engineer** · Amistad Networks
-<br/><sub>Jul 2015 – Mar 2019 · Brazil</sub>
-- Deployed and hardened core networks, firewalls, routing and encrypted VPN tunnels
+**Lead Cybersecurity Engineer**
+<br/><sub>Mar 2026 – Present · Dublin, Ireland (remote)</sub>
+- Lead technical cybersecurity initiatives across Private, Public and Hybrid Cloud customer environments
+- Lead penetration testing across infrastructure, network and web applications
+- Design, implement and manage EDR/XDR solutions, including CrowdStrike Falcon
+- Lead incident response investigations and threat analysis; Level 3 escalation for incidents and complex projects
+- Perform vulnerability assessments, risk analysis and remediation planning; support SOC capability design
+- Review and approve security architectures for customer projects
+- Deliver executive and technical reports and mentor security teams
+- Align delivery with NIST CSF, MITRE ATT&CK, OWASP and ISO 27001
+
+**Senior Cybersecurity Analyst**
+<br/><sub>Sep 2024 – Mar 2026 · São Paulo, Brazil (hybrid)</sub>
+- Led security operations, threat detection and vulnerability management across managed customer environments
+- Ran PoCs and technical evaluations of security solutions; managed EDR, MDR and XDR platforms
+- Designed and deployed firewalls, IDS/IPS, WAF and DDoS protection
+- Built SIEM use cases, correlation rules and monitoring dashboards
+- Investigated incidents, coordinated response actions and supported ISO 27001 governance
 
 <details>
-<summary><b>Earlier experience</b></summary>
+<summary><b>Cybersecurity Engineer</b> · Jun 2021 – Sep 2024 · Brazil (hybrid)</summary>
 <br/>
 
-<!-- ADD earlier roles -->
+- Designed and implemented secure network and cybersecurity architectures, from project kick-off to production
+- Deployed and managed firewalls, IDS/IPS, WAF, Web Filtering and Application Control
+- Implemented centralised log management and SIEM integrations
+- Developed and enforced security policies with FortiManager
+- Supported pre-sales in customer workshops and technical demos
+
+</details>
+
+<details>
+<summary><b>Information Security Analyst</b> · Jun 2020 – Jul 2021 · Brazil (on-site)</summary>
+<br/>
+
+- Supported cybersecurity operations, vulnerability management and customer security projects
+- Monitored and investigated security alerts; assisted with vulnerability assessments and remediation
+
+</details>
+
+<details>
+<summary><b>Junior Information Security Analyst</b> · Mar 2019 – Jun 2020 · Barueri, Brazil (on-site)</summary>
+<br/>
+
+- Monitored security events and alerts, supported vulnerability scanning and took part in incident response
+
+</details>
+
+### 🏢 Amistad Networks
+<sub>Jul 2015 – Mar 2019 · 3 years 9 months</sub>
+
+<details>
+<summary><b>Network & Telecommunications Engineer</b> · Apr 2017 – Mar 2019 · Brazil</summary>
+<br/>
+
+- Designed, deployed and supported networking and telecom infrastructure for enterprise customers
+- Configured and managed routers, switches and firewalls; supported VPN, VLAN, NAT and routing services
+- Supported security controls and secure network architectures; investigated network incidents and restored service
+
+</details>
+
+<details>
+<summary><b>Technical Support Specialist</b> · Jul 2015 – Apr 2017 · Brazil</summary>
+<br/>
+
+- First-line support for telecom and network services; supported VoIP deployments and infrastructure troubleshooting
 
 </details>
 
