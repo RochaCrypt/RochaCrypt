@@ -35,4 +35,3 @@ Currently based in **Dublin, Ireland**, I lead cybersecurity initiatives across 
 ---
 
 ## 🎯 Offensive Security & Vulnerability Management Capabilities
-
