@@ -16,17 +16,22 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Pull latest cybersecurity headlines
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          comment_tag_name: "CYBER-NEWS"
-          commit_message: "chore: refresh cybersecurity news feed"
-          max_post_count: 12
-          template: "| [$title]($url) | `$newline` |"
-          feed_list: >-
-            https://feeds.feedburner.com/TheHackersNews,
-            https://www.bleepingcomputer.com/feed/,
-            https://krebsonsecurity.com/feed/,
-            https://www.securityweek.com/feed/,
-            https://therecord.media/feed/,
-            https://www.cisa.gov/cybersecurity-advisories/all.xml
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Update README with latest headlines
+        run: python scripts/update_readme_news.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: refresh cybersecurity news feed"
+          git pull --rebase
+          git push
