@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Alexandre%20Rocha&fontSize=42&fontColor=00f2fe&animation=twinkling" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Alexandre%20Rocha&fontSize=42&fontColor=00f2fe&animation=twinkling" width="100%" alt="Header Banner"/>
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
@@ -10,7 +10,7 @@
 
   <br/><br/>
 
-  <!-- Social Badges -->
+  <!-- Social & Contact Badges -->
   <a href="https://linkedin.com/in/alexandrevrocha">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -24,29 +24,28 @@
 
 ## 🛡️ Executive Summary
 
-Cybersecurity Leader and Senior Technical Specialist with **14+ years of IT experience**, including **7+ years dedicated to Information Security, Penetration Testing, Vulnerability Management, and SOC Operations**. 
+Senior Cybersecurity Specialist and Lead Engineer with **14+ years of IT experience**, including **7+ years dedicated to Information Security, Penetration Testing, Vulnerability Management, and SOC Operations**. 
 
-Currently based in **Dublin, Ireland**, I lead cybersecurity initiatives across multi-tenant, enterprise, and hybrid cloud environments. My technical focus spans offensive security assessments (network, infrastructure, and web application penetration testing), automated vulnerability management workflows, and deep endpoint threat detection and response (EDR/XDR).
+Currently based in **Dublin, Ireland**, I lead enterprise cybersecurity initiatives across hybrid and multi-tenant cloud infrastructure. My focus centers on offensive security assessments, web application and network vulnerability evaluations, and EDR/XDR threat detection.
 
 - 📍 **Location:** Dublin, Ireland
-- 🎯 **Core Expertise:** Penetration Testing, Vulnerability Assessments, EDR/XDR Architecture & SOC Operations
-- 🔒 **Framework Alignment:** NIST CSF, ISO 27001, MITRE ATT&CK & OWASP Top 10
+- 🎯 **Core Focus:** Penetration Testing, Vulnerability Management, Threat Hunting & EDR/XDR Architecture
+- 🔒 **Frameworks:** NIST CSF | ISO 27001 | MITRE ATT&CK | OWASP Top 10
 
 ---
 
-## 🎯 Offensive Security & Vulnerability Core Focus
+## ⚙️ Core Technical Expertise
 
-> - **Web Application Pentesting:** Assessment against OWASP Top 10 vulnerabilities, web application scanning (Qualys WAS), and manual exploitation.
-> - **Infrastructure & Network Assessments:** Internal and external reconnaissance, port scanning, service enumeration, and vulnerability exploitation.
-> - **Vulnerability Management Workflows:** Continuous asset scanning, risk-based prioritization using Qualys VMDR, QQL customization, and remediation tracking.
-> - **Threat Hunting & EDR Triage:** Executing Real-Time Response (RTR) scripts, investigative playbooks, and threat mitigation via CrowdStrike Falcon.
-> - **Security Reporting:** Writing detailed technical penetration testing reports and high-level executive summaries with actionable remediation roadmaps.
+- **Offensive Security & Pentesting:** Web application security (OWASP), network footprinting, service enumeration, manual exploitation, and threat simulation.
+- **Vulnerability Management:** Enterprise asset discovery, scanning workflows (Qualys VMDR / WAS), QQL customization, and risk-based remediation planning.
+- **Threat Detection & Incident Response:** Endpoint isolation, forensic triage, and automated containment using CrowdStrike Falcon (RTR) and Fortinet platforms.
+- **Security Governance & Reporting:** Authoring detailed technical penetration testing reports and strategic executive summaries for enterprise stakeholders.
 
 ---
 
-## 🛠️ Technical Arsenal & Ecosystem
+## 🛠️ Technical Arsenal
 
-### ⚔️ Offensive Security & Vulnerability Scanning
+### ⚔️ Offensive Security & Vulnerability Assessment
 <p>
   <img src="https://img.shields.io/badge/Qualys_VMDR-ED1C24?style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
@@ -61,7 +60,7 @@ Currently based in **Dublin, Ireland**, I lead cybersecurity initiatives across 
   <img src="https://img.shields.io/badge/CrowdStrike_Falcon-000000?style=for-the-badge&logo=crowdstrike&logoColor=red" alt="CrowdStrike" />
   <img src="https://img.shields.io/badge/Fortinet_FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" />
   <img src="https://img.shields.io/badge/FortiSIEM-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiSIEM" />
-  <img src="https://img.shields.io/badge/Cloudflare_WAF-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=redhat&logoColor=white" alt="Keycloak" />
 </p>
 
@@ -80,16 +79,14 @@ Currently based in **Dublin, Ireland**, I lead cybersecurity initiatives across 
 
 #### **Claranet Brasil** | *Lead Cybersecurity Engineer*  
 `Jun 2020 – Present` | *Dublin, Ireland (Remote) & São Paulo, Brazil*
-- Lead penetration testing engagements across infrastructure, internal networks, and web application environments.
-- Direct vulnerability assessment programs, risk analysis, and prioritization strategies using Qualys VMDR and automated tools.
-- Act as Level 3 technical escalation lead for incident investigations, forensic triage, and threat mitigation.
-- Deploy and manage enterprise EDR/XDR solutions (CrowdStrike Falcon) and construct SIEM detection rules (FortiSIEM).
-- Architect, review, and approve security controls aligned with ISO 27001, NIST CSF, and MITRE ATT&CK.
+- Lead web application, network, and infrastructure penetration testing engagements across managed enterprise clients.
+- Direct continuous vulnerability management programs utilizing Qualys VMDR and custom QQL search filters.
+- Serve as Level 3 escalation lead for complex security incidents, threat hunting, and investigative containment.
+- Manage enterprise EDR/XDR platforms (CrowdStrike Falcon) and engineer SOC correlation rules (FortiSIEM).
 
 #### **Amistad Networks** | *Network & Telecommunications Engineer*  
 `Jul 2015 – Mar 2019` | *Brazil*
-- Implemented and secured enterprise core network infrastructure, including routers, switches, firewalls, and VPN tunnels.
-- Supported information security control enforcement, VLAN segmentation, and network incident restoration.
+- Deployed and secured enterprise core network operations, firewalls, routing protocols, and encrypted VPN tunnels.
 
 ---
 
@@ -109,36 +106,25 @@ Currently based in **Dublin, Ireland**, I lead cybersecurity initiatives across 
 
 ---
 
-## 🚀 Key Security & Automation Repositories
+## 🚀 Featured Repositories & Tooling
 
 <div align="center">
 
-| Repository | Focus / Description | Stack |
+| Repository | Focus / Area | Technologies |
 | :--- | :--- | :--- |
-| ** SecOps & RTR Automation ** | Custom Python and PowerShell scripts for Real-Time Response, triage, and rapid asset query. | `Python` `PowerShell` `RTR` |
-| ** Automated Pentest Reporting ** | Docker-based environments for managing penetration test findings and standardized reporting workflows. | `Docker` `Sysreptor` `Linux` |
-| ** Vulnerability Query Templates ** | Custom QQL (Qualys Query Language) and SIEM rules for continuous asset tracking and vulnerability mapping. | `Qualys` `QQL` `SIEM` |
+| ** SecOps & RTR Automation ** | Custom Python & PowerShell automation scripts for EDR Real-Time Response and rapid triage. | `Python` `PowerShell` `API` |
+| ** Pentest Reporting Pipeline ** | Containerized framework for managing penetration testing findings and generating vulnerability documentation. | `Docker` `Sysreptor` `Linux` |
+| ** Vulnerability Query Templates ** | Custom QQL (Qualys Query Language) and SIEM correlation rules for continuous asset tracking. | `Qualys` `QQL` `SIEM` |
 
 </div>
 
 ---
 
-## 📊 GitHub Performance & Analytics
+## 📈 GitHub Activity Profile
 
 <div align="center">
 
-  <img height="160em" src="https://github-readme-stats-eight-themr.vercel.app/api?username=RochaCrypt&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats-eight-themr.vercel.app/api/top-langs/?username=RochaCrypt&layout=compact&theme=dark" alt="Top Languages" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RochaCrypt&theme=react-dark" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RochaCrypt&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 
 </div>
 
