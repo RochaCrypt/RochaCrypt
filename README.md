@@ -11,15 +11,16 @@
 <a href="https://linkedin.com/in/alexandrevrocha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:alexandrev.rocha@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=maildotru&logoColor=white" alt="Email"/></a>
 <img src="https://img.shields.io/badge/Based_in-Dublin%2C_Ireland-169B62?style=flat-square" alt="Dublin, Ireland"/>
-<img src="https://img.shields.io/badge/Languages-EN_%7C_PT--BR-555?style=flat-square" alt="Languages"/>
+<img src="https://komarev.com/ghpvc/?username=RochaCrypt&style=flat-square&color=00f2fe&label=Profile+views" alt="Profile views"/>
 
 <sub>
 <a href="#-about">About</a> •
 <a href="#-what-i-do">What I do</a> •
-<a href="#-tech-stack">Tech stack</a> •
-<a href="#-featured-projects">Projects</a> •
+<a href="#-products--platforms">Products</a> •
+<a href="#-projects-delivered">Projects</a> •
 <a href="#-experience">Experience</a> •
-<a href="#-certifications--education">Certifications</a>
+<a href="#-certifications--education">Certifications</a> •
+<a href="#-live-stats">Live stats</a>
 </sub>
 
 </div>
@@ -51,36 +52,88 @@ open_to:     Security collaboration, research and knowledge sharing
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Products & Platforms
 
-**Offensive & Assessment**
+Platforms I deploy, operate or assess in production environments.
+
+| Category | Products | How I use them |
+| :--- | :--- | :--- |
+| **EDR / XDR** | CrowdStrike Falcon | Policy tuning, RTR triage, host isolation, threat hunting |
+| **Vulnerability Management** | Qualys VMDR, Qualys WAS | Asset discovery, scan orchestration, QQL dashboards, remediation tracking |
+| **SIEM / SOC** | FortiSIEM | Correlation rules, use-case engineering, alert triage |
+| **Network Security** | Fortinet FortiGate | Firewall policies, VPN tunnels, segmentation |
+| **Edge / WAF** | Cloudflare | WAF rules, DDoS protection, access policies |
+| **Identity** | Keycloak | SSO / OIDC configuration and hardening |
+| **Offensive Tooling** | Burp Suite, Metasploit, Nmap, Kali Linux | Web and network assessments, exploitation |
+| **Reporting** | SysReptor | Pentest findings management and report generation |
+| **Cloud & Automation** | AWS, Docker, Python, PowerShell, Bash | Tooling, automation and lab environments |
+<!-- ADD: other products from LinkedIn (e.g. other EDRs, SIEMs, scanners, cloud platforms) -->
+
+<details>
+<summary><b>Tech stack badges</b></summary>
 <br/>
+
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" alt="Nmap"/>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
 <img src="https://img.shields.io/badge/Qualys_VMDR-ED2E26?style=flat-square" alt="Qualys VMDR"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP"/>
-
-**Defensive, EDR & Infrastructure**
-<br/>
 <img src="https://img.shields.io/badge/CrowdStrike_Falcon-E01F3D?style=flat-square" alt="CrowdStrike Falcon"/>
 <img src="https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="FortiGate"/>
 <img src="https://img.shields.io/badge/FortiSIEM-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="FortiSIEM"/>
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
 <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak"/>
-
-**Automation & Cloud**
-<br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square" alt="PowerShell"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS"/>
 
+</details>
+
 ---
 
-## 🚀 Featured Projects
+## 🏗️ Projects Delivered
+
+Selected engagements and initiatives (client names omitted for confidentiality).
+
+<!--
+TEMPLATE — copy one block per project from LinkedIn:
+
+<details>
+<summary><b>Project name</b> · Year · <code>Tag</code> <code>Tag</code></summary>
+<br/>
+
+- **Context:** what the client / team needed
+- **What I did:** your role and actions
+- **Result:** measurable outcome (e.g. "reduced critical vulns by 60% in 3 months")
+
+</details>
+-->
+
+<details>
+<summary><b>Continuous Vulnerability Management Programme</b> · <code>Qualys VMDR</code> <code>QQL</code></summary>
+<br/>
+
+- **Context:** managed enterprise clients needed ongoing visibility of their attack surface
+- **What I did:** designed scanning workflows, custom QQL queries and risk-based remediation plans
+- **Result:** <!-- ADD metric -->
+
+</details>
+
+<details>
+<summary><b>EDR/XDR Operations & Threat Hunting</b> · <code>CrowdStrike Falcon</code> <code>RTR</code></summary>
+<br/>
+
+- **Context:** multi-tenant environments requiring fast detection and containment
+- **What I did:** managed Falcon, built RTR automation and led L3 incident escalations
+- **Result:** <!-- ADD metric -->
+
+</details>
+
+---
+
+## 🚀 Open-Source Tooling
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
@@ -94,12 +147,13 @@ open_to:     Security collaboration, research and knowledge sharing
 
 ## 💼 Experience
 
-**Lead Cybersecurity Engineer** · Claranet Brasil
+**Lead Cybersecurity Engineer** · Claranet
 <br/><sub>Jun 2020 – Present · Dublin, Ireland (remote) & São Paulo, Brazil</sub>
 - Lead web application, network and infrastructure pentests for managed enterprise clients
 - Run continuous vulnerability management programmes with Qualys VMDR and custom QQL
 - Act as L3 escalation point for complex incidents, threat hunting and containment
 - Manage CrowdStrike Falcon EDR/XDR and engineer SOC correlation rules in FortiSIEM
+<!-- If LinkedIn lists separate positions inside Claranet (e.g. Analyst → Senior → Lead), list each with its dates -->
 
 **Network & Telecommunications Engineer** · Amistad Networks
 <br/><sub>Jul 2015 – Mar 2019 · Brazil</sub>
@@ -109,7 +163,7 @@ open_to:     Security collaboration, research and knowledge sharing
 <summary><b>Earlier experience</b></summary>
 <br/>
 
-<!-- Add previous roles here to support the "14+ years in IT" claim -->
+<!-- ADD earlier roles from LinkedIn (supports the "14+ years in IT" claim) -->
 
 </details>
 
@@ -127,10 +181,28 @@ open_to:     Security collaboration, research and knowledge sharing
 
 ---
 
-## 📈 GitHub Activity
+## 📊 Live Stats
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RochaCrypt&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" width="100%"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RochaCrypt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaCrypt&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=RochaCrypt&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RochaCrypt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Trophies"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RochaCrypt&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%"/>
+
+<!-- Offensive-security platforms: uncomment and replace YOUR_USER / YOUR_ID -->
+<!-- <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_USER.png" alt="TryHackMe"/> -->
+<!-- <img src="https://www.hackthebox.com/badge/image/YOUR_ID" alt="Hack The Box"/> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RochaCrypt/RochaCrypt/output/snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/RochaCrypt/RochaCrypt/output/snake.svg" alt="Contribution snake animation"/>
+</picture>
+
 </div>
 
 ---
