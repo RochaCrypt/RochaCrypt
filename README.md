@@ -127,18 +127,8 @@ Currently based in **Dublin, Ireland**, I lead cybersecurity initiatives across 
 
 <div align="center">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RochaCrypt&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaCrypt&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/aaronmallen/github-readme-streak-stats">
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=RochaCrypt&theme=dark&hide_border=true" alt="Streak Stats" />
-  </a>
+  <img height="160em" src="https://github-readme-stats-eight-themr.vercel.app/api?username=RochaCrypt&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats-eight-themr.vercel.app/api/top-langs/?username=RochaCrypt&layout=compact&theme=dark" alt="Top Languages" />
 
 </div>
 
@@ -147,7 +137,9 @@ Currently based in **Dublin, Ireland**, I lead cybersecurity initiatives across 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RochaCrypt&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RochaCrypt&theme=react-dark" alt="Activity Graph" width="100%" />
+
 </div>
 
 ---
