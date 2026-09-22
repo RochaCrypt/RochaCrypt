@@ -17,7 +17,7 @@
 <a href="#-about">About</a> •
 <a href="#-what-i-do">What I do</a> •
 <a href="#-products--platforms">Products</a> •
-<a href="#-projects-delivered">Projects</a> •
+<a href="#-projects">Projects</a> •
 <a href="#-experience">Experience</a> •
 <a href="#-certifications--education">Certifications</a> •
 <a href="#-live-stats">Live stats</a>
@@ -93,55 +93,21 @@ Platforms I deploy, operate or assess in production environments.
 
 ---
 
-## 🏗️ Projects Delivered
-
-Selected engagements and initiatives (client names omitted for confidentiality).
+## 🏗️ Projects
 
 <!--
-TEMPLATE — copy one block per project from LinkedIn:
+ADD only real projects. Template (one block per project):
 
 <details>
 <summary><b>Project name</b> · Year · <code>Tag</code> <code>Tag</code></summary>
 <br/>
 
-- **Context:** what the client / team needed
+- **Context:** what was needed
 - **What I did:** your role and actions
-- **Result:** measurable outcome (e.g. "reduced critical vulns by 60% in 3 months")
+- **Result:** measurable outcome
 
 </details>
 -->
-
-<details>
-<summary><b>Continuous Vulnerability Management Programme</b> · <code>Qualys VMDR</code> <code>QQL</code></summary>
-<br/>
-
-- **Context:** managed enterprise clients needed ongoing visibility of their attack surface
-- **What I did:** designed scanning workflows, custom QQL queries and risk-based remediation plans
-- **Result:** <!-- ADD metric -->
-
-</details>
-
-<details>
-<summary><b>EDR/XDR Operations & Threat Hunting</b> · <code>CrowdStrike Falcon</code> <code>RTR</code></summary>
-<br/>
-
-- **Context:** multi-tenant environments requiring fast detection and containment
-- **What I did:** managed Falcon, built RTR automation and led L3 incident escalations
-- **Result:** <!-- ADD metric -->
-
-</details>
-
----
-
-## 🚀 Open-Source Tooling
-
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| [**SecOps & RTR Automation**](https://github.com/RochaCrypt/REPO-NAME) | Python & PowerShell scripts for EDR Real-Time Response and rapid triage | `Python` `PowerShell` `REST API` |
-| [**Pentest Reporting Pipeline**](https://github.com/RochaCrypt/REPO-NAME) | Containerised workflow to manage findings and generate pentest reports | `Docker` `SysReptor` `Linux` |
-| [**Vulnerability Query Templates**](https://github.com/RochaCrypt/REPO-NAME) | Reusable QQL queries and SIEM correlation rules for continuous asset tracking | `Qualys` `QQL` `SIEM` |
-
-> All tooling is shared for defensive and authorised-testing purposes only.
 
 ---
 
@@ -185,23 +151,22 @@ TEMPLATE — copy one block per project from LinkedIn:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RochaCrypt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaCrypt&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
-
 <img src="https://streak-stats.demolab.com?user=RochaCrypt&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=RochaCrypt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Trophies"/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RochaCrypt&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RochaCrypt/RochaCrypt/output/snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/RochaCrypt/RochaCrypt/output/snake.svg" alt="Contribution snake animation" width="100%"/>
+</picture>
 
 <!-- Offensive-security platforms: uncomment and replace YOUR_USER / YOUR_ID -->
 <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_USER.png" alt="TryHackMe"/> -->
 <!-- <img src="https://www.hackthebox.com/badge/image/YOUR_ID" alt="Hack The Box"/> -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RochaCrypt/RochaCrypt/output/snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/RochaCrypt/RochaCrypt/output/snake.svg" alt="Contribution snake animation"/>
-</picture>
 
 </div>
 
