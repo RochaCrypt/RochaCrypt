@@ -56,6 +56,39 @@ I'm always open to connecting with cybersecurity professionals, SOC teams and le
 <div align="center"><a href="https://rochacrypt.github.io/cyber-pulse/"><img src="https://img.shields.io/badge/Open_Cyber_Pulse_—_live_news_portal-FF2E4C?style=for-the-badge&labelColor=0d1117" alt="Cyber Pulse"/></a></div>
 
 <!-- CYBER-NEWS:START -->
+
+**[Rogue external MFA providers can steal passwords during logins](https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/)**  
+Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords…  
+<sub>`BleepingComputer`</sub>
+
+**[Sweden fines Miljödata $183,000 over breach affecting 2.2 million](https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/)**  
+Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Miljödata for inadequate security measures…  
+<sub>`BleepingComputer`</sub>
+
+**[Relays Are Masking Chinese Access to Frontier AI Models in the US](https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models)**  
+More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs)…  
+<sub>`Dark Reading`</sub>
+
+**[Chinese hackers exploit WordPress, Zyxel flaws to steal govt data](https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/)**  
+A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from…  
+<sub>`BleepingComputer`</sub>
+
+**[Microsoft Disrupts EvilTokens Device Code Phishing Service](https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service)**  
+Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform…  
+<sub>`Dark Reading`</sub>
+
+**[Canadian regulator opens probe of IDScan for allegedly violating data privacy laws](https://therecord.media/canadian-regulator-opens-probe-of-idscan-following-data-breach)**  
+The investigation, announced Monday, will probe IDScan’s security practices and whether victim notifications were adequate under Canada’s federal…  
+<sub>`The Record`</sub>
+
+**[ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/)**  
+The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal…  
+<sub>`BleepingComputer`</sub>
+
+**[Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks](https://thehackernews.com/2026/09/check-point-warns-of-management-server.html)**  
+Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23, the company…  
+<sub>`The Hacker News`</sub>
+
 <!-- CYBER-NEWS:END -->
 
 <sub>Auto-updated every 6 hours from The Hacker News, BleepingComputer, Krebs on Security, Dark Reading, SecurityWeek, The Record and CISA advisories. Headlines link to the original source.</sub>
