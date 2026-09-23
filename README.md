@@ -23,7 +23,7 @@
 <br/>
 
 [![Cyber Pulse](https://img.shields.io/badge/Cyber_Pulse-live_news_portal-FF2E4C?style=for-the-badge&labelColor=0d1117)](https://rochacrypt.github.io/cyber-pulse/)
-[![Arsenal](https://img.shields.io/badge/Arsenal-230_tools-8A63FF?style=for-the-badge&labelColor=0d1117)](https://rochacrypt.github.io/arsenal/)
+[![Arsenal](https://img.shields.io/badge/Arsenal-366_tools-8A63FF?style=for-the-badge&labelColor=0d1117)](https://rochacrypt.github.io/arsenal/)
 [![Knowledge Base](https://img.shields.io/badge/Knowledge_Base-50_maps-2ECC71?style=for-the-badge&labelColor=0d1117)](https://github.com/RochaCrypt/security-knowledge-base)
 
 </div>
@@ -80,16 +80,7 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 | **Governance & Compliance** | ISO 27001, ISO 27032, NIST CSF, MITRE ATT&CK, OWASP; audits and policy |
 | **Awareness & Reporting** | Security awareness (KnowBE4); technical, executive and analytical reporting |
 
-**Engagement approach**  
-`Reconnaissance` → `Assessment` → `Exploitation` → `Post-exploitation` → `Detection review (purple-team)` → `Technical & executive reporting`
-
---- | :--- |
-| **Offensive Security** | Web application, network and infrastructure penetration testing; manual exploitation; controlled threat simulation |
-| **Vulnerability Management** | Enterprise asset discovery, Qualys VMDR/WAS, custom QQL, risk-based remediation planning |
-| **Detection & Response** | EDR/XDR operations (CrowdStrike Falcon), threat hunting, forensic triage, Level 3 incident response |
-| **Security Operations** | SIEM engineering (FortiSIEM), correlation rules, monitoring use cases, SOC capability development |
-| **Cloud & Architecture** | Private, Public and Hybrid cloud security; security architecture design and review |
-| **Governance & Reporting** | NIST CSF, ISO 27001, MITRE ATT&CK and OWASP alignment; technical and executive reporting |
+**Engagement approach:** `Reconnaissance` → `Assessment` → `Exploitation` → `Post-exploitation` → `Detection review (purple-team)` → `Technical & executive reporting`
 
 ---
 
@@ -195,7 +186,7 @@ Open resources I build and maintain.
 | Repository | Description | Stack |
 | :--- | :--- | :--- |
 | **[Cyber Pulse](https://github.com/RochaCrypt/cyber-pulse)** | Auto-updating cybersecurity news portal, refreshed every 3 hours. [Live](https://rochacrypt.github.io/cyber-pulse/). | `Python` · `HTML` · `Actions` |
-| **[Arsenal](https://github.com/RochaCrypt/arsenal)** | Interactive catalog of 230 security tools plus my own operational scripts. [Live](https://rochacrypt.github.io/arsenal/). | `Bash` · `Python` · `PowerShell` · `HTML` |
+| **[Arsenal](https://github.com/RochaCrypt/arsenal)** | Interactive catalog of 366 security tools plus my own operational scripts. [Live](https://rochacrypt.github.io/arsenal/). | `Bash` · `Python` · `PowerShell` · `HTML` |
 | **[Security Knowledge Base](https://github.com/RochaCrypt/security-knowledge-base)** | 50 certification and framework references — what each is, what it validates, key concepts and a mind map. | `Docs` · `Mermaid` |
 
 ---
