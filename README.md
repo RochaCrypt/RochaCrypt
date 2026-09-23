@@ -32,16 +32,21 @@
 
 ## Summary
 
-Cybersecurity specialist and **purple-team leader** whose career runs from network and infrastructure engineering into offensive and defensive security, with **7+ years focused on cybersecurity**. I lead technical security across Private, Public and Hybrid Cloud environments — penetration testing and vulnerability management on the offensive side; SOC operations, threat detection, incident response and EDR/XDR on the defensive side. I pair hands-on depth in OSINT, threat intelligence, SIEM engineering and identity & access management with governance aligned to ISO 27001, NIST CSF, MITRE ATT&CK and OWASP, translating technical risk into clear reporting for both engineering and executive audiences.
+Cybersecurity leader with over 14 years of IT experience, including 7+ years specialising in Information Security, Security Operations and Cybersecurity Consulting. I combine deep technical expertise with a strategic mindset to help organisations strengthen their security posture, reduce risk and protect business continuity.
+Based in Dublin, Ireland, I lead cybersecurity initiatives across enterprise and multi-tenant environments, aligning security strategy with business objectives to ensure that technical decisions translate into measurable value for clients and stakeholders.
+My expertise spans Security Operations, Incident Response, Vulnerability Management, Penetration Testing, Threat Detection & Response, Security Architecture, EDR/XDR and Cybersecurity Strategy, applied across Private Cloud, Public Cloud and Hybrid Cloud environments, with alignment to frameworks such as NIST CSF, ISO 27001 and MITRE ATT&CK.
+Throughout my career, I have led cybersecurity programmes spanning SOC development, EDR/XDR deployments, vulnerability remediation, offensive security engagements and cloud security initiatives. I focus on translating complex technical findings into clear, actionable insights for both technical teams and executive stakeholders, ensuring that security investments deliver tangible business outcomes.
+I add value to clients by combining operational excellence with a consultative approach, understanding not only the technical risk but also the business impact behind every security decision.
+I hold a Bachelor's Degree in Information Security Management, a Postgraduate Degree in Cybersecurity, and industry certifications including CrowdStrike Certified Falcon Administrator (CCFA), Certified Ethical Hacker (CEH) and Certified LLM Security Professional (CLLMSP).
+I'm always open to connecting with cybersecurity professionals, SOC teams and leaders shaping the future of enterprise security, and to exploring opportunities where I can bridge technical depth with strategic risk management to drive real business value.
 
 | | |
 | :--- | :--- |
-| **Role** | Lead Cybersecurity Engineer |
-| **Focus** | Purple Team · Offensive Security · Detection & Response |
+| **Role** | Lead Cybersecurity Specialist (or Offensive & SecOps Lead) |
+| **Focus** | Offensive Security · Threat-Informed SecOps · Purple Teaming |
 | **Location** | Dublin, Ireland |
 | **Languages** | Portuguese (native) · English (professional) · Spanish (basic) |
 | **Frameworks** | MITRE ATT&CK · OWASP · NIST CSF · ISO 27001 |
-| **Focus now** | LLM application security · offensive AI |
 | **Credentials** | CEH · CCFA · CLLMSP |
 
 ---
