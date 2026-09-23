@@ -57,37 +57,37 @@ I'm always open to connecting with cybersecurity professionals, SOC teams and le
 
 <!-- CYBER-NEWS:START -->
 
-**[Rogue external MFA providers can steal passwords during logins](https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/)**  
-Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords…  
-<sub>`BleepingComputer`</sub>
-
-**[Sweden fines Miljödata $183,000 over breach affecting 2.2 million](https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/)**  
-Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Miljödata for inadequate security measures…  
-<sub>`BleepingComputer`</sub>
-
-**[Relays Are Masking Chinese Access to Frontier AI Models in the US](https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models)**  
-More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs)…  
+**[UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks](https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks)**  
+The United Arab Emirates and Kingdom of Saudi Arabia together absorbed 50% of all cyberattacks recorded across the Gulf region in the first half of…  
 <sub>`Dark Reading`</sub>
 
-**[Chinese hackers exploit WordPress, Zyxel flaws to steal govt data](https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/)**  
-A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from…  
-<sub>`BleepingComputer`</sub>
+**[Chrome 154 Patches 108 Vulnerabilities](https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/)**  
+The browser update resolves several critical-severity memory safety and memory corruption flaws. The post Chrome 154 Patches 108 Vulnerabilities…  
+<sub>`SecurityWeek`</sub>
 
-**[Microsoft Disrupts EvilTokens Device Code Phishing Service](https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service)**  
-Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform…  
-<sub>`Dark Reading`</sub>
+**[A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk](https://www.securityweek.com/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/)**  
+Debates over the plausibility of these doomsday scenarios have heated up since several executives endorsed slowing the technology’s development for…  
+<sub>`SecurityWeek`</sub>
 
-**[Canadian regulator opens probe of IDScan for allegedly violating data privacy laws](https://therecord.media/canadian-regulator-opens-probe-of-idscan-following-data-breach)**  
-The investigation, announced Monday, will probe IDScan’s security practices and whether victim notifications were adequate under Canada’s federal…  
-<sub>`The Record`</sub>
+**[Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm](https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/)**  
+Emerging from stealth with $16 million in pre-seed funding, Outerlimit offers a decentralized authorization layer designed to discover, observe, and…  
+<sub>`SecurityWeek`</sub>
 
-**[ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/)**  
-The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal…  
-<sub>`BleepingComputer`</sub>
+**[Arista Urges Immediate Patching of Exploited VCO Zero-Day](https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/)**  
+Remote attackers could trigger the critical-severity flaw to access privileged internal functionality. The post Arista Urges Immediate Patching of…  
+<sub>`SecurityWeek`</sub>
 
-**[Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks](https://thehackernews.com/2026/09/check-point-warns-of-management-server.html)**  
-Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23, the company…  
+**[F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers](https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html)**  
+Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5…  
 <sub>`The Hacker News`</sub>
+
+**[Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware](https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html)**  
+A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as…  
+<sub>`The Hacker News`</sub>
+
+**[Ryuk ransomware member sentenced to 24 months in prison](https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/)**  
+An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in…  
+<sub>`BleepingComputer`</sub>
 
 <!-- CYBER-NEWS:END -->
 
