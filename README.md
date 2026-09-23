@@ -15,16 +15,16 @@
 
 <br/><br/>
 
-![Experience](https://img.shields.io/badge/Experience-14%2B_years_IT-2E6BFF?style=flat-square&labelColor=11161f)
+![Experience](https://img.shields.io/badge/Cybersecurity-7%2B_years-2E6BFF?style=flat-square&labelColor=11161f)
 ![Security](https://img.shields.io/badge/Security-7%2B_years-FF2E4C?style=flat-square&labelColor=11161f)
 ![Certified](https://img.shields.io/badge/Certified-CEH_·_CCFA_·_CLLMSP-2ECC71?style=flat-square&labelColor=11161f)
 ![Open source](https://img.shields.io/badge/Open_source-2_live_projects-8A63FF?style=flat-square&labelColor=11161f)
 
 <br/>
 
-<a href="https://rochacrypt.github.io/cyber-pulse/"><img src="https://img.shields.io/badge/▶_Cyber_Pulse-live_news_portal-FF2E4C?style=for-the-badge&labelColor=0d1117" alt="Cyber Pulse"/></a>
-<a href="https://rochacrypt.github.io/arsenal/"><img src="https://img.shields.io/badge/▶_Arsenal-230_tools-8A63FF?style=for-the-badge&labelColor=0d1117" alt="Arsenal"/></a>
-<a href="https://github.com/RochaCrypt/security-knowledge-base"><img src="https://img.shields.io/badge/▶_Knowledge_Base-50_maps-2ECC71?style=for-the-badge&labelColor=0d1117" alt="Knowledge Base"/></a>
+[![Cyber Pulse](https://img.shields.io/badge/Cyber_Pulse-live_news_portal-FF2E4C?style=for-the-badge&labelColor=0d1117)](https://rochacrypt.github.io/cyber-pulse/)
+[![Arsenal](https://img.shields.io/badge/Arsenal-112_tools-8A63FF?style=for-the-badge&labelColor=0d1117)](https://rochacrypt.github.io/arsenal/)
+[![Knowledge Base](https://img.shields.io/badge/Knowledge_Base-50_maps-2ECC71?style=for-the-badge&labelColor=0d1117)](https://github.com/RochaCrypt/security-knowledge-base)
 
 </div>
 
@@ -32,63 +32,29 @@
 
 ## Summary
 
-Cybersecurity leader with over 14 years of IT experience, including 7+ years specialising in Information Security, Security Operations and Cybersecurity Consulting. I combine deep technical expertise with a strategic mindset to help organisations strengthen their security posture, reduce risk and protect business continuity.
-Based in Dublin, Ireland, I lead cybersecurity initiatives across enterprise and multi-tenant environments, aligning security strategy with business objectives to ensure that technical decisions translate into measurable value for clients and stakeholders.
-My expertise spans Security Operations, Incident Response, Vulnerability Management, Penetration Testing, Threat Detection & Response, Security Architecture, EDR/XDR and Cybersecurity Strategy, applied across Private Cloud, Public Cloud and Hybrid Cloud environments, with alignment to frameworks such as NIST CSF, ISO 27001 and MITRE ATT&CK.
-Throughout my career, I have led cybersecurity programmes spanning SOC development, EDR/XDR deployments, vulnerability remediation, offensive security engagements and cloud security initiatives. I focus on translating complex technical findings into clear, actionable insights for both technical teams and executive stakeholders, ensuring that security investments deliver tangible business outcomes.
-I add value to clients by combining operational excellence with a consultative approach, understanding not only the technical risk but also the business impact behind every security decision.
-I hold a Bachelor's Degree in Information Security Management, a Postgraduate Degree in Cybersecurity, and industry certifications including CrowdStrike Certified Falcon Administrator (CCFA), Certified Ethical Hacker (CEH) and Certified LLM Security Professional (CLLMSP).
-I'm always open to connecting with cybersecurity professionals, SOC teams and leaders shaping the future of enterprise security, and to exploring opportunities where I can bridge technical depth with strategic risk management to drive real business value.
+Cybersecurity specialist and **purple-team leader** whose career runs from network and infrastructure engineering into offensive and defensive security, with **7+ years focused on cybersecurity**. I lead technical security across Private, Public and Hybrid Cloud environments — penetration testing and vulnerability management on the offensive side; SOC operations, threat detection, incident response and EDR/XDR on the defensive side. I pair hands-on depth in OSINT, threat intelligence, SIEM engineering and identity & access management with governance aligned to ISO 27001, NIST CSF, MITRE ATT&CK and OWASP, translating technical risk into clear reporting for both engineering and executive audiences.
 
 | | |
 | :--- | :--- |
-| **Role** | Lead Cybersecurity Specialist (or Offensive & SecOps Lead) |
-| **Focus** | Offensive Security · Threat-Informed SecOps · Purple Teaming |
+| **Role** | Lead Cybersecurity Engineer |
+| **Focus** | Purple Team · Offensive Security · Detection & Response |
 | **Location** | Dublin, Ireland |
 | **Languages** | Portuguese (native) · English (professional) · Spanish (basic) |
 | **Frameworks** | MITRE ATT&CK · OWASP · NIST CSF · ISO 27001 |
+| **Focus now** | LLM application security · offensive AI |
 | **Credentials** | CEH · CCFA · CLLMSP |
 
 ---
 
 ## Latest in Cybersecurity
 
-<div align="center"><a href="https://rochacrypt.github.io/cyber-pulse/"><img src="https://img.shields.io/badge/Open_Cyber_Pulse_—_live_news_portal-FF2E4C?style=for-the-badge&labelColor=0d1117" alt="Cyber Pulse"/></a></div>
+<div align="center">
+
+[![Cyber Pulse](https://img.shields.io/badge/Open_Cyber_Pulse_·_live_news_portal-FF2E4C?style=for-the-badge&labelColor=0d1117)](https://rochacrypt.github.io/cyber-pulse/)
+
+</div>
 
 <!-- CYBER-NEWS:START -->
-
-**[UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks](https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks)**  
-The United Arab Emirates and Kingdom of Saudi Arabia together absorbed 50% of all cyberattacks recorded across the Gulf region in the first half of…  
-<sub>`Dark Reading`</sub>
-
-**[Chrome 154 Patches 108 Vulnerabilities](https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/)**  
-The browser update resolves several critical-severity memory safety and memory corruption flaws. The post Chrome 154 Patches 108 Vulnerabilities…  
-<sub>`SecurityWeek`</sub>
-
-**[A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk](https://www.securityweek.com/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/)**  
-Debates over the plausibility of these doomsday scenarios have heated up since several executives endorsed slowing the technology’s development for…  
-<sub>`SecurityWeek`</sub>
-
-**[Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm](https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/)**  
-Emerging from stealth with $16 million in pre-seed funding, Outerlimit offers a decentralized authorization layer designed to discover, observe, and…  
-<sub>`SecurityWeek`</sub>
-
-**[Arista Urges Immediate Patching of Exploited VCO Zero-Day](https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/)**  
-Remote attackers could trigger the critical-severity flaw to access privileged internal functionality. The post Arista Urges Immediate Patching of…  
-<sub>`SecurityWeek`</sub>
-
-**[F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers](https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html)**  
-Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5…  
-<sub>`The Hacker News`</sub>
-
-**[Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware](https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html)**  
-A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as…  
-<sub>`The Hacker News`</sub>
-
-**[Ryuk ransomware member sentenced to 24 months in prison](https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/)**  
-An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in…  
-<sub>`BleepingComputer`</sub>
-
 <!-- CYBER-NEWS:END -->
 
 <sub>Auto-updated every 6 hours from The Hacker News, BleepingComputer, Krebs on Security, Dark Reading, SecurityWeek, The Record and CISA advisories. Headlines link to the original source.</sub>
@@ -99,12 +65,27 @@ An Armenian man was sentenced to 24 months in prison and 3 years of supervised r
 
 | Area | Focus |
 | :--- | :--- |
-| **Offensive Security** | Penetration testing (web, network, infrastructure), breach & attack simulation (BAS), and Purple Teaming to validate detection controls |
-| **Vulnerability Management** | Risk-based vulnerability management, Qualys VMDR/WAS, advanced QQL reporting, and automated remediation workflows |
-| **Detection & Response** | Enterprise EDR/XDR operations (CrowdStrike Falcon), proactive threat hunting, forensic triage, and Level 3 incident response |
-| **Security Operations** | Threat-informed SecOps, SIEM engineering (FortiSIEM), custom correlation rules, and SOC capability maturity development |
-| **Cloud & Architecture** | Multi-cloud and hybrid security architecture, cloud workload protection, and secure infrastructure design |
-| **Governance & Strategy** | NIST CSF, ISO 27001, MITRE ATT&CK and OWASP alignment; translating technical risk into actionable business insights |
+| **Offensive Security & Pentest** | Web application, network and infrastructure penetration testing; manual exploitation; controlled threat simulation |
+| **Purple Teaming** | Bridging red and blue — validating detections and hardening defences against real attack techniques |
+| **Vulnerability & Risk Management** | Qualys VMDR/WAS, Nessus, OpenVAS; asset discovery, custom QQL, risk analysis and remediation planning |
+| **Threat Detection & Response** | SOC operations, threat hunting, incident response, EDR/XDR/MDR (CrowdStrike Falcon), threat intelligence |
+| **Security Operations** | SIEM engineering (FortiSIEM), log correlation, monitoring use cases, dashboards, SOC development |
+| **Network & Perimeter** | Firewalls (FortiGate), WAF, IPS/IDS, VPN, web filtering; FortiManager / FortiAnalyzer |
+| **Identity & Access** | IAM, access control, Active Directory, Windows Server |
+| **Cloud Security** | AWS, Azure and GCP across Private, Public and Hybrid Cloud |
+| **Governance & Compliance** | ISO 27001, ISO 27032, NIST CSF, MITRE ATT&CK, OWASP; audits and policy |
+| **Awareness & Reporting** | Security awareness (KnowBE4); technical, executive and analytical reporting |
+
+**Engagement approach**  
+`Reconnaissance` → `Assessment` → `Exploitation` → `Post-exploitation` → `Detection review (purple-team)` → `Technical & executive reporting`
+
+--- | :--- |
+| **Offensive Security** | Web application, network and infrastructure penetration testing; manual exploitation; controlled threat simulation |
+| **Vulnerability Management** | Enterprise asset discovery, Qualys VMDR/WAS, custom QQL, risk-based remediation planning |
+| **Detection & Response** | EDR/XDR operations (CrowdStrike Falcon), threat hunting, forensic triage, Level 3 incident response |
+| **Security Operations** | SIEM engineering (FortiSIEM), correlation rules, monitoring use cases, SOC capability development |
+| **Cloud & Architecture** | Private, Public and Hybrid cloud security; security architecture design and review |
+| **Governance & Reporting** | NIST CSF, ISO 27001, MITRE ATT&CK and OWASP alignment; technical and executive reporting |
 
 ---
 
@@ -210,7 +191,7 @@ Open resources I build and maintain.
 | Repository | Description | Stack |
 | :--- | :--- | :--- |
 | **[Cyber Pulse](https://github.com/RochaCrypt/cyber-pulse)** | Auto-updating cybersecurity news portal, refreshed every 3 hours. [Live](https://rochacrypt.github.io/cyber-pulse/). | `Python` · `HTML` · `Actions` |
-| **[Arsenal](https://github.com/RochaCrypt/arsenal)** | Interactive catalog of 230 security tools plus my own operational scripts. [Live](https://rochacrypt.github.io/arsenal/). | `Bash` · `Python` · `PowerShell` · `HTML` |
+| **[Arsenal](https://github.com/RochaCrypt/arsenal)** | Interactive catalog of 112 security tools plus my own operational scripts. [Live](https://rochacrypt.github.io/arsenal/). | `Bash` · `Python` · `PowerShell` · `HTML` |
 | **[Security Knowledge Base](https://github.com/RochaCrypt/security-knowledge-base)** | 50 certification and framework references — what each is, what it validates, key concepts and a mind map. | `Docs` · `Mermaid` |
 
 ---
