@@ -60,36 +60,36 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks](https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks)**  
-The United Arab Emirates and Kingdom of Saudi Arabia together absorbed 50% of all cyberattacks recorded across the Gulf region in the first half of…  
+**[EDR Evasion Stack Helps Process Injection Slip Past Defenses](https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses)**  
+A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR…  
 <sub>`Dark Reading`</sub>
 
-**[Ryuk ransomware operator gets 2-year sentence after extorting victims for $1.2 million](https://therecord.media/ransomware-ryuk-sentenced-doj)**  
-An Armenian national and member of the Ryuk ransomware gang was sentenced to two years in federal prison for his role in launching attacks.  
-<sub>`The Record`</sub>
-
-**[Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign](https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign)**  
-Threat actors are poisoning ChatGPT, Gemini, and Google AI Overview answers by seeding the Web with malicious links and data and then optimizing the…  
+**[GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks](https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks)**  
+Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use.  
 <sub>`Dark Reading`</sub>
 
-**[InfraTrust report warns network management systems under attack](https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/)**  
-Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively…  
-<sub>`BleepingComputer`</sub>
-
-**[FBI investigating alleged ShinyHunters breach of its jobs site](https://therecord.media/fbi-investigating-alleged-shinyhunters-job-site-breach)**  
-The ShinyHunters cybercriminal organization on Tuesday replaced agency images on the FBIjobs.gov site with a photo of a Pokemon that has become the…  
+**[UK regulator to investigate Pornhub parent company for alleged age verification failings](https://therecord.media/uk-regulator-to-investigate-pornhub-parent-company-privacy)**  
+In May, Pornhub began using a new age assurance process to verify some users’ ages, according to an Ofcom press release. The new method relies on…  
 <sub>`The Record`</sub>
 
-**[This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move](https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html)**  
-A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said…  
-<sub>`The Hacker News`</sub>
-
-**[How One Kubernetes YAML Can Hand Over a GCP Organization](https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/)**  
-A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to…  
+**[Check Point warns of hackers exploiting Security Gateway VPN RCE flaw](https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/)**  
+Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability…  
 <sub>`BleepingComputer`</sub>
 
-**[Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI](https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html)**  
-Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to…  
+**[IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin](https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/)**  
+IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction. The post IonQ Targets…  
+<sub>`SecurityWeek`</sub>
+
+**[No evidence of successful foreign meddling in 2024 election, spy agencies found](https://therecord.media/trump-harris-election-meddling-russia)**  
+U.S. intelligence officials found no evidence that any foreign adversary successfully interfered in the 2024 presidential election, according to…  
+<sub>`The Record`</sub>
+
+**[Hackers start exploiting critical WordPress flaw for code execution](https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/)**  
+Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell…  
+<sub>`BleepingComputer`</sub>
+
+**[Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry](https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html)**  
+Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat…  
 <sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
