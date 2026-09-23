@@ -59,6 +59,39 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 </div>
 
 <!-- CYBER-NEWS:START -->
+
+**[UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks](https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks)**  
+The United Arab Emirates and Kingdom of Saudi Arabia together absorbed 50% of all cyberattacks recorded across the Gulf region in the first half of…  
+<sub>`Dark Reading`</sub>
+
+**[Ryuk ransomware operator gets 2-year sentence after extorting victims for $1.2 million](https://therecord.media/ransomware-ryuk-sentenced-doj)**  
+An Armenian national and member of the Ryuk ransomware gang was sentenced to two years in federal prison for his role in launching attacks.  
+<sub>`The Record`</sub>
+
+**[Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign](https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign)**  
+Threat actors are poisoning ChatGPT, Gemini, and Google AI Overview answers by seeding the Web with malicious links and data and then optimizing the…  
+<sub>`Dark Reading`</sub>
+
+**[InfraTrust report warns network management systems under attack](https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/)**  
+Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively…  
+<sub>`BleepingComputer`</sub>
+
+**[FBI investigating alleged ShinyHunters breach of its jobs site](https://therecord.media/fbi-investigating-alleged-shinyhunters-job-site-breach)**  
+The ShinyHunters cybercriminal organization on Tuesday replaced agency images on the FBIjobs.gov site with a photo of a Pokemon that has become the…  
+<sub>`The Record`</sub>
+
+**[This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move](https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html)**  
+A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said…  
+<sub>`The Hacker News`</sub>
+
+**[How One Kubernetes YAML Can Hand Over a GCP Organization](https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/)**  
+A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to…  
+<sub>`BleepingComputer`</sub>
+
+**[Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI](https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html)**  
+Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to…  
+<sub>`The Hacker News`</sub>
+
 <!-- CYBER-NEWS:END -->
 
 <sub>Auto-updated every 6 hours from The Hacker News, BleepingComputer, Krebs on Security, Dark Reading, SecurityWeek, The Record and CISA advisories. Headlines link to the original source.</sub>
