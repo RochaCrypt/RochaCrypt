@@ -60,6 +60,14 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Placeholder domain used in dev docs now serves ClickFix attacks](https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/)**  
+The "third-party.com" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification…  
+<sub>`BleepingComputer`</sub>
+
+**[New RemControl Android banking malware targets users in Europe and Canada](https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/)**  
+A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap…  
+<sub>`BleepingComputer`</sub>
+
 **[EDR Evasion Stack Helps Process Injection Slip Past Defenses](https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses)**  
 A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR…  
 <sub>`Dark Reading`</sub>
@@ -83,14 +91,6 @@ IonQ’s new single processor quantum error decoder minimizes the classical comp
 **[No evidence of successful foreign meddling in 2024 election, spy agencies found](https://therecord.media/trump-harris-election-meddling-russia)**  
 U.S. intelligence officials found no evidence that any foreign adversary successfully interfered in the 2024 presidential election, according to…  
 <sub>`The Record`</sub>
-
-**[Hackers start exploiting critical WordPress flaw for code execution](https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/)**  
-Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell…  
-<sub>`BleepingComputer`</sub>
-
-**[Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry](https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html)**  
-Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat…  
-<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
