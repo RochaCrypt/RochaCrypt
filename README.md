@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Kontext Security Emerges With $4 Million for AI Agent Runtime Controls](https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/)**  
-The startup’s runtime enforcement platform evaluates AI agents in real time to provide visibility and control over their actions. The post Kontext…  
-<sub>`SecurityWeek`</sub>
-
-**[Placeholder third-party(.)com Referenced Across 1,700+ Repositories Now Serves Malicious Content](https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html)**  
-The "third-party[.]com" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while…  
-<sub>`The Hacker News`</sub>
-
-**[3 Cyber Threats That Defined the Summer of 2026](https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026)**  
-This installment of the Reporters' Notebook video series discusses the impact of AI agents breaching Hugging Face, Fairlife's ransomware attack, and…  
+**['Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing](https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing)**  
+Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels.  
 <sub>`Dark Reading`</sub>
 
-**[OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data](https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/)**  
-Australia disclosed that an OpenAI agent gained unauthorized access to non-public government information. The post OpenAI Agents Probed Websites for…  
-<sub>`SecurityWeek`</sub>
-
-**[Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer](https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html)**  
-An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and…  
-<sub>`The Hacker News`</sub>
-
-**[How to Build A SASE Framework for Modern Cybersecurity](https://www.darkreading.com/cloud-security/how-to-build-sase-framework)**  
-Keeping edge computing safe requires organizations to fundamentally rethink security governance. Here is a path forward: a step-by-step guide to…  
-<sub>`Dark Reading`</sub>
-
-**[FedRAMP VDR & VER: Daily Scans Are Only the Beginning](https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/)**  
-FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and…  
+**[MacSync malware uses public iCloud calendars to deliver new payloads](https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/)**  
+A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]  
 <sub>`BleepingComputer`</sub>
 
-**[Ghost Service Accounts Enable M365 Data Theft in Chile](https://www.darkreading.com/cyberattacks-data-breaches/ghost-service-accounts-m365-data-theft-chile)**  
-Even if the organization locks down employee accounts, forgotten and lost service accounts can still undo the organization's entire M365 environment.  
+**[Autonomous AI Hacks Raise Thorny Questions of Legal Accountability](https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/)**  
+The prospect of legal accountability is unclear. Lawsuits are a possibility, but some legal experts believe any criminal investigations would face an…  
+<sub>`SecurityWeek`</sub>
+
+**[SectopRAT Returns, Hiding Inside a Legitimate Application](https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application)**  
+The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly…  
 <sub>`Dark Reading`</sub>
+
+**[Digital forensics firm with US federal contracts covered up ties to Russia, DOJ alleges](https://therecord.media/russia-forensics-technology-doj)**  
+Two executives at a data extraction and digital forensics company that sold several U.S. agencies its software were arrested for allegedly lying…  
+<sub>`The Record`</sub>
+
+**[Lawmakers introduce bill for voluntary telecom cyber rules after Salt Typhoon hacks](https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules)**  
+U.S. Sens. Mark Warner (D-VA) and Ted Cruz (R-TX) introduced the Telecommunications Cybersecurity and Resilience Act on Thursday, arguing that the…  
+<sub>`The Record`</sub>
+
+**[New Carbonato malware uses AI agents to hijack exposed Docker hosts](https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/)**  
+A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control…  
+<sub>`BleepingComputer`</sub>
+
+**[Rydox cybercriminal marketplace operator pleads guilty following co-conspirator brothers’s deportation](https://therecord.media/rydox-criminal-marketplace-operator-pleads-guilty)**  
+Ardit Kutleshi, 28, was extradited from his home country of Kosovo last year after prosecutors accused him and his older brother of running Rydox —…  
+<sub>`The Record`</sub>
 
 <!-- CYBER-NEWS:END -->
 
