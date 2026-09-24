@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Placeholder domain used in dev docs now serves ClickFix attacks](https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/)**  
-The "third-party.com" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification…  
-<sub>`BleepingComputer`</sub>
-
-**[New RemControl Android banking malware targets users in Europe and Canada](https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/)**  
-A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap…  
-<sub>`BleepingComputer`</sub>
-
-**[EDR Evasion Stack Helps Process Injection Slip Past Defenses](https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses)**  
-A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR…  
-<sub>`Dark Reading`</sub>
-
-**[GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks](https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks)**  
-Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use.  
-<sub>`Dark Reading`</sub>
-
-**[UK regulator to investigate Pornhub parent company for alleged age verification failings](https://therecord.media/uk-regulator-to-investigate-pornhub-parent-company-privacy)**  
-In May, Pornhub began using a new age assurance process to verify some users’ ages, according to an Ofcom press release. The new method relies on…  
-<sub>`The Record`</sub>
-
-**[Check Point warns of hackers exploiting Security Gateway VPN RCE flaw](https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/)**  
-Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability…  
-<sub>`BleepingComputer`</sub>
-
-**[IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin](https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/)**  
-IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction. The post IonQ Targets…  
+**[OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators](https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/)**  
+Revision 4 of NIST’s operational technology security guide is open for public comments until November 30. The post OT Security Guidance: NIST Drafts…  
 <sub>`SecurityWeek`</sub>
 
-**[No evidence of successful foreign meddling in 2024 election, spy agencies found](https://therecord.media/trump-harris-election-meddling-russia)**  
-U.S. intelligence officials found no evidence that any foreign adversary successfully interfered in the 2024 presidential election, according to…  
-<sub>`The Record`</sub>
+**[Begin at the End: How to Enable Agentic Remediation](https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/)**  
+Agentic remediation is not an act of faith. We are talking about fixing known problems, not judgment calls about unfamiliar risk. The post Begin at…  
+<sub>`SecurityWeek`</sub>
+
+**[CISA: Ransomware gangs now exploiting critical TeamCity flaw](https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/)**  
+​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting…  
+<sub>`BleepingComputer`</sub>
+
+**[SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted](https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/)**  
+The vulnerabilities, tracked as CVE-2026-28324 and CVE-2026-28325, can be exploited without authentication. The post SolarWinds Patches Critical RCE…  
+<sub>`SecurityWeek`</sub>
+
+**[Astrana Health Data Breach Impacts Private, Confidential Information](https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/)**  
+Hackers impersonated the company’s personnel and contacted its employees to gain access to Astrana Health’s servers. The post Astrana Health Data…  
+<sub>`SecurityWeek`</sub>
+
+**[OpenAI hacked Australian Medicare govt site, probed data providers](https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/)**  
+OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an…  
+<sub>`BleepingComputer`</sub>
+
+**[17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360](https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html)**  
+ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk…  
+<sub>`The Hacker News`</sub>
+
+**[US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks](https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/)**  
+Karen Vardanyan has also been ordered to pay over $1.2 million in restitution to victims. The post US Court Sentences Armenian Man to Prison for Ryuk…  
+<sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
 
