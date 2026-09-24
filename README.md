@@ -59,39 +59,6 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 </div>
 
 <!-- CYBER-NEWS:START -->
-
-**[OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators](https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/)**  
-Revision 4 of NIST’s operational technology security guide is open for public comments until November 30. The post OT Security Guidance: NIST Drafts…  
-<sub>`SecurityWeek`</sub>
-
-**[Begin at the End: How to Enable Agentic Remediation](https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/)**  
-Agentic remediation is not an act of faith. We are talking about fixing known problems, not judgment calls about unfamiliar risk. The post Begin at…  
-<sub>`SecurityWeek`</sub>
-
-**[CISA: Ransomware gangs now exploiting critical TeamCity flaw](https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/)**  
-​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting…  
-<sub>`BleepingComputer`</sub>
-
-**[SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted](https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/)**  
-The vulnerabilities, tracked as CVE-2026-28324 and CVE-2026-28325, can be exploited without authentication. The post SolarWinds Patches Critical RCE…  
-<sub>`SecurityWeek`</sub>
-
-**[Astrana Health Data Breach Impacts Private, Confidential Information](https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/)**  
-Hackers impersonated the company’s personnel and contacted its employees to gain access to Astrana Health’s servers. The post Astrana Health Data…  
-<sub>`SecurityWeek`</sub>
-
-**[OpenAI hacked Australian Medicare govt site, probed data providers](https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/)**  
-OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an…  
-<sub>`BleepingComputer`</sub>
-
-**[17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360](https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html)**  
-ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk…  
-<sub>`The Hacker News`</sub>
-
-**[US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks](https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/)**  
-Karen Vardanyan has also been ordered to pay over $1.2 million in restitution to victims. The post US Court Sentences Armenian Man to Prison for Ryuk…  
-<sub>`SecurityWeek`</sub>
-
 <!-- CYBER-NEWS:END -->
 
 <sub>Auto-updated every 6 hours from The Hacker News, BleepingComputer, Krebs on Security, Dark Reading, SecurityWeek, The Record and CISA advisories. Headlines link to the original source.</sub>
@@ -114,6 +81,34 @@ Karen Vardanyan has also been ordered to pay over $1.2 million in restitution to
 | **Awareness & Reporting** | Security awareness (KnowBE4); technical, executive and analytical reporting |
 
 **Engagement approach:** `Reconnaissance` → `Assessment` → `Exploitation` → `Post-exploitation` → `Detection review (purple-team)` → `Technical & executive reporting`
+
+---
+
+## How I Deliver Value
+
+I treat security as a business function: every technical decision is measured by the value it creates, the risk it removes and the efficiency it adds.
+
+### Business value
+- Translate complex technical findings into clear, executive-level insight that shows where security investment delivers the most return.
+- Build and mature Security Operations Centre (SOC) capability, giving the business continuous visibility and faster detection.
+- Lead offensive security engagements (penetration testing) that surface real weaknesses before attackers can exploit them.
+- Support pre-sales and customer workshops, positioning security as an enabler of new business rather than a blocker.
+- Mentor security teams, compounding capability across the whole organisation.
+
+### Risk management
+- Run risk-based vulnerability management — prioritising remediation by real exploitability and business impact, not raw scores.
+- Lead threat detection, incident response and threat-intelligence analysis to contain issues quickly and limit impact.
+- Review and approve security architectures before production, catching risk at design time.
+- Enforce identity and access controls and least-privilege access across environments.
+- Align delivery to NIST CSF and ISO 27001, sustaining certifications and audit readiness.
+
+### Operational efficiency
+- Engineer SIEM correlation rules, use cases and dashboards (FortiSIEM) that cut alert fatigue and speed up triage.
+- Standardise monitoring, detection and remediation into repeatable processes and playbooks.
+- Centralise and consolidate tooling (EDR/XDR, centralised firewall and log management) to reduce operational overhead.
+- Deliver technical, executive and analytical reporting that keeps stakeholders aligned and reduces rework.
+
+> *Tip: add measurable outcomes as you quantify them — reduction in mean time to detect/respond, vulnerabilities remediated, audit findings closed. Real numbers make this section land hardest.*
 
 ---
 
