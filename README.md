@@ -59,6 +59,39 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 </div>
 
 <!-- CYBER-NEWS:START -->
+
+**[Kontext Security Emerges With $4 Million for AI Agent Runtime Controls](https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/)**  
+The startup’s runtime enforcement platform evaluates AI agents in real time to provide visibility and control over their actions. The post Kontext…  
+<sub>`SecurityWeek`</sub>
+
+**[Placeholder third-party(.)com Referenced Across 1,700+ Repositories Now Serves Malicious Content](https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html)**  
+The "third-party[.]com" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while…  
+<sub>`The Hacker News`</sub>
+
+**[3 Cyber Threats That Defined the Summer of 2026](https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026)**  
+This installment of the Reporters' Notebook video series discusses the impact of AI agents breaching Hugging Face, Fairlife's ransomware attack, and…  
+<sub>`Dark Reading`</sub>
+
+**[OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data](https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/)**  
+Australia disclosed that an OpenAI agent gained unauthorized access to non-public government information. The post OpenAI Agents Probed Websites for…  
+<sub>`SecurityWeek`</sub>
+
+**[Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer](https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html)**  
+An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and…  
+<sub>`The Hacker News`</sub>
+
+**[How to Build A SASE Framework for Modern Cybersecurity](https://www.darkreading.com/cloud-security/how-to-build-sase-framework)**  
+Keeping edge computing safe requires organizations to fundamentally rethink security governance. Here is a path forward: a step-by-step guide to…  
+<sub>`Dark Reading`</sub>
+
+**[FedRAMP VDR & VER: Daily Scans Are Only the Beginning](https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/)**  
+FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and…  
+<sub>`BleepingComputer`</sub>
+
+**[Ghost Service Accounts Enable M365 Data Theft in Chile](https://www.darkreading.com/cyberattacks-data-breaches/ghost-service-accounts-m365-data-theft-chile)**  
+Even if the organization locks down employee accounts, forgotten and lost service accounts can still undo the organization's entire M365 environment.  
+<sub>`Dark Reading`</sub>
+
 <!-- CYBER-NEWS:END -->
 
 <sub>Auto-updated every 6 hours from The Hacker News, BleepingComputer, Krebs on Security, Dark Reading, SecurityWeek, The Record and CISA advisories. Headlines link to the original source.</sub>
