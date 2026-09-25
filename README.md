@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**['Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing](https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing)**  
-Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels.  
-<sub>`Dark Reading`</sub>
-
-**[MacSync malware uses public iCloud calendars to deliver new payloads](https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/)**  
-A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]  
-<sub>`BleepingComputer`</sub>
-
-**[Autonomous AI Hacks Raise Thorny Questions of Legal Accountability](https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/)**  
-The prospect of legal accountability is unclear. Lawsuits are a possibility, but some legal experts believe any criminal investigations would face an…  
+**[Windows, Linux, Android File Notification Systems Leak User Activity](https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/)**  
+Researchers show that file-change notification systems can leak keystroke timing, browsing activity, and WhatsApp media events. The post Windows…  
 <sub>`SecurityWeek`</sub>
 
-**[SectopRAT Returns, Hiding Inside a Legitimate Application](https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application)**  
-The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly…  
-<sub>`Dark Reading`</sub>
+**[Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise](https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html)**  
+Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets. "At 18:31 UTC on…  
+<sub>`The Hacker News`</sub>
 
-**[Digital forensics firm with US federal contracts covered up ties to Russia, DOJ alleges](https://therecord.media/russia-forensics-technology-doj)**  
-Two executives at a data extraction and digital forensics company that sold several U.S. agencies its software were arrested for allegedly lying…  
-<sub>`The Record`</sub>
-
-**[Lawmakers introduce bill for voluntary telecom cyber rules after Salt Typhoon hacks](https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules)**  
-U.S. Sens. Mark Warner (D-VA) and Ted Cruz (R-TX) introduced the Telecommunications Cybersecurity and Resilience Act on Thursday, arguing that the…  
-<sub>`The Record`</sub>
-
-**[New Carbonato malware uses AI agents to hijack exposed Docker hosts](https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/)**  
-A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control…  
+**[Microsoft: Recent Windows updates cause desktop loading issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/)**  
+Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview…  
 <sub>`BleepingComputer`</sub>
 
-**[Rydox cybercriminal marketplace operator pleads guilty following co-conspirator brothers’s deportation](https://therecord.media/rydox-criminal-marketplace-operator-pleads-guilty)**  
-Ardit Kutleshi, 28, was extradited from his home country of Kosovo last year after prosecutors accused him and his older brother of running Rydox —…  
-<sub>`The Record`</sub>
+**[Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild](https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html)**  
+The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The…  
+<sub>`The Hacker News`</sub>
+
+**[‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration](https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/)**  
+Three vulnerabilities in Salesforce Agentforce allowed hackers to hijack trusted agents, steal data, and launch phishing attacks. The post…  
+<sub>`SecurityWeek`</sub>
+
+**[Hackers steal $351.6 million in Bitget crypto exchange hack](https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/)**  
+​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]  
+<sub>`BleepingComputer`</sub>
+
+**[Russia's Hybrid Cyber-Physical War in Europe Heats Up](https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe)**  
+A storm is raging in the form of cyber sabotage, disinformation, and drone attacks on European nations, particularly those that provide material…  
+<sub>`Dark Reading`</sub>
+
+**[Roundcube Webmail Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/)**  
+Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication. The post Roundcube Webmail…  
+<sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
 
