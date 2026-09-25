@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw](https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/)**  
+The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through…  
+<sub>`BleepingComputer`</sub>
+
+**[Kiteworks urges customers to stop using platform after warning from federal intelligence agencies](https://therecord.media/kiteworks-urges-customers-to-stop-using-systems-incident)**  
+Frank Balonis, CISO at Kiteworks, told Recorded Future News that the company “received credible threat intelligence from federal intelligence…  
+<sub>`The Record`</sub>
+
+**[Labcorp to overhaul data security practices, pay $2.3 million fine for cybersecurity failings](https://therecord.media/labcorp-to-overhaul-security-practices-settlement)**  
+Security changes include creating an incident response plan for vendor security failings, limiting how much data Labcorp shares with vendors and…  
+<sub>`The Record`</sub>
+
+**[AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment](https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness)**  
+When autonomous AI agents "escape the sandbox," the real story isn't rogue machines — it's the same access-control failures we've seen for decades.  
+<sub>`Dark Reading`</sub>
+
+**[Elementor WordPress flaw lets attackers create admin accounts](https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/)**  
+A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create…  
+<sub>`BleepingComputer`</sub>
+
+**[What We Missed: Google Gemini Joins the AI Escape Party](https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party)**  
+In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Google Gemini models breaking…  
+<sub>`Dark Reading`</sub>
+
+**[CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/)**  
+The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability…  
+<sub>`BleepingComputer`</sub>
+
 **[Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/)**  
 Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free…  
 <sub>`BleepingComputer`</sub>
-
-**[Crypto CEO accuses North Korea of stealing $387 million from Bitget platform](https://therecord.media/crypto-ceo-accuses-north-korea-of-387-million-theft)**  
-The CEO said the company has a User Protection Fund that has over $464 million and those funds will be used to cover the losses.  
-<sub>`The Record`</sub>
-
-**[In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure](https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/)**  
-Noteworthy stories that might have slipped under the radar: BragJack attack against browser AI assistants, TDengine flaw threatens industrial…  
-<sub>`SecurityWeek`</sub>
-
-**[Cyberattack hits Welsh police force, may have affected staff data](https://therecord.media/wales-cyberattack-police-breach)**  
-Dyfed-Powys Police in Wales said a cyberattack affecting the force disrupted some non-emergency systems and may have compromised staff information.  
-<sub>`The Record`</sub>
-
-**[OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/)**  
-OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]  
-<sub>`BleepingComputer`</sub>
-
-**[With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance](https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/)**  
-AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security…  
-<sub>`BleepingComputer`</sub>
-
-**[Stopping IT Worker Scams Requires Revamped HR Process](https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process)**  
-Training human-resource managers in the latest tactics and warning signs goes a long way toward blunting the threat, but automated analysis can help…  
-<sub>`Dark Reading`</sub>
-
-**[Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware](https://thehackernews.com/2026/09/compromised-github-actions-came-back.html)**  
-Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were…  
-<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
