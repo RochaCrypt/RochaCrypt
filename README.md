@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Windows, Linux, Android File Notification Systems Leak User Activity](https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/)**  
-Researchers show that file-change notification systems can leak keystroke timing, browsing activity, and WhatsApp media events. The post Windows…  
-<sub>`SecurityWeek`</sub>
-
-**[Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise](https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html)**  
-Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets. "At 18:31 UTC on…  
-<sub>`The Hacker News`</sub>
-
-**[Microsoft: Recent Windows updates cause desktop loading issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/)**  
-Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview…  
+**[Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/)**  
+Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free…  
 <sub>`BleepingComputer`</sub>
 
-**[Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild](https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html)**  
-The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The…  
-<sub>`The Hacker News`</sub>
+**[Crypto CEO accuses North Korea of stealing $387 million from Bitget platform](https://therecord.media/crypto-ceo-accuses-north-korea-of-387-million-theft)**  
+The CEO said the company has a User Protection Fund that has over $464 million and those funds will be used to cover the losses.  
+<sub>`The Record`</sub>
 
-**[‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration](https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/)**  
-Three vulnerabilities in Salesforce Agentforce allowed hackers to hijack trusted agents, steal data, and launch phishing attacks. The post…  
+**[In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure](https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/)**  
+Noteworthy stories that might have slipped under the radar: BragJack attack against browser AI assistants, TDengine flaw threatens industrial…  
 <sub>`SecurityWeek`</sub>
 
-**[Hackers steal $351.6 million in Bitget crypto exchange hack](https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/)**  
-​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]  
+**[Cyberattack hits Welsh police force, may have affected staff data](https://therecord.media/wales-cyberattack-police-breach)**  
+Dyfed-Powys Police in Wales said a cyberattack affecting the force disrupted some non-emergency systems and may have compromised staff information.  
+<sub>`The Record`</sub>
+
+**[OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/)**  
+OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]  
 <sub>`BleepingComputer`</sub>
 
-**[Russia's Hybrid Cyber-Physical War in Europe Heats Up](https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe)**  
-A storm is raging in the form of cyber sabotage, disinformation, and drone attacks on European nations, particularly those that provide material…  
+**[With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance](https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/)**  
+AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security…  
+<sub>`BleepingComputer`</sub>
+
+**[Stopping IT Worker Scams Requires Revamped HR Process](https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process)**  
+Training human-resource managers in the latest tactics and warning signs goes a long way toward blunting the threat, but automated analysis can help…  
 <sub>`Dark Reading`</sub>
 
-**[Roundcube Webmail Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/)**  
-Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication. The post Roundcube Webmail…  
-<sub>`SecurityWeek`</sub>
+**[Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware](https://thehackernews.com/2026/09/compromised-github-actions-came-back.html)**  
+Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were…  
+<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
