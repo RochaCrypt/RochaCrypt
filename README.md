@@ -60,6 +60,22 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure](https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/)**  
+OpenAI’s CEO said there is an “extensive and ongoing review related to our agents’ use of internet access during training and evaluation.” The post…  
+<sub>`SecurityWeek`</sub>
+
+**[Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link](https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html)**  
+Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an…  
+<sub>`The Hacker News`</sub>
+
+**[SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild](https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html)**  
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik…  
+<sub>`The Hacker News`</sub>
+
+**[Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack](https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html)**  
+Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it…  
+<sub>`The Hacker News`</sub>
+
 **[U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/)**  
 A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than…  
 <sub>`Krebs on Security`</sub>
@@ -75,22 +91,6 @@ The Clop ransomware gang has moved its data leak site to a new Tor address after
 **[Kiteworks urges customers to stop using platform after warning from federal intelligence agencies](https://therecord.media/kiteworks-urges-customers-to-stop-using-systems-incident)**  
 Frank Balonis, CISO at Kiteworks, told Recorded Future News that the company “received credible threat intelligence from federal intelligence…  
 <sub>`The Record`</sub>
-
-**[Labcorp to overhaul data security practices, pay $2.3 million fine for cybersecurity failings](https://therecord.media/labcorp-to-overhaul-security-practices-settlement)**  
-Security changes include creating an incident response plan for vendor security failings, limiting how much data Labcorp shares with vendors and…  
-<sub>`The Record`</sub>
-
-**[AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment](https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness)**  
-When autonomous AI agents "escape the sandbox," the real story isn't rogue machines — it's the same access-control failures we've seen for decades.  
-<sub>`Dark Reading`</sub>
-
-**[Elementor WordPress flaw lets attackers create admin accounts](https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/)**  
-A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create…  
-<sub>`BleepingComputer`</sub>
-
-**[What We Missed: Google Gemini Joins the AI Escape Party](https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party)**  
-In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Google Gemini models breaking…  
-<sub>`Dark Reading`</sub>
 
 <!-- CYBER-NEWS:END -->
 
