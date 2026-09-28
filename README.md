@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Prison Sentence for Former US Soldier Who Hacked AT&T and Verizon](https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/)**  
-Cameron John Wagenius was sentenced to 70 months in prison for stealing information from the wireless carriers. The post Prison Sentence for Former…  
-<sub>`SecurityWeek`</sub>
+**[One Packet Can Crash OT Servers in Industrial Sectors](https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine)**  
+A high-severity zero-day vulnerability affects the TDengine time-series database used across industrial, IoT, energy, and automotive environments.  
+<sub>`Dark Reading`</sub>
 
-**[Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI](https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html)**  
-AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting…  
+**[Japan's Keio confirms ransomware attack disrupted business systems](https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/)**  
+Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting some…  
+<sub>`BleepingComputer`</sub>
+
+**[Times Car confirms data breach affecting 6.6 million user accounts](https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/)**  
+Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late…  
+<sub>`BleepingComputer`</sub>
+
+**[Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts](https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts)**  
+The botnet uses the open source Hermes Agent AI framework to execute commands via Telegram and steal AI API keys from exposed Docker hosts.  
+<sub>`Dark Reading`</sub>
+
+**[Dutch police confirm arrest in ShinyHunters hacking investigation](https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/)**  
+Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the…  
+<sub>`BleepingComputer`</sub>
+
+**[ShinyHunters exploiting workarounds for Oracle PeopleSoft bug, Mandiant warns](https://therecord.media/shinyhunters-cyberattacks-oracle-mandiant)**  
+A vulnerability in a popular line of products from Oracle is being used in a new campaign by the prolific ShinyHunters hacking group, which recently…  
+<sub>`The Record`</sub>
+
+**[Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks](https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html)**  
+Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in…  
 <sub>`The Hacker News`</sub>
 
-**[Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent](https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html)**  
-Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an…  
-<sub>`The Hacker News`</sub>
-
-**[DC Health Agency Exposes 400,000 Beneficiary Records](https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/)**  
-The Medicaid IDs and other information of Medicaid and DC Healthcare Alliance beneficiaries were exposed. The post DC Health Agency Exposes 400,000…  
-<sub>`SecurityWeek`</sub>
-
-**[Google Warns of ShinyHunters’ Fresh Oracle PeopleSoft Campaign](https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/)**  
-The extortion group has modified its exploit in new attacks targeting the PeopleSoft vulnerability CVE-2026-35273. The post Google Warns of…  
-<sub>`SecurityWeek`</sub>
-
-**[New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections](https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/)**  
-A New Mexico jury has found Facebook liable for deceiving users about privacy protections on the platform. The post New Mexico Jury Finds Facebook…  
-<sub>`SecurityWeek`</sub>
-
-**[Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog](https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/)**  
-The platform combines open source software and a reference system design to keep AI agents within set boundaries. The post Nvidia Unveils AI Agent…  
-<sub>`SecurityWeek`</sub>
-
-**[Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability](https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/)**  
-The company says the measure was precautionary and that it has no evidence of Kiteworks or customer systems being compromised. The post Kiteworks…  
-<sub>`SecurityWeek`</sub>
+**[Over 16,000 Supabase databases expose PII, passwords, auth tokens](https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/)**  
+Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or…  
+<sub>`BleepingComputer`</sub>
 
 <!-- CYBER-NEWS:END -->
 
