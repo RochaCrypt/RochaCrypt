@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks](https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/)**  
-Rig provides an identity dependencies graph to distinguish between legitimate users and rogue AI agents The post Rig Security Emerges From Stealth…  
-<sub>`SecurityWeek`</sub>
+**[Apple Zero-Day Vulnerability Weaponized in Targeted Attacks](https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks)**  
+Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple.  
+<sub>`Dark Reading`</sub>
 
-**[Vietnamese man charged in $16 million 'pig butchering' crypto scam](https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/)**  
-A Vietnamese national was charged with money laundering for his role in a massive "pig butchering" scam, which defrauded a victim out of $16 million…  
+**[Signal adds encypted local backup support to iOS, desktop apps](https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/)**  
+Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems…  
 <sub>`BleepingComputer`</sub>
 
-**[Four Cyber Threats Harboring Big Plans for the Future](https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/)**  
-- AI, supply-chain exposure, quantum computing and geopolitical conflict are testing security programs. Preparing for disruption must become part of…  
-<sub>`SecurityWeek`</sub>
+**[Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution](https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution)**  
+A patched Unsloth Studio vulnerability allows malicious AI models to execute arbitrary Python code during inspection, via the trust_remote_code…  
+<sub>`Dark Reading`</sub>
 
-**[OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training](https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/)**  
-The GPT-6.1 Astra model was slated to debut in ChatGPT and Codex in October, but it fell short of expectations. The post OpenAI Calls Off GPT-6.1…  
-<sub>`SecurityWeek`</sub>
+**[US Air Force members given over 6 years in prison for cyber theft of more than $2 million](https://therecord.media/us-air-force-members-given-6-year-sentence-cyber)**  
+According to court documents, both men pleaded guilty to wire fraud, identity theft and access device fraud charges in June.  
+<sub>`The Record`</sub>
 
-**[Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation](https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/)**  
-Pepijn van der Stap was convicted in 2023 for hacking multiple organizations, stealing their data, and extorting them. The post Dutch Police Arrest…  
-<sub>`SecurityWeek`</sub>
-
-**[Daemon Tools Hackers’ NeedyMantis Malware Dissected by Microsoft](https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/)**  
-The malware framework uses a modular architecture and a custom executable file format for long-term persistence. The post Daemon Tools Hackers’…  
-<sub>`SecurityWeek`</sub>
-
-**[Kiteworks patches critical flaw, brings customer systems online](https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/)**  
-American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability…  
+**[Custom ChatGPTs push ClickFix attacks to deploy RAT malware](https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/)**  
+Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix…  
 <sub>`BleepingComputer`</sub>
 
-**[Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation](https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html)**  
-Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group. "It is true that this…  
-<sub>`The Hacker News`</sub>
+**[Controversial spyware firm Paragon to go public by end of year](https://therecord.media/controversial-spyware-firm-paragon-to-go-public)**  
+The company plans to close the deal around the end of the year at which point Paragon will begin trading on Nasdaq under the REDLattice umbrella.  
+<sub>`The Record`</sub>
+
+**[OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference](https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/)**  
+Altman made a slew of product announcements and updates, including the company’s new agents, called Dots. The post OpenAI CEO Announces New AI Agent…  
+<sub>`SecurityWeek`</sub>
+
+**[FBI tells ShinyHunters members to turn themselves in after recent arrest](https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/)**  
+The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of…  
+<sub>`BleepingComputer`</sub>
 
 <!-- CYBER-NEWS:END -->
 
