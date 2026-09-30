@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/)**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to…  
-<sub>`BleepingComputer`</sub>
-
-**[Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager](https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html)**  
-Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN…  
-<sub>`The Hacker News`</sub>
-
-**[Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net](https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net)**  
-The APT actor is using a new tactic, dubbed "RedFlick," against Ukrainian-linked targets such as NGOs, think tanks, and journalists to deploy its…  
+**[Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure](https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure)**  
+In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users.  
 <sub>`Dark Reading`</sub>
 
-**[Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures](https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html)**  
-Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites…  
-<sub>`The Hacker News`</sub>
-
-**[Cisco warns of new SD-WAN zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/)**  
-Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively…  
+**[Russian state hackers use new RedFlick technique to push malware](https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/)**  
+The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed "RedFlick" to deploy its signature CosmicPulse…  
 <sub>`BleepingComputer`</sub>
 
-**[Google: AI Is Changing the Pace and Profile of Vulnerability Discovery](https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/)**  
-Google’s analysis found that AI-discovered vulnerabilities are more likely to enable remote code execution. The post Google: AI Is Changing the Pace…  
-<sub>`SecurityWeek`</sub>
-
-**[AI's Third Wave: Coworkers Break the Security Model That Worked for Agents](https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/)**  
-Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to…  
-<sub>`BleepingComputer`</sub>
-
-**[Mobile malware warning from Ukrainian researchers includes iPhone exploit kit](https://therecord.media/ukraine-ssscip-mobile-malware-warning-ios-android)**  
-'Hit and run' iPhone malware known as DarkSword is part of a wave of Russian attacks on iOS and Android devices, according to Ukraine's SSSCIP.  
+**[Automakers routinely share personally identifiable connected-car data with third parties, report says](https://therecord.media/automakers-routinely-share-connected-car-data-third-parties)**  
+A new study reveals fresh details about how drivers are exposed to a web of large corporations participating in the advertising ecosystem.  
 <sub>`The Record`</sub>
+
+**[DIVD says Zammad zero-days enabled AI-driven network breach](https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/)**  
+The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day…  
+<sub>`BleepingComputer`</sub>
+
+**[After reports on suicide deaths, Pentagon puts Cyber Command on notice](https://therecord.media/cyber-command-suicide-deaths-pentagon-memo)**  
+An August 31 memo obtained by Recorded Future News shows that the Pentagon's assistant secretary for cyber policy made specific demands of U.S. Cyber…  
+<sub>`The Record`</sub>
+
+**[Google: Vulnerability disclosures double to 10,000 per month as AI fuels exploitation](https://therecord.media/google-vulnerabilities-cyberattacks-ai)**  
+Vulnerability disclosures continue to skyrocket, doubling over the course of the year to more than 10,000 each month, Google researchers warned.  
+<sub>`The Record`</sub>
+
+**[As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half](https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder)**  
+New Swimlane research underscores a paradox: While AI detection and response is essential to giving defenders an edge, one in four security pros say…  
+<sub>`Dark Reading`</sub>
+
+**[Over 543,000 valid credentials exposed in public GitHub repositories](https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/)**  
+More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent…  
+<sub>`BleepingComputer`</sub>
 
 <!-- CYBER-NEWS:END -->
 
