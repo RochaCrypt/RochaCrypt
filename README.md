@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development](https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/)**  
-The accord opened the door to future regulation but focused on four voluntary steps for the companies to take. The post Trump Says Top Tech Firms…  
+**[AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub](https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html)**  
+AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security…  
+<sub>`The Hacker News`</sub>
+
+**[Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit](https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/)**  
+Attacks by autonomous AI agents are moving out of the lab and into the courtroom, raising unsettled questions about who is liable for what agents do…  
 <sub>`SecurityWeek`</sub>
 
-**[Microsoft is rolling out Linux container support to WSL](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/)**  
-Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]  
+**[Bitget hacked via zero-day in third-party security products](https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/)**  
+Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw…  
 <sub>`BleepingComputer`</sub>
 
-**[Apple Zero-Day Vulnerability Weaponized in Targeted Attacks](https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks)**  
-Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple.  
-<sub>`Dark Reading`</sub>
+**[Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks](https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/)**  
+The state-sponsored group has launched larger-scale phishing campaigns to deploy the CosmicPulse backdoor. The post Russian APT Star Blizzard Uses…  
+<sub>`SecurityWeek`</sub>
 
-**[Signal adds encypted local backup support to iOS, desktop apps](https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/)**  
-Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems…  
-<sub>`BleepingComputer`</sub>
+**[US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access](https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html)**  
+ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States…  
+<sub>`The Hacker News`</sub>
 
-**[Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution](https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution)**  
-A patched Unsloth Studio vulnerability allows malicious AI models to execute arbitrary Python code during inspection, via the trust_remote_code…  
-<sub>`Dark Reading`</sub>
+**[ShinyHunters Defiant After FBI Calls on Members to Come Forward](https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/)**  
+In the wake of a suspected leader’s arrest, ShinyHunters says it never intended to publish data stolen from the FBI. The post ShinyHunters Defiant…  
+<sub>`SecurityWeek`</sub>
 
-**[US Air Force members given over 6 years in prison for cyber theft of more than $2 million](https://therecord.media/us-air-force-members-given-6-year-sentence-cyber)**  
-According to court documents, both men pleaded guilty to wire fraud, identity theft and access device fraud charges in June.  
-<sub>`The Record`</sub>
+**[Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT](https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html)**  
+Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target…  
+<sub>`The Hacker News`</sub>
 
-**[Custom ChatGPTs push ClickFix attacks to deploy RAT malware](https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/)**  
-Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix…  
-<sub>`BleepingComputer`</sub>
-
-**[Controversial spyware firm Paragon to go public by end of year](https://therecord.media/controversial-spyware-firm-paragon-to-go-public)**  
-The company plans to close the deal around the end of the year at which point Paragon will begin trading on Nasdaq under the REDLattice umbrella.  
-<sub>`The Record`</sub>
+**[OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted](https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html)**  
+A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it…  
+<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
