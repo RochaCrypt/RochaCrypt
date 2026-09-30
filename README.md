@@ -60,6 +60,14 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development](https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/)**  
+The accord opened the door to future regulation but focused on four voluntary steps for the companies to take. The post Trump Says Top Tech Firms…  
+<sub>`SecurityWeek`</sub>
+
+**[Microsoft is rolling out Linux container support to WSL](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/)**  
+Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]  
+<sub>`BleepingComputer`</sub>
+
 **[Apple Zero-Day Vulnerability Weaponized in Targeted Attacks](https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks)**  
 Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple.  
 <sub>`Dark Reading`</sub>
@@ -83,14 +91,6 @@ Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are dir
 **[Controversial spyware firm Paragon to go public by end of year](https://therecord.media/controversial-spyware-firm-paragon-to-go-public)**  
 The company plans to close the deal around the end of the year at which point Paragon will begin trading on Nasdaq under the REDLattice umbrella.  
 <sub>`The Record`</sub>
-
-**[OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference](https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/)**  
-Altman made a slew of product announcements and updates, including the company’s new agents, called Dots. The post OpenAI CEO Announces New AI Agent…  
-<sub>`SecurityWeek`</sub>
-
-**[FBI tells ShinyHunters members to turn themselves in after recent arrest](https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/)**  
-The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of…  
-<sub>`BleepingComputer`</sub>
 
 <!-- CYBER-NEWS:END -->
 
