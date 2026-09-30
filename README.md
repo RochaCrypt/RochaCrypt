@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub](https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html)**  
-AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security…  
-<sub>`The Hacker News`</sub>
-
-**[Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit](https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/)**  
-Attacks by autonomous AI agents are moving out of the lab and into the courtroom, raising unsettled questions about who is liable for what agents do…  
-<sub>`SecurityWeek`</sub>
-
-**[Bitget hacked via zero-day in third-party security products](https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/)**  
-Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw…  
+**[CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/)**  
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to…  
 <sub>`BleepingComputer`</sub>
 
-**[Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks](https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/)**  
-The state-sponsored group has launched larger-scale phishing campaigns to deploy the CosmicPulse backdoor. The post Russian APT Star Blizzard Uses…  
+**[Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager](https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html)**  
+Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN…  
+<sub>`The Hacker News`</sub>
+
+**[Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net](https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net)**  
+The APT actor is using a new tactic, dubbed "RedFlick," against Ukrainian-linked targets such as NGOs, think tanks, and journalists to deploy its…  
+<sub>`Dark Reading`</sub>
+
+**[Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures](https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html)**  
+Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites…  
+<sub>`The Hacker News`</sub>
+
+**[Cisco warns of new SD-WAN zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/)**  
+Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively…  
+<sub>`BleepingComputer`</sub>
+
+**[Google: AI Is Changing the Pace and Profile of Vulnerability Discovery](https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/)**  
+Google’s analysis found that AI-discovered vulnerabilities are more likely to enable remote code execution. The post Google: AI Is Changing the Pace…  
 <sub>`SecurityWeek`</sub>
 
-**[US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access](https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html)**  
-ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States…  
-<sub>`The Hacker News`</sub>
+**[AI's Third Wave: Coworkers Break the Security Model That Worked for Agents](https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/)**  
+Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to…  
+<sub>`BleepingComputer`</sub>
 
-**[ShinyHunters Defiant After FBI Calls on Members to Come Forward](https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/)**  
-In the wake of a suspected leader’s arrest, ShinyHunters says it never intended to publish data stolen from the FBI. The post ShinyHunters Defiant…  
-<sub>`SecurityWeek`</sub>
-
-**[Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT](https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html)**  
-Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target…  
-<sub>`The Hacker News`</sub>
-
-**[OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted](https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html)**  
-A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it…  
-<sub>`The Hacker News`</sub>
+**[Mobile malware warning from Ukrainian researchers includes iPhone exploit kit](https://therecord.media/ukraine-ssscip-mobile-malware-warning-ios-android)**  
+'Hit and run' iPhone malware known as DarkSword is part of a wave of Russian attacks on iOS and Android devices, according to Ukraine's SSSCIP.  
+<sub>`The Record`</sub>
 
 <!-- CYBER-NEWS:END -->
 
