@@ -60,8 +60,20 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[FTC is Investigating OpenAI and Anthropic Over Possible risks to Consumers](https://www.securityweek.com/ftc-is-investigating-openai-and-anthropic-over-possible-risks-to-consumers/)**  
+An FTC spokesperson confirmed the investigation but declined further comment. The post FTC is Investigating OpenAI and Anthropic Over Possible risks…  
+<sub>`SecurityWeek`</sub>
+
+**[US sanctions 10 over ATM malware scheme tied to Tren de Aragua](https://therecord.media/us-sanctions-10-atm-jackpotting-tren-de-aragua)**  
+Treasury’s Office of Foreign Assets Control (OFAC) targeted multiple Venezuelan nationals and several companies they control that are part of the…  
+<sub>`The Record`</sub>
+
 **[Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure](https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure)**  
 In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users.  
+<sub>`Dark Reading`</sub>
+
+**[Trump, Tech Giants Strike Voluntary AI Safety Accord](https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord)**  
+The new White House Accord on so-called "Super Intelligence" calls on companies to implement greater controls and oversight over AI safety.  
 <sub>`Dark Reading`</sub>
 
 **[Russian state hackers use new RedFlick technique to push malware](https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/)**  
@@ -79,18 +91,6 @@ The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of 
 **[After reports on suicide deaths, Pentagon puts Cyber Command on notice](https://therecord.media/cyber-command-suicide-deaths-pentagon-memo)**  
 An August 31 memo obtained by Recorded Future News shows that the Pentagon's assistant secretary for cyber policy made specific demands of U.S. Cyber…  
 <sub>`The Record`</sub>
-
-**[Google: Vulnerability disclosures double to 10,000 per month as AI fuels exploitation](https://therecord.media/google-vulnerabilities-cyberattacks-ai)**  
-Vulnerability disclosures continue to skyrocket, doubling over the course of the year to more than 10,000 each month, Google researchers warned.  
-<sub>`The Record`</sub>
-
-**[As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half](https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder)**  
-New Swimlane research underscores a paradox: While AI detection and response is essential to giving defenders an edge, one in four security pros say…  
-<sub>`Dark Reading`</sub>
-
-**[Over 543,000 valid credentials exposed in public GitHub repositories](https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/)**  
-More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent…  
-<sub>`BleepingComputer`</sub>
 
 <!-- CYBER-NEWS:END -->
 
