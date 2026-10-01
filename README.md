@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[How Financial Services Companies Can Modernize Their Software Supply Chain](https://thehackernews.com/2026/10/how-financial-services-companies-can.html)**  
-Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of…  
-<sub>`The Hacker News`</sub>
+**[Alleged KillSec Ransomware Mastermind a 16-Year-Old](https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old)**  
+Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two…  
+<sub>`Dark Reading`</sub>
 
-**[Kevin Mandia’s Armadin Raises $255 Million at $2.5 Billion Valuation](https://www.securityweek.com/kevin-mandias-armadin-raises-255-million-at-2-5-billion-valuation/)**  
-The Series B brings the AI-powered offensive security startup’s total funding to roughly $445 million only seven months after its public launch. The…  
-<sub>`SecurityWeek`</sub>
-
-**[Microsoft enables Windows settings backup by default for orgs](https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/)**  
-Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined…  
+**[Autonomous AI agents tried to hack US, Canadian government websites](https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/)**  
+Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]  
 <sub>`BleepingComputer`</sub>
 
-**[Treasury Blacklists Most-Wanted ATM Malware Developer and His Network](https://www.securityweek.com/treasury-blacklists-most-wanted-atm-malware-developer-and-his-network/)**  
-The US government continues its crackdown on Tren de Aragua over its ATM jackpotting scheme. The post Treasury Blacklists Most-Wanted ATM Malware…  
-<sub>`SecurityWeek`</sub>
+**[Iranian accused of hacking American universities extradited from Montenegro](https://therecord.media/iran-montenegro-hacker-extradition)**  
+An Iranian national accused by the U.S. of taking part in dozens of breaches involving the theft of academic data and intellectual property has been…  
+<sub>`The Record`</sub>
 
-**[Zammad Zero-Days Exploited in AI-Powered DIVD Hack](https://www.securityweek.com/zammad-zero-days-exploited-in-ai-powered-divd-hack/)**  
-The flaws were chained to hijack sessions, achieve remote code execution, and elevate privileges to root. The post Zammad Zero-Days Exploited in…  
-<sub>`SecurityWeek`</sub>
-
-**[OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates](https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html)**  
-OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning…  
-<sub>`The Hacker News`</sub>
-
-**[CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV](https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html)**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst…  
-<sub>`The Hacker News`</sub>
-
-**[Hackers stole Pentagon personnel records of over 3 million people](https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/)**  
-The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching…  
+**[Microsoft says threat actors are ahead in the early AI race](https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/)**  
+Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up…  
 <sub>`BleepingComputer`</sub>
+
+**[OpenAI software attempted to secretly scrape data from dozens of prominent websites](https://therecord.media/openai-software-attempted-to-secretly-scrape-data-from-dozens-of-websites)**  
+The findings, released Thursday by Asymmetric Security, are just the latest example of rogue behavior spurred by OpenAI’s software.  
+<sub>`The Record`</sub>
+
+**[Researchers find Chinese hacking campaigns targeting AI firms, Asian governments](https://therecord.media/china-linked-phishing-scheme-backdoor-taiwan)**  
+Two separate reports by cybersecurity companies highlight China-linked hacking operations, including a phishing campaign that impersonated Western…  
+<sub>`The Record`</sub>
+
+**[Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks](https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/)**  
+Fifteen years after coining the framework, John Kindervag insists zero trust still works in the AI era—if you get the implementation right. The post…  
+<sub>`SecurityWeek`</sub>
+
+**[Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains](https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/)**  
+Hybrid risk intelligence company Osavul has raised $10 million in a Series A funding round led by 33N Ventures. The post Osavul Lands $10 Million to…  
+<sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
 
