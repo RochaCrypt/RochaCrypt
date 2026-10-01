@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[FTC is Investigating OpenAI and Anthropic Over Possible risks to Consumers](https://www.securityweek.com/ftc-is-investigating-openai-and-anthropic-over-possible-risks-to-consumers/)**  
-An FTC spokesperson confirmed the investigation but declined further comment. The post FTC is Investigating OpenAI and Anthropic Over Possible risks…  
+**[How Financial Services Companies Can Modernize Their Software Supply Chain](https://thehackernews.com/2026/10/how-financial-services-companies-can.html)**  
+Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of…  
+<sub>`The Hacker News`</sub>
+
+**[Kevin Mandia’s Armadin Raises $255 Million at $2.5 Billion Valuation](https://www.securityweek.com/kevin-mandias-armadin-raises-255-million-at-2-5-billion-valuation/)**  
+The Series B brings the AI-powered offensive security startup’s total funding to roughly $445 million only seven months after its public launch. The…  
 <sub>`SecurityWeek`</sub>
 
-**[US sanctions 10 over ATM malware scheme tied to Tren de Aragua](https://therecord.media/us-sanctions-10-atm-jackpotting-tren-de-aragua)**  
-Treasury’s Office of Foreign Assets Control (OFAC) targeted multiple Venezuelan nationals and several companies they control that are part of the…  
-<sub>`The Record`</sub>
-
-**[Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure](https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure)**  
-In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users.  
-<sub>`Dark Reading`</sub>
-
-**[Trump, Tech Giants Strike Voluntary AI Safety Accord](https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord)**  
-The new White House Accord on so-called "Super Intelligence" calls on companies to implement greater controls and oversight over AI safety.  
-<sub>`Dark Reading`</sub>
-
-**[Russian state hackers use new RedFlick technique to push malware](https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/)**  
-The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed "RedFlick" to deploy its signature CosmicPulse…  
+**[Microsoft enables Windows settings backup by default for orgs](https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/)**  
+Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined…  
 <sub>`BleepingComputer`</sub>
 
-**[Automakers routinely share personally identifiable connected-car data with third parties, report says](https://therecord.media/automakers-routinely-share-connected-car-data-third-parties)**  
-A new study reveals fresh details about how drivers are exposed to a web of large corporations participating in the advertising ecosystem.  
-<sub>`The Record`</sub>
+**[Treasury Blacklists Most-Wanted ATM Malware Developer and His Network](https://www.securityweek.com/treasury-blacklists-most-wanted-atm-malware-developer-and-his-network/)**  
+The US government continues its crackdown on Tren de Aragua over its ATM jackpotting scheme. The post Treasury Blacklists Most-Wanted ATM Malware…  
+<sub>`SecurityWeek`</sub>
 
-**[DIVD says Zammad zero-days enabled AI-driven network breach](https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/)**  
-The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day…  
+**[Zammad Zero-Days Exploited in AI-Powered DIVD Hack](https://www.securityweek.com/zammad-zero-days-exploited-in-ai-powered-divd-hack/)**  
+The flaws were chained to hijack sessions, achieve remote code execution, and elevate privileges to root. The post Zammad Zero-Days Exploited in…  
+<sub>`SecurityWeek`</sub>
+
+**[OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates](https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html)**  
+OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning…  
+<sub>`The Hacker News`</sub>
+
+**[CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV](https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html)**  
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst…  
+<sub>`The Hacker News`</sub>
+
+**[Hackers stole Pentagon personnel records of over 3 million people](https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/)**  
+The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching…  
 <sub>`BleepingComputer`</sub>
-
-**[After reports on suicide deaths, Pentagon puts Cyber Command on notice](https://therecord.media/cyber-command-suicide-deaths-pentagon-memo)**  
-An August 31 memo obtained by Recorded Future News shows that the Pentagon's assistant secretary for cyber policy made specific demands of U.S. Cyber…  
-<sub>`The Record`</sub>
 
 <!-- CYBER-NEWS:END -->
 
