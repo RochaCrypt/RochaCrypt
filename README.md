@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Fortinet warns of critical FortiMail flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/)**  
-Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks…  
-<sub>`BleepingComputer`</sub>
-
-**[Alleged KillSec Ransomware Mastermind a 16-Year-Old](https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old)**  
-Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two…  
-<sub>`Dark Reading`</sub>
-
-**[Autonomous AI agents tried to hack US, Canadian government websites](https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/)**  
-Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]  
-<sub>`BleepingComputer`</sub>
-
-**[Iranian accused of hacking American universities extradited from Montenegro](https://therecord.media/iran-montenegro-hacker-extradition)**  
-An Iranian national accused by the U.S. of taking part in dozens of breaches involving the theft of academic data and intellectual property has been…  
-<sub>`The Record`</sub>
-
-**[Microsoft says threat actors are ahead in the early AI race](https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/)**  
-Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up…  
-<sub>`BleepingComputer`</sub>
-
-**[OpenAI software attempted to secretly scrape data from dozens of prominent websites](https://therecord.media/openai-software-attempted-to-secretly-scrape-data-from-dozens-of-websites)**  
-The findings, released Thursday by Asymmetric Security, are just the latest example of rogue behavior spurred by OpenAI’s software.  
-<sub>`The Record`</sub>
-
-**[Researchers find Chinese hacking campaigns targeting AI firms, Asian governments](https://therecord.media/china-linked-phishing-scheme-backdoor-taiwan)**  
-Two separate reports by cybersecurity companies highlight China-linked hacking operations, including a phishing campaign that impersonated Western…  
-<sub>`The Record`</sub>
-
-**[Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks](https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/)**  
-Fifteen years after coining the framework, John Kindervag insists zero trust still works in the AI era—if you get the implementation right. The post…  
+**[Crypto Scammers Hijack Microsoft’s Official X Account](https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/)**  
+Hackers used the account, which has 13 million followers, to amplify a Clippy-themed cryptocurrency account. The post Crypto Scammers Hijack…  
 <sub>`SecurityWeek`</sub>
+
+**[Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report](https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html)**  
+The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the…  
+<sub>`The Hacker News`</sub>
+
+**[In Rare Move, Alleged Iranian State Hacker Extradited to US](https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/)**  
+Amir Barati, an alleged member of the Mabna Institute, was indicted for targeting universities, private organizations, and government entities in the…  
+<sub>`SecurityWeek`</sub>
+
+**[Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks](https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/)**  
+The China-based hacking group has been exploiting SharePoint vulnerabilities since July 2025. The post Warlock Expands SharePoint Exploitation in…  
+<sub>`SecurityWeek`</sub>
+
+**[Microsoft’s X account hacked in crypto pump-and-dump scheme](https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/)**  
+On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a…  
+<sub>`BleepingComputer`</sub>
+
+**[AI Agents Aimed SQL Injection at US and Canadian Government Sites](https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/)**  
+The attacks targeted the US Department of Education and Library and Archives Canada, and researchers linked some agents to OpenAI. The post AI Agents…  
+<sub>`SecurityWeek`</sub>
+
+**[Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action](https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/)**  
+CVE-2026-104286 is a critical-severity path traversal vulnerability that could allow attackers to write arbitrary files to the system. The post…  
+<sub>`SecurityWeek`</sub>
+
+**[Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools](https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html)**  
+Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as…  
+<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
