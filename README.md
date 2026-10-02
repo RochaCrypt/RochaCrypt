@@ -60,6 +60,10 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Fortinet warns of critical FortiMail flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/)**  
+Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks…  
+<sub>`BleepingComputer`</sub>
+
 **[Alleged KillSec Ransomware Mastermind a 16-Year-Old](https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old)**  
 Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two…  
 <sub>`Dark Reading`</sub>
@@ -86,10 +90,6 @@ Two separate reports by cybersecurity companies highlight China-linked hacking o
 
 **[Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks](https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/)**  
 Fifteen years after coining the framework, John Kindervag insists zero trust still works in the AI era—if you get the implementation right. The post…  
-<sub>`SecurityWeek`</sub>
-
-**[Osavul Lands $10 Million to Spot Hostile Intent Across Cyber, Physical Domains](https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/)**  
-Hybrid risk intelligence company Osavul has raised $10 million in a Series A funding round led by 33N Ventures. The post Osavul Lands $10 Million to…  
 <sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
