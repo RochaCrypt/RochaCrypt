@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Kiteworks & Citrix Incidents Show Challenges of Zero-Day Response](https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response)**  
-One company told customers to power down its data-protection platform during a nine-hour window, while the other remained mum on reported attacks…  
-<sub>`Dark Reading`</sub>
-
-**[SWIFT Banking & Government Middleware Enables RCE](https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce)**  
-Patch middleware vulnerabilities now to avoid hardware-based MFA exploits in ultra-sensitive environments.  
-<sub>`Dark Reading`</sub>
-
-**[GitLab warns of critical RCE vulnerability in AI Gateway service](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/)**  
-GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable…  
-<sub>`BleepingComputer`</sub>
-
-**[Is Your Organization Ready for 2027's AI Accountability Era?](https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-)**  
-Organizations may face an artificial intelligence (AI) reckoning over the next year. Omdia and Gartner weigh in on how to tackle the governance…  
-<sub>`Dark Reading`</sub>
-
-**[Is It Fair to Blame 'Rogue' AI for Security Failures?](https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures)**  
-"Rogue AI" terminology anthropomorphizes LLMs and shifts risk responsibility from vendors. Defenders should treat agents as untrusted…  
-<sub>`Dark Reading`</sub>
-
-**[US sanctions Tren de Aragua gang members in ATM hacks crackdown](https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/)**  
-The U.S. Treasury Department has sanctioned eight members of the Venezuelan gang Tren de Aragua (TdA) for their role in the theft of millions of…  
-<sub>`BleepingComputer`</sub>
-
-**[In Other News: $15K iCloud Spoofing Bugs, AI Policy Experts Phished, Adblocker Spies on AI Chats](https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/)**  
-Noteworthy stories that might have slipped under the radar: Kiteworks patches over 100 vulnerabilities, Microsoft publishes 2026 Digital Defense…  
-<sub>`SecurityWeek`</sub>
-
-**[Mississippi mayor says ransomware incident led city to shut down systems](https://therecord.media/vicksburg-mississippi-government-ransomware-attack)**  
-Government services were temporarily disrupted by ransomware in Vicksburg, Mississippi. Mayor Willis Thompson said the FBI and other authorities are…  
+**[Judge dismisses spyware case brought by Salvadoran journalists targeted with Pegasus](https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists)**  
+The plaintiffs, who all worked for the independent and Salvadoran news outlet El Faro, failed to convince the court that their case had jurisdiction…  
 <sub>`The Record`</sub>
+
+**[RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail](https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail)**  
+The offensive cyber operations startup looks to evolve red teaming beyond traditional methods to simulate attackers' increasingly advanced…  
+<sub>`Dark Reading`</sub>
+
+**[Bipartisan backlash to ALPRs grows as two high-profile bills are introduced](https://therecord.media/alpr-legislation-hawley-sanders-merkley-aoc)**  
+Republican Sen. Josh Hawley has new legislation on limiting automated license plate readers (ALPRs), while Democratic Sens. Bernie Sanders and Jeff…  
+<sub>`The Record`</sub>
+
+**[Frontline Education breach exposes school district employee data](https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/)**  
+Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain…  
+<sub>`BleepingComputer`</sub>
+
+**[Warlock ransomware breach SharePoint in water, telecom operator attacks](https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/)**  
+The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting…  
+<sub>`BleepingComputer`</sub>
+
+**[GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers](https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html)**  
+A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain…  
+<sub>`The Hacker News`</sub>
+
+**[Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign](https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html)**  
+Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity…  
+<sub>`The Hacker News`</sub>
+
+**[Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes](https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html)**  
+Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad…  
+<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
