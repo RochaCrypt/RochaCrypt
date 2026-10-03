@@ -60,6 +60,10 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[ShinyHunters hacker reportedly detained in Jordan, aiding FBI](https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/)**  
+A suspected ShinyHunters hacking group member known online as "Rey" has reportedly been detained in Jordan and is cooperating with the FBI to help…  
+<sub>`BleepingComputer`</sub>
+
 **[MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics](https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html)**  
 The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering…  
 <sub>`The Hacker News`</sub>
@@ -87,10 +91,6 @@ Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastruct
 **[Judge dismisses spyware case brought by Salvadoran journalists targeted with Pegasus](https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists)**  
 The plaintiffs, who all worked for the independent and Salvadoran news outlet El Faro, failed to convince the court that their case had jurisdiction…  
 <sub>`The Record`</sub>
-
-**[RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail](https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail)**  
-The offensive cyber operations startup looks to evolve red teaming beyond traditional methods to simulate attackers' increasingly advanced…  
-<sub>`Dark Reading`</sub>
 
 <!-- CYBER-NEWS:END -->
 
