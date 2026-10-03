@@ -60,6 +60,26 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics](https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html)**  
+The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering…  
+<sub>`The Hacker News`</sub>
+
+**[Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware](https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html)**  
+The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and…  
+<sub>`The Hacker News`</sub>
+
+**[Danish university DTU breach exposes data of up to 200,000 people](https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/)**  
+The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity…  
+<sub>`BleepingComputer`</sub>
+
+**[doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures](https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/)**  
+doxx.net’s new ADN platform prevents agentic misadventure while the agent is operating under the user’s authority. The post doxx.net Raises $38…  
+<sub>`SecurityWeek`</sub>
+
+**[Fortra Patches Critical Vulnerabilities in BoKS](https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/)**  
+The bugs could lead to authentication bypass, shell command execution, and memory corruption. The post Fortra Patches Critical Vulnerabilities in…  
+<sub>`SecurityWeek`</sub>
+
 **[The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)**  
 Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital…  
 <sub>`The Hacker News`</sub>
@@ -71,26 +91,6 @@ The plaintiffs, who all worked for the independent and Salvadoran news outlet El
 **[RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail](https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail)**  
 The offensive cyber operations startup looks to evolve red teaming beyond traditional methods to simulate attackers' increasingly advanced…  
 <sub>`Dark Reading`</sub>
-
-**[Bipartisan backlash to ALPRs grows as two high-profile bills are introduced](https://therecord.media/alpr-legislation-hawley-sanders-merkley-aoc)**  
-Republican Sen. Josh Hawley has new legislation on limiting automated license plate readers (ALPRs), while Democratic Sens. Bernie Sanders and Jeff…  
-<sub>`The Record`</sub>
-
-**[Frontline Education breach exposes school district employee data](https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/)**  
-Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain…  
-<sub>`BleepingComputer`</sub>
-
-**[Warlock ransomware breach SharePoint in water, telecom operator attacks](https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/)**  
-The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting…  
-<sub>`BleepingComputer`</sub>
-
-**[GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers](https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html)**  
-A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain…  
-<sub>`The Hacker News`</sub>
-
-**[Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign](https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html)**  
-Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity…  
-<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
