@@ -60,6 +60,10 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)**  
+Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital…  
+<sub>`The Hacker News`</sub>
+
 **[Judge dismisses spyware case brought by Salvadoran journalists targeted with Pegasus](https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists)**  
 The plaintiffs, who all worked for the independent and Salvadoran news outlet El Faro, failed to convince the court that their case had jurisdiction…  
 <sub>`The Record`</sub>
@@ -86,10 +90,6 @@ A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent
 
 **[Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign](https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html)**  
 Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity…  
-<sub>`The Hacker News`</sub>
-
-**[Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes](https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html)**  
-Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad…  
 <sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
