@@ -60,6 +60,10 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Google Gemini could soon get full access to your Mac’s files, apps and the web](https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/)**  
+Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every…  
+<sub>`BleepingComputer`</sub>
+
 **[ShinyHunters hacker reportedly detained in Jordan, aiding FBI](https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/)**  
 A suspected ShinyHunters hacking group member known online as "Rey" has reportedly been detained in Jordan and is cooperating with the FBI to help…  
 <sub>`BleepingComputer`</sub>
@@ -87,10 +91,6 @@ The bugs could lead to authentication bypass, shell command execution, and memor
 **[The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html)**  
 Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital…  
 <sub>`The Hacker News`</sub>
-
-**[Judge dismisses spyware case brought by Salvadoran journalists targeted with Pegasus](https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists)**  
-The plaintiffs, who all worked for the independent and Salvadoran news outlet El Faro, failed to convince the court that their case had jurisdiction…  
-<sub>`The Record`</sub>
 
 <!-- CYBER-NEWS:END -->
 
