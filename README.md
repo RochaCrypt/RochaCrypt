@@ -60,36 +60,36 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Citrix patches NetScaler SAML zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/)**  
-Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in…  
+**[tenfold CE: Our free Identity Governance tool just got 2 new features](https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/)**  
+tenfold has added shared content governance and real-time event auditing to its free Community Edition for organizations with under 150 users. The…  
 <sub>`BleepingComputer`</sub>
 
-**[Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force](https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/)**  
-The announcement comes after Trump hosted top executives of AI companies at the White House last week. The post Trump Names National Intelligence…  
+**[Japanese media group Nikkei discloses cyberattack targeting journalistic sources](https://therecord.media/nikkei-cyberattack-japan-data)**  
+The Japanese media giant Nikkei disclosed a cyber incident involving an employee email account that may have compromised journalistic sources.  
+<sub>`The Record`</sub>
+
+**[Alleged dev of Ploutus ATM malware appears in US court after arrest](https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/)**  
+The U.S. Department of Justice has announced the arrest of the alleged developer of Ploutus malware, used to steal millions of dollars in ATM…  
+<sub>`BleepingComputer`</sub>
+
+**[Need for Speed: AI-Driven Attacks Are Changing Security Strategies](https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies)**  
+AI-powered attacks are fast, relentless, and automated. How security teams can keep up is top of mind, according to the latest Dark Reading reader…  
+<sub>`Dark Reading`</sub>
+
+**[Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws](https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/)**  
+ClingSTUN operates as a back-connect proxy backdoor, sets up persistence, and contains exploits for self-propagation. The post Linux Backdoor Abuses…  
 <sub>`SecurityWeek`</sub>
 
-**[Anthropic asks Claude users to share voice data for AI model training](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/)**  
-Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]  
-<sub>`BleepingComputer`</sub>
+**[250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms](https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/)**  
+Hackers stole patient information from Clover Health Investments and AngMar Management Services in July. The post 250,000 Impacted by Data Breaches…  
+<sub>`SecurityWeek`</sub>
 
-**[ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html)**  
-A suspected member of the ShinyHunters digital extortion group, who goes by the online alias "Rey," has been allegedly detained by authorities in…  
-<sub>`The Hacker News`</sub>
+**[Data breach at Denmark’s national population register exposes 8.8 million people](https://therecord.media/denmark-breach-register-cyberattack)**  
+Denmark is investigating a data breach affecting approximately 8.8 million people after unauthorized users gained access to its national population…  
+<sub>`The Record`</sub>
 
-**[China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html)**  
-A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial…  
-<sub>`The Hacker News`</sub>
-
-**[Google Gemini could soon get full access to your Mac’s files, apps and the web](https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/)**  
-Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every…  
-<sub>`BleepingComputer`</sub>
-
-**[ShinyHunters hacker reportedly detained in Jordan, aiding FBI](https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/)**  
-A suspected ShinyHunters hacking group member known online as "Rey" has reportedly been detained in Jordan and is cooperating with the FBI to help…  
-<sub>`BleepingComputer`</sub>
-
-**[MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics](https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html)**  
-The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering…  
+**[The Credential Layer Is Expanding Faster Than Security Teams Can See It](https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html)**  
+Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely…  
 <sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
