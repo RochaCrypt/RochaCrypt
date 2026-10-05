@@ -60,6 +60,10 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Citrix patches NetScaler SAML zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/)**  
+Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in…  
+<sub>`BleepingComputer`</sub>
+
 **[Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force](https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/)**  
 The announcement comes after Trump hosted top executives of AI companies at the White House last week. The post Trump Names National Intelligence…  
 <sub>`SecurityWeek`</sub>
@@ -86,10 +90,6 @@ A suspected ShinyHunters hacking group member known online as "Rey" has reported
 
 **[MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics](https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html)**  
 The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering…  
-<sub>`The Hacker News`</sub>
-
-**[Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware](https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html)**  
-The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and…  
 <sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
