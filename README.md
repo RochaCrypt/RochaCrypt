@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Advantest Discloses Data Breach Months After Ransomware Attack](https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/)**  
-The Japanese chip testing giant said hackers stole personal information from its servers in the February 2026 cyberattack. The post Advantest…  
-<sub>`SecurityWeek`</sub>
+**[Australian Gov't Weighs Mandatory AI Incident Reporting](https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting)**  
+In the wake of an agentic attack against its own Medicare systems, Australia's government is feeling out what regulations might look like for…  
+<sub>`Dark Reading`</sub>
 
-**[The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow](https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html)**  
-The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and…  
-<sub>`The Hacker News`</sub>
-
-**[FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials](https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html)**  
-The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains…  
-<sub>`The Hacker News`</sub>
-
-**[Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details](https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html)**  
-Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to…  
-<sub>`The Hacker News`</sub>
-
-**[What Is Agentic Pentesting? What It Proves, and Where It Stops.](https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html)**  
-If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it…  
-<sub>`The Hacker News`</sub>
-
-**[SonicWall warns of max severity SSRF flaw in SMA1000 gateways](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/)**  
-SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]  
+**[FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins](https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/)**  
+The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out…  
 <sub>`BleepingComputer`</sub>
 
-**[Chrome 155 Update Patches 247 Vulnerabilities](https://www.securityweek.com/chrome-155-update-patches-247-vulnerabilities/)**  
-Four critical-severity use-after-free defects were fixed in Chromecast, Browser, Navigation, and Track. The post Chrome 155 Update Patches 247…  
-<sub>`SecurityWeek`</sub>
+**[Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives](https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives)**  
+The Citizen Lab's Ron Deibert warns the US government is pushing for pervasive surveillance and says certain technology executives are all too happy…  
+<sub>`Dark Reading`</sub>
 
-**[Musician sent to prison for $10 million streaming fraud using AI bots](https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/)**  
-A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon…  
+**[Anthropic Gives Vetted Defenders Fewer Claude Guardrails](https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails)**  
+Anthropic has merged Project Glasswing into a tiered access program for its advanced cyber LLMs, including Opus, Sonnet, and Mythos.  
+<sub>`Dark Reading`</sub>
+
+**[Hackers hijack Google domains after breaching ccTLD registries](https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/)**  
+Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for…  
 <sub>`BleepingComputer`</sub>
+
+**[US posts $10 million reward for accused Chinese ‘Hafnium’ hacker](https://therecord.media/accused-hafnium-hacker-zhang-yu-10million-reward)**  
+U.S. officials say Zhang Yu was a prominent figure in the Hafnium campaign, which saw hackers breach thousands of computers and steal troves of…  
+<sub>`The Record`</sub>
+
+**[OpenAI Agent Escape Causes Wikimedia Service Outage](https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage)**  
+Autonomous agents also tried to abuse other websites and services hosted by the foundation, using them as proxies for unauthorized activities.  
+<sub>`Dark Reading`</sub>
+
+**[Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains](https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html)**  
+Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google…  
+<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
