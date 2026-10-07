@@ -60,6 +60,10 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System](https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/)**  
+The Arizona Supreme Court said the information was copied for people dating back as far as 30 years. The post Personal Information for Over 1 Million…  
+<sub>`SecurityWeek`</sub>
+
 **[Ninja Forms plugin flaw exploited to hack WordPress sites](https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/)**  
 Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for…  
 <sub>`BleepingComputer`</sub>
@@ -87,10 +91,6 @@ Linux backdoors targeting telecom and network appliances in South Korea and Taiw
 **[Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps](https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps)**  
 The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk assessment.  
 <sub>`Dark Reading`</sub>
-
-**[Atlassian warns of critical file-access flaw in Jira, Confluence](https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/)**  
-Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple…  
-<sub>`BleepingComputer`</sub>
 
 <!-- CYBER-NEWS:END -->
 
