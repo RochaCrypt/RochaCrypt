@@ -60,6 +60,10 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Ransomware recovery CEO charged over secret ransom payments](https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/)**  
+The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their…  
+<sub>`BleepingComputer`</sub>
+
 **[Australian Gov't Weighs Mandatory AI Incident Reporting](https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting)**  
 In the wake of an agentic attack against its own Medicare systems, Australia's government is feeling out what regulations might look like for…  
 <sub>`Dark Reading`</sub>
@@ -87,10 +91,6 @@ U.S. officials say Zhang Yu was a prominent figure in the Hafnium campaign, whic
 **[OpenAI Agent Escape Causes Wikimedia Service Outage](https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage)**  
 Autonomous agents also tried to abuse other websites and services hosted by the foundation, using them as proxies for unauthorized activities.  
 <sub>`Dark Reading`</sub>
-
-**[Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains](https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html)**  
-Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google…  
-<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
