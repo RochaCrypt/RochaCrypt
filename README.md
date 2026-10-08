@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward](https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/)**  
-Zhang Yu was charged alongside Xu Zewei, who was extradited from Italy to the US in April 2026. The post US Seeks Alleged Chinese Hafnium Hacker With…  
-<sub>`SecurityWeek`</sub>
-
-**[SonicWall and Splunk Patch Critical Vulnerabilities](https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/)**  
-Critical and high-severity vulnerabilities could allow attackers to bypass authentication, execute arbitrary code, and elevate their privileges. The…  
-<sub>`SecurityWeek`</sub>
-
-**[Russian-aligned spies upgrade malware used in attacks on Ukrainian transport, energy firms](https://therecord.media/russia-ukraine-malware-transportation)**  
-Russian-aligned hackers have targeted Ukrainian transportation, manufacturing and energy companies with a constantly evolving malware strain designed…  
-<sub>`The Record`</sub>
-
-**[Microsoft Teams to get support for third-party deepfake detection tools](https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/)**  
-Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]  
+**[FBI disrupts Chinese hacking tools used to breach critical infrastructure](https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/)**  
+The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub…  
 <sub>`BleepingComputer`</sub>
 
-**[Writing the Next Chapter](https://www.darkreading.com/cybersecurity-operations/writing-next-chapter)**  
-Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share.  
+**['AgentCorruption' Puts AWS Environments At Risk With Single Prompt](https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt)**  
+A now-patched vulnerability in AWS Bedrock AgentCore could allow an attacker to use one AI chatbot to take over an organization's entire fleet.  
 <sub>`Dark Reading`</sub>
 
-**[Major Yandex data center in Russia hit by Ukrainian drone strike](https://therecord.media/yandex-russia-drone-ukraine)**  
-A drone strike on a large Yandex data center caused a significant disruption to the Russian tech giant's network, with connectivity reportedly…  
+**[Lawmakers warn Google could expose Spirit Airlines data in $10 million AI training deal](https://therecord.media/lawmakers-warn-of-google-spirit-ai-training-deal)**  
+The proposed sale would include about 100 million emails, 500 million Microsoft Teams messages, employment contracts, employee and timecard records…  
 <sub>`The Record`</sub>
 
-**[ASOS links data breach to social engineering attack, credential theft](https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/)**  
-ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some…  
+**[Ransomware attack disrupts Japan's IDCF Cloud used by govt clients](https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/)**  
+IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack…  
 <sub>`BleepingComputer`</sub>
 
-**[Rein Security Raises $25 Million to Guard AI Agents at Runtime](https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/)**  
-The cybersecurity startup will invest in product innovation, agentic research, and employee base expansion. The post Rein Security Raises $25 Million…  
-<sub>`SecurityWeek`</sub>
+**[Low-cost Android phones ship with residential proxy malware](https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/)**  
+A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their…  
+<sub>`BleepingComputer`</sub>
+
+**[International coalition seizes tools used by cyber firm behind Flax Typhoon](https://therecord.media/flax-typhoon-china-tools-integrity-tech-international-takedown)**  
+The U.S. and other nations took down digital tools and infrastructure by Beijing-based Integrity Tech that allowed "widespread vulnerability scanning…  
+<sub>`The Record`</sub>
+
+**[Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting](https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting)**  
+The first cybercriminal to ever make the FBI's "10 Most Wanted Fugitives" list allegedly infused Tren de Aragua's violent criminal operations with…  
+<sub>`Dark Reading`</sub>
+
+**[FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails](https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html)**  
+Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and…  
+<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
