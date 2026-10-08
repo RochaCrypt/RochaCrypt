@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Ransomware recovery CEO charged over secret ransom payments](https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/)**  
-The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their…  
-<sub>`BleepingComputer`</sub>
+**[US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward](https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/)**  
+Zhang Yu was charged alongside Xu Zewei, who was extradited from Italy to the US in April 2026. The post US Seeks Alleged Chinese Hafnium Hacker With…  
+<sub>`SecurityWeek`</sub>
 
-**[Australian Gov't Weighs Mandatory AI Incident Reporting](https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting)**  
-In the wake of an agentic attack against its own Medicare systems, Australia's government is feeling out what regulations might look like for…  
-<sub>`Dark Reading`</sub>
+**[SonicWall and Splunk Patch Critical Vulnerabilities](https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/)**  
+Critical and high-severity vulnerabilities could allow attackers to bypass authentication, execute arbitrary code, and elevate their privileges. The…  
+<sub>`SecurityWeek`</sub>
 
-**[FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins](https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/)**  
-The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out…  
-<sub>`BleepingComputer`</sub>
-
-**[Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives](https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives)**  
-The Citizen Lab's Ron Deibert warns the US government is pushing for pervasive surveillance and says certain technology executives are all too happy…  
-<sub>`Dark Reading`</sub>
-
-**[Anthropic Gives Vetted Defenders Fewer Claude Guardrails](https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails)**  
-Anthropic has merged Project Glasswing into a tiered access program for its advanced cyber LLMs, including Opus, Sonnet, and Mythos.  
-<sub>`Dark Reading`</sub>
-
-**[Hackers hijack Google domains after breaching ccTLD registries](https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/)**  
-Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for…  
-<sub>`BleepingComputer`</sub>
-
-**[US posts $10 million reward for accused Chinese ‘Hafnium’ hacker](https://therecord.media/accused-hafnium-hacker-zhang-yu-10million-reward)**  
-U.S. officials say Zhang Yu was a prominent figure in the Hafnium campaign, which saw hackers breach thousands of computers and steal troves of…  
+**[Russian-aligned spies upgrade malware used in attacks on Ukrainian transport, energy firms](https://therecord.media/russia-ukraine-malware-transportation)**  
+Russian-aligned hackers have targeted Ukrainian transportation, manufacturing and energy companies with a constantly evolving malware strain designed…  
 <sub>`The Record`</sub>
 
-**[OpenAI Agent Escape Causes Wikimedia Service Outage](https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage)**  
-Autonomous agents also tried to abuse other websites and services hosted by the foundation, using them as proxies for unauthorized activities.  
+**[Microsoft Teams to get support for third-party deepfake detection tools](https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/)**  
+Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]  
+<sub>`BleepingComputer`</sub>
+
+**[Writing the Next Chapter](https://www.darkreading.com/cybersecurity-operations/writing-next-chapter)**  
+Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share.  
 <sub>`Dark Reading`</sub>
+
+**[Major Yandex data center in Russia hit by Ukrainian drone strike](https://therecord.media/yandex-russia-drone-ukraine)**  
+A drone strike on a large Yandex data center caused a significant disruption to the Russian tech giant's network, with connectivity reportedly…  
+<sub>`The Record`</sub>
+
+**[ASOS links data breach to social engineering attack, credential theft](https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/)**  
+ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some…  
+<sub>`BleepingComputer`</sub>
+
+**[Rein Security Raises $25 Million to Guard AI Agents at Runtime](https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/)**  
+The cybersecurity startup will invest in product innovation, agentic research, and employee base expansion. The post Rein Security Raises $25 Million…  
+<sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
 
