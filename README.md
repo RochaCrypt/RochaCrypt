@@ -60,6 +60,14 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Co-creator of Empire Market dark web marketplace given 40-year sentence](https://therecord.media/co-creator-empire-dark-net-market-sentenced)**  
+Raheim Hamilton, 30, pleaded guilty earlier this year to a drug conspiracy charge and agreed to forfeit more than $100 million worth of Bitcoin and…  
+<sub>`The Record`</sub>
+
+**[Formula Predicts When AI Chatbots Are at Risk of Turning Bad](https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/)**  
+Researchers from George Washington University have published a paper examining whether the time and cause of AI going rogue can be predicted. The…  
+<sub>`SecurityWeek`</sub>
+
 **[FBI disrupts Chinese hacking tools used to breach critical infrastructure](https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/)**  
 The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub…  
 <sub>`BleepingComputer`</sub>
@@ -83,14 +91,6 @@ A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Andr
 **[International coalition seizes tools used by cyber firm behind Flax Typhoon](https://therecord.media/flax-typhoon-china-tools-integrity-tech-international-takedown)**  
 The U.S. and other nations took down digital tools and infrastructure by Beijing-based Integrity Tech that allowed "widespread vulnerability scanning…  
 <sub>`The Record`</sub>
-
-**[Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting](https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting)**  
-The first cybercriminal to ever make the FBI's "10 Most Wanted Fugitives" list allegedly infused Tren de Aragua's violent criminal operations with…  
-<sub>`Dark Reading`</sub>
-
-**[FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails](https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html)**  
-Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and…  
-<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
