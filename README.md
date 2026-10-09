@@ -64,33 +64,33 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 Raheim Hamilton, 30, pleaded guilty earlier this year to a drug conspiracy charge and agreed to forfeit more than $100 million worth of Bitcoin and…  
 <sub>`The Record`</sub>
 
-**[Formula Predicts When AI Chatbots Are at Risk of Turning Bad](https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/)**  
-Researchers from George Washington University have published a paper examining whether the time and cause of AI going rogue can be predicted. The…  
+**[Max severity SonicWall SMA1000 flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/)**  
+Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days…  
+<sub>`BleepingComputer`</sub>
+
+**[In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years](https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/)**  
+Noteworthy stories that might have slipped under the radar: Tensorlake npm SDK compromised, Empire Market co-founder gets 40 years, exposed NVIDIA…  
 <sub>`SecurityWeek`</sub>
 
-**[FBI disrupts Chinese hacking tools used to breach critical infrastructure](https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/)**  
-The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub…  
+**[Google Domains Impacted by Recent ccTLD Hijacks](https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/)**  
+Hackers hijacked the .gh, .sl, and .as ccTLDs and obtained HTTPS certificates for several Google domains. The post Google Domains Impacted by Recent…  
+<sub>`SecurityWeek`</sub>
+
+**[The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition](https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html)**  
+As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for…  
+<sub>`The Hacker News`</sub>
+
+**[Man admits to running network of 15,000 money mules for cybercriminals](https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/)**  
+​A Ukrainian-Russian dual citizen has pleaded guilty to running a massive money laundering operation that laundered millions for cybercriminals…  
 <sub>`BleepingComputer`</sub>
 
-**['AgentCorruption' Puts AWS Environments At Risk With Single Prompt](https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt)**  
-A now-patched vulnerability in AWS Bedrock AgentCore could allow an attacker to use one AI chatbot to take over an organization's entire fleet.  
-<sub>`Dark Reading`</sub>
+**[Unpatched AhsayCBS Vulnerabilities Exploited in the Wild](https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/)**  
+The flaws, CVE-2026-105133 and CVE-2026-105134, allow attackers to bypass authentication and inject OS commands. The post Unpatched AhsayCBS…  
+<sub>`SecurityWeek`</sub>
 
-**[Lawmakers warn Google could expose Spirit Airlines data in $10 million AI training deal](https://therecord.media/lawmakers-warn-of-google-spirit-ai-training-deal)**  
-The proposed sale would include about 100 million emails, 500 million Microsoft Teams messages, employment contracts, employee and timecard records…  
-<sub>`The Record`</sub>
-
-**[Ransomware attack disrupts Japan's IDCF Cloud used by govt clients](https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/)**  
-IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack…  
+**[Microsoft: Outdated Windows devices will stop receiving security updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/)**  
+Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate…  
 <sub>`BleepingComputer`</sub>
-
-**[Low-cost Android phones ship with residential proxy malware](https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/)**  
-A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their…  
-<sub>`BleepingComputer`</sub>
-
-**[International coalition seizes tools used by cyber firm behind Flax Typhoon](https://therecord.media/flax-typhoon-china-tools-integrity-tech-international-takedown)**  
-The U.S. and other nations took down digital tools and infrastructure by Beijing-based Integrity Tech that allowed "widespread vulnerability scanning…  
-<sub>`The Record`</sub>
 
 <!-- CYBER-NEWS:END -->
 
