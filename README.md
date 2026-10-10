@@ -60,6 +60,18 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html)**  
+In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind…  
+<sub>`The Hacker News`</sub>
+
+**[Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison](https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/)**  
+The former core infrastructure engineer deleted admin accounts, reset hundreds of passwords, and demanded 20 bitcoin to spare the company’s servers…  
+<sub>`SecurityWeek`</sub>
+
+**[Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html)**  
+Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its…  
+<sub>`The Hacker News`</sub>
+
 **[FBI Arrests Founder of Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/)**  
 Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an…  
 <sub>`Krebs on Security`</sub>
@@ -79,18 +91,6 @@ Hackers are abusing legitimate Bing search-result redirects as click URLs in Goo
 **[AI Scramble Drives Cybersecurity M&A Boom](https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom)**  
 Welcome to another gangbuster year for strategic M&A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the…  
 <sub>`Dark Reading`</sub>
-
-**[Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories](https://thehackernews.com/2026/10/credential-stealing-github-actions.html)**  
-Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer…  
-<sub>`The Hacker News`</sub>
-
-**[Japan confirms arrest of Russian Qilin operative, extradition to Germany](https://therecord.media/japan-germany-ransomware-arrest)**  
-Japan’s National Police Agency confirmed the arrest and extradition to Germany of a Russian national accused of being involved in the Qilin…  
-<sub>`The Record`</sub>
-
-**[FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack](https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html)**  
-The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the…  
-<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
