@@ -60,6 +60,10 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[FBI Arrests Founder of Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/)**  
+Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an…  
+<sub>`Krebs on Security`</sub>
+
 **[OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks](https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/)**  
 The ChatGPT maker said the researchers "violated clear policies on handling sensitive information.” The post OpenAI Fires 3 Safety Researchers in…  
 <sub>`SecurityWeek`</sub>
@@ -87,10 +91,6 @@ Japan’s National Police Agency confirmed the arrest and extradition to Germany
 **[FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack](https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html)**  
 The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the…  
 <sub>`The Hacker News`</sub>
-
-**[What We Missed: FBI Strikes Back at ShinyHunters](https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack)**  
-In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected…  
-<sub>`Dark Reading`</sub>
 
 <!-- CYBER-NEWS:END -->
 
