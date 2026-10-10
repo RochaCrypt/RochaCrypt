@@ -60,6 +60,18 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Cyber exec arrested in case allegedly tied to ShinyHunters hackers](https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/)**  
+Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple…  
+<sub>`BleepingComputer`</sub>
+
+**[ARTEX AI, Claude agents used in cyberattacks on South Korean banks](https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/)**  
+The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration…  
+<sub>`BleepingComputer`</sub>
+
+**[Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management](https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/)**  
+Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP…  
+<sub>`BleepingComputer`</sub>
+
 **[The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html)**  
 In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind…  
 <sub>`The Hacker News`</sub>
@@ -72,25 +84,13 @@ The former core infrastructure engineer deleted admin accounts, reset hundreds o
 Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its…  
 <sub>`The Hacker News`</sub>
 
-**[FBI Arrests Founder of Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/)**  
+**[FBI Arrests Executive at Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/)**  
 Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an…  
 <sub>`Krebs on Security`</sub>
 
 **[OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks](https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/)**  
 The ChatGPT maker said the researchers "violated clear policies on handling sensitive information.” The post OpenAI Fires 3 Safety Researchers in…  
 <sub>`SecurityWeek`</sub>
-
-**[ASOS Breach Reveals the Risks in Customer-Facing SaaS](https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas)**  
-The attack on the British retailer shows that compromising a single identity can lead to much deeper penetration of the corporate network.  
-<sub>`Dark Reading`</sub>
-
-**[Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/)**  
-Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver…  
-<sub>`BleepingComputer`</sub>
-
-**[AI Scramble Drives Cybersecurity M&A Boom](https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom)**  
-Welcome to another gangbuster year for strategic M&A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the…  
-<sub>`Dark Reading`</sub>
 
 <!-- CYBER-NEWS:END -->
 
