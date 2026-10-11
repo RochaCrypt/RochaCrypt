@@ -60,6 +60,10 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)**  
+Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. "Compared with…  
+<sub>`The Hacker News`</sub>
+
 **[Cyber exec arrested in case allegedly tied to ShinyHunters hackers](https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/)**  
 Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple…  
 <sub>`BleepingComputer`</sub>
@@ -87,10 +91,6 @@ Anthropic on Friday said it's cutting off live internet access for all its inter
 **[FBI Arrests Executive at Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/)**  
 Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an…  
 <sub>`Krebs on Security`</sub>
-
-**[OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks](https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/)**  
-The ChatGPT maker said the researchers "violated clear policies on handling sensitive information.” The post OpenAI Fires 3 Safety Researchers in…  
-<sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
 
