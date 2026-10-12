@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Nippon Columbia malware incident exposes 8.6 million karaoke fan records](https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/)**  
-Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than…  
-<sub>`BleepingComputer`</sub>
-
-**[P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html)**  
-Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. "Compared with…  
-<sub>`The Hacker News`</sub>
-
-**[Cyber exec arrested in case allegedly tied to ShinyHunters hackers](https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/)**  
-Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple…  
-<sub>`BleepingComputer`</sub>
-
-**[ARTEX AI, Claude agents used in cyberattacks on South Korean banks](https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/)**  
-The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration…  
-<sub>`BleepingComputer`</sub>
-
-**[Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management](https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/)**  
-Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP…  
-<sub>`BleepingComputer`</sub>
-
-**[The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html)**  
-In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind…  
-<sub>`The Hacker News`</sub>
-
-**[Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison](https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/)**  
-The former core infrastructure engineer deleted admin accounts, reset hundreds of passwords, and demanded 20 bitcoin to spare the company’s servers…  
+**[IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion](https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/)**  
+The all-stock deal brings Elisity’s least-privilege access technology into IonQ’s security portfolio. The post IonQ to Acquire Zero Trust Firm…  
 <sub>`SecurityWeek`</sub>
 
-**[Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html)**  
-Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its…  
-<sub>`The Hacker News`</sub>
+**[Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption](https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/)**  
+A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to…  
+<sub>`BleepingComputer`</sub>
+
+**[Retail giant Ahold Delhaize takes systems offline after cyberattack](https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/)**  
+Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a…  
+<sub>`BleepingComputer`</sub>
+
+**[Bricksforge WordPress Plugin Vulnerability Exploited in the Wild](https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/)**  
+The vulnerability tracked as CVE-2026-85097 can allow threat actors to take control of the targeted WordPress websites. The post Bricksforge…  
+<sub>`SecurityWeek`</sub>
+
+**[GitLab warns of max severity code execution vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/)**  
+GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote…  
+<sub>`BleepingComputer`</sub>
+
+**[Passing the Baton: Dark Reading Names New Editor-in-Chief](https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief)**  
+Fahmida Y Rashid will keep the momentum going as she leads Dark Reading.  
+<sub>`Dark Reading`</sub>
+
+**[Ukraine strikes third Yandex data center, disrupting digital services across Russia](https://therecord.media/ukraine-strikes-third-yandex-data-center)**  
+A third Yandex data center in Russia was hit by Ukrainian drones over the weekend, forcing it to shut down and causing further disruptions to cloud…  
+<sub>`The Record`</sub>
+
+**[Canonical Websites Disrupted in Second DDoS Attack This Year](https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/)**  
+The outage hit the main Ubuntu and Canonical websites, including the Ubuntu blog and developer portal. The post Canonical Websites Disrupted in…  
+<sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
 
