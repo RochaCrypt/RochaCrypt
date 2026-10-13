@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Russian internet provider SkyNet reports outages after cyberattack claimed by Ukrainian hackers](https://therecord.media/russian-internet-provider-skynet-reports-outages-ddos)**  
-One of St. Petersburg's major internet providers said its network had been under a distributed denial-of-service (DDoS) attack since October 6…  
+**[Ghostscript flaw lets hackers hijack servers via PDF uploads](https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/)**  
+A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution…  
+<sub>`BleepingComputer`</sub>
+
+**[North Korea Phishes Ukrainians for War Intel](https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel)**  
+The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing…  
+<sub>`Dark Reading`</sub>
+
+**[Anthropic warns self-replicating AI could spread to your smart devices](https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/)**  
+Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens…  
+<sub>`BleepingComputer`</sub>
+
+**[Two arrested as DOJ takes down laptop farms responsible for $3 million in North Korean revenue](https://therecord.media/north-korea-laptop-farms-worker-scams-doj-raids-texas)**  
+More than 40 residences in Texas were the target of a federal operation in September to clamp down on remote worker scams that feed money back to the…  
 <sub>`The Record`</sub>
 
-**[Ledger says hardware implant in cryptocurrency wallets stole recovery phrases](https://therecord.media/ledger-cryptocurrency-wallet-implant-theft)**  
-Ledger cryptocurrency wallets sold through a Southeast Asian reseller had an implant allowing outsiders to drain funds, the company said.  
+**[Anthropic Finds Ingredients for Future AI Worms](https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms)**  
+Anthropic's latest study combined IoT and network tests to explore AI self-replication, which researchers said would be "challenging" to shut down.  
+<sub>`Dark Reading`</sub>
+
+**[FTC: Company netted at least $60 million charging sextortion victims for help it didn’t provide](https://therecord.media/sextortion-assistance-company-alleged-fraud-ftc-complaint)**  
+An Ohio-based company charged individuals thousands of dollars to fight sextortion scams, but the operation itself was fraudulent, according to a…  
 <sub>`The Record`</sub>
 
-**[South African clothing retailer Foschini Group investigating cyberattack on British fashion brands](https://therecord.media/foschini-group-south-africa-cyber)**  
-The South African retail giant The Foschini Group (TFG) disclosed a cyberattack that disrupted IT systems at three of its British fashion brands…  
-<sub>`The Record`</sub>
+**[Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/)**  
+Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and…  
+<sub>`BleepingComputer`</sub>
 
-**[Cyber incident hits grocery stores in US, Netherlands and Belgium](https://therecord.media/cyberattack-groceru-ahold-delhaize)**  
-Ahold Delhaize, the Dutch multinational retailer, announced it was taking precautionary measures following a cybersecurity incident, with stores in…  
-<sub>`The Record`</sub>
-
-**[Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns](https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/)**  
-Experiments show cheap TV boxes can run capable AI models, and small models may soon be able to spread across such devices on their own. The post…  
-<sub>`SecurityWeek`</sub>
-
-**[(Webinar) How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls](https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html)**  
-The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating…  
-<sub>`The Hacker News`</sub>
-
-**[XWorm RAT Evolves Into Surveillance Platform](https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/)**  
-Expanded plugin count allows the malware to monitor users’ location, stream live audio, and interact with authenticated browser sessions. The post…  
-<sub>`SecurityWeek`</sub>
-
-**[LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network](https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html)**  
-Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or…  
-<sub>`The Hacker News`</sub>
+**[Microsoft releases Windows 10 KB5126657 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/)**  
+Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes…  
+<sub>`BleepingComputer`</sub>
 
 <!-- CYBER-NEWS:END -->
 
