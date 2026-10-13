@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack](https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack)**  
-Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position.  
-<sub>`Dark Reading`</sub>
+**[Russian internet provider SkyNet reports outages after cyberattack claimed by Ukrainian hackers](https://therecord.media/russian-internet-provider-skynet-reports-outages-ddos)**  
+One of St. Petersburg's major internet providers said its network had been under a distributed denial-of-service (DDoS) attack since October 6…  
+<sub>`The Record`</sub>
 
-**[Norway fines Microsoft ad firm $9.6 million over Grindr data sharing](https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/)**  
-Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully…  
-<sub>`BleepingComputer`</sub>
+**[Ledger says hardware implant in cryptocurrency wallets stole recovery phrases](https://therecord.media/ledger-cryptocurrency-wallet-implant-theft)**  
+Ledger cryptocurrency wallets sold through a Southeast Asian reseller had an implant allowing outsiders to drain funds, the company said.  
+<sub>`The Record`</sub>
 
-**[Prominent Ransomware Negotiator Faces Extortion Charges](https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges)**  
-Edward Dubrovsky, a longtime cybersecurity executive, was arrested and charged in Pennsylvania last week under conspiracy to extort money.  
-<sub>`Dark Reading`</sub>
+**[South African clothing retailer Foschini Group investigating cyberattack on British fashion brands](https://therecord.media/foschini-group-south-africa-cyber)**  
+The South African retail giant The Foschini Group (TFG) disclosed a cyberattack that disrupted IT systems at three of its British fashion brands…  
+<sub>`The Record`</sub>
 
-**[Yandex confirms service outage as users lose access to cloud files](https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/)**  
-Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and…  
-<sub>`BleepingComputer`</sub>
+**[Cyber incident hits grocery stores in US, Netherlands and Belgium](https://therecord.media/cyberattack-groceru-ahold-delhaize)**  
+Ahold Delhaize, the Dutch multinational retailer, announced it was taking precautionary measures following a cybersecurity incident, with stores in…  
+<sub>`The Record`</sub>
 
-**[Anthropic takes risky AI tests offline after models breach govt sites](https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/)**  
-Anthropic announced that its internal AI models undergoing "high-risk and cybersecurity evaluations" no longer have internet access following…  
-<sub>`BleepingComputer`</sub>
+**[Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns](https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/)**  
+Experiments show cheap TV boxes can run capable AI models, and small models may soon be able to spread across such devices on their own. The post…  
+<sub>`SecurityWeek`</sub>
 
-**[No Identity, No Recovery: Cyber Resilience Starts With IAM](https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam)**  
-The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink.  
-<sub>`Dark Reading`</sub>
+**[(Webinar) How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls](https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html)**  
+The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating…  
+<sub>`The Hacker News`</sub>
 
-**[Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)**  
-Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that…  
-<sub>`BleepingComputer`</sub>
+**[XWorm RAT Evolves Into Surveillance Platform](https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/)**  
+Expanded plugin count allows the malware to monitor users’ location, stream live audio, and interact with authenticated browser sessions. The post…  
+<sub>`SecurityWeek`</sub>
 
-**[Cyberattack shuts down refrigerators at French supermarkets](https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/)**  
-Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss…  
-<sub>`BleepingComputer`</sub>
+**[LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network](https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html)**  
+Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or…  
+<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
