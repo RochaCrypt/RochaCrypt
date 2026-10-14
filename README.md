@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/)**  
-Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic…  
-<sub>`Krebs on Security`</sub>
-
-**[Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say](https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/)**  
-Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI. The post Employee Arrested After Listening Device Found in OpenAI…  
+**[US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms](https://www.securityweek.com/us-arrests-two-in-crackdown-on-north-korean-it-worker-laptop-farms/)**  
+Investigators stormed 40 locations in Texas and seized 187 laptops used by North Korean IT workers to hide their location. The post US Arrests Two in…  
 <sub>`SecurityWeek`</sub>
 
-**[OpenAI engineer arrested for allegedly planting spy device in office](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/)**  
-A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San…  
+**[Microsoft: Recent Windows updates may trigger Remote Desktop failures](https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/)**  
+Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the…  
 <sub>`BleepingComputer`</sub>
 
-**[Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday](https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday)**  
-The scary surprises for the largest security update ever include security bypasses and unauthenticated RCEs.  
-<sub>`Dark Reading`</sub>
+**[AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host](https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html)**  
+A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions…  
+<sub>`The Hacker News`</sub>
 
-**[Ghostscript flaw lets hackers hijack servers via PDF uploads](https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/)**  
-A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution…  
-<sub>`BleepingComputer`</sub>
+**[Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise](https://www.securityweek.com/chrome-firefox-updates-patch-114-flaws-as-mozilla-unveils-firefox-enterprise/)**  
+Mozilla has introduced Firefox Enterprise for organizations with strict compliance, governance, and security requirements. The post Chrome, Firefox…  
+<sub>`SecurityWeek`</sub>
 
-**[North Korea Phishes Ukrainians for War Intel](https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel)**  
-The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing…  
-<sub>`Dark Reading`</sub>
+**[Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products](https://www.securityweek.com/citrix-fortinet-ivanti-patch-29-vulnerabilities-across-their-products/)**  
+Critical-severity flaws could lead to authentication bypass, code execution, and sensitive authentication information leaks. The post Citrix…  
+<sub>`SecurityWeek`</sub>
 
-**[Anthropic warns self-replicating AI could spread to your smart devices](https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/)**  
-Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens…  
-<sub>`BleepingComputer`</sub>
+**[Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day](https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/)**  
+The most important is CVE-2026-96951, a security feature bypass flaw in Windows that has been exploited in the wild. The post Microsoft Patches…  
+<sub>`SecurityWeek`</sub>
 
-**[Two arrested as DOJ takes down laptop farms responsible for $3 million in North Korean revenue](https://therecord.media/north-korea-laptop-farms-worker-scams-doj-raids-texas)**  
-More than 40 residences in Texas were the target of a federal operation in September to clamp down on remote worker scams that feed money back to the…  
-<sub>`The Record`</sub>
+**[SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities](https://www.securityweek.com/sap-patches-critical-netweaver-s-4hana-vulnerabilities/)**  
+The bugs could allow attackers to invoke internal operations and execute code, completely compromising the system. The post SAP Patches Critical…  
+<sub>`SecurityWeek`</sub>
+
+**[Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave](https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html)**  
+Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is…  
+<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
