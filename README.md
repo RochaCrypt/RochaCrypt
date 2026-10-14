@@ -60,6 +60,22 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/)**  
+Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic…  
+<sub>`Krebs on Security`</sub>
+
+**[Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say](https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/)**  
+Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI. The post Employee Arrested After Listening Device Found in OpenAI…  
+<sub>`SecurityWeek`</sub>
+
+**[OpenAI engineer arrested for allegedly planting spy device in office](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/)**  
+A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San…  
+<sub>`BleepingComputer`</sub>
+
+**[Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday](https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday)**  
+The scary surprises for the largest security update ever include security bypasses and unauthenticated RCEs.  
+<sub>`Dark Reading`</sub>
+
 **[Ghostscript flaw lets hackers hijack servers via PDF uploads](https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/)**  
 A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution…  
 <sub>`BleepingComputer`</sub>
@@ -75,22 +91,6 @@ Anthropic is warning that small AI models could soon be able to self-replicate a
 **[Two arrested as DOJ takes down laptop farms responsible for $3 million in North Korean revenue](https://therecord.media/north-korea-laptop-farms-worker-scams-doj-raids-texas)**  
 More than 40 residences in Texas were the target of a federal operation in September to clamp down on remote worker scams that feed money back to the…  
 <sub>`The Record`</sub>
-
-**[Anthropic Finds Ingredients for Future AI Worms](https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms)**  
-Anthropic's latest study combined IoT and network tests to explore AI self-replication, which researchers said would be "challenging" to shut down.  
-<sub>`Dark Reading`</sub>
-
-**[FTC: Company netted at least $60 million charging sextortion victims for help it didn’t provide](https://therecord.media/sextortion-assistance-company-alleged-fraud-ftc-complaint)**  
-An Ohio-based company charged individuals thousands of dollars to fight sextortion scams, but the operation itself was fraudulent, according to a…  
-<sub>`The Record`</sub>
-
-**[Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/)**  
-Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and…  
-<sub>`BleepingComputer`</sub>
-
-**[Microsoft releases Windows 10 KB5126657 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/)**  
-Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes…  
-<sub>`BleepingComputer`</sub>
 
 <!-- CYBER-NEWS:END -->
 
