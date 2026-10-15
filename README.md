@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads](https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html)**  
-Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks…  
-<sub>`The Hacker News`</sub>
-
-**[Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks](https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html)**  
-The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of…  
-<sub>`The Hacker News`</sub>
-
-**[Vulnerability Management Isn't About the Score — It's About How It Applies to You](https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you)**  
-Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments.  
-<sub>`Dark Reading`</sub>
-
-**[UK Legal Aid Agency hack worse than thought, with stolen records dating back to 1978](https://therecord.media/uk-legal-aid-cyberattack-data)**  
-A cyberattack on Britain’s Legal Aid Agency (LAA) stole far older and broader records than the government previously disclosed.  
+**[Federal bankruptcy courts dealing with outages after contractor cyberattack](https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage)**  
+The incident, which involved a government contractor, has halted all production of bankruptcy notices.  
 <sub>`The Record`</sub>
 
-**[UK Legal Aid Agency Hack Scope Widens After Forensic Review](https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/)**  
-Most of the data is related to applications, claims, and payments submitted between 2007 and 2025. The post UK Legal Aid Agency Hack Scope Widens…  
-<sub>`SecurityWeek`</sub>
-
-**[Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams](https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html)**  
-A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a…  
-<sub>`The Hacker News`</sub>
-
-**[Is AI pentesting as good as a human pentester?](https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/)**  
-AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding…  
+**[Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers](https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/)**  
+Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app…  
 <sub>`BleepingComputer`</sub>
 
-**[Suspected Kazakhstan-linked hackers target governments across former Soviet states](https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage)**  
-A roughly 2-year-old cyber-espionage campaign against Central Asian states appears to originate in Kazakhstan, researchers said.  
+**[Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory](https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html)**  
+A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher…  
+<sub>`The Hacker News`</sub>
+
+**[Android gets AI defenses against messaging scams, fake calls](https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/)**  
+Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]  
+<sub>`BleepingComputer`</sub>
+
+**[Zero-click spyware infecting devices through online ads, researchers say](https://therecord.media/spyware-citizen-lab-advertising)**  
+Powerful zero-click spyware is infected devices worldwide through targeted ads, new research shows — an alarming development in the spread of…  
 <sub>`The Record`</sub>
+
+**[ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More](https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html)**  
+Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in…  
+<sub>`The Hacker News`</sub>
+
+**[Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth](https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/)**  
+A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy…  
+<sub>`BleepingComputer`</sub>
+
+**[Context Is King in the Fight Against Modern Cyberattacks](https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/)**  
+Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. The post Context Is…  
+<sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
 
