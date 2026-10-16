@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Proofpoint lines up $6.3 billion deal for Varonis’ data security](https://therecord.media/proofpoint-varonis-cybersecurity-acquisition)**  
-Cybersecurity giant Proofpoint says it will acquire Miami-based data visibility and security company Varonis in an all-cash transaction worth $6.3…  
-<sub>`The Record`</sub>
-
-**[In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit](https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/)**  
-Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and…  
-<sub>`SecurityWeek`</sub>
-
-**[OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract](https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html)**  
-OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its…  
-<sub>`The Hacker News`</sub>
-
-**[When Your Ransomware Negotiator Works for the Other Side](https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side)**  
-The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight.  
-<sub>`Dark Reading`</sub>
-
-**[Employees using personal ChatGPT at work? Here's what IT admins need to do](https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/)**  
-Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise…  
+**[Critical BlockStrap flaw lets hackers run code on Magento servers](https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/)**  
+Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially…  
 <sub>`BleepingComputer`</sub>
 
-**[Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia](https://therecord.media/russia-datasuckers-hackers-arrested)**  
-Russian authorities have reportedly detained three suspected members of the DataSuckers hacking group following a cyberattack on a popular restaurant…  
-<sub>`The Record`</sub>
-
-**[Baltimore suburb confirms August data breach after ransomware claims](https://therecord.media/anne-arundel-county-maryland-confirms-data-breach)**  
-Anne Arundel County, Maryland, said an intruder stole files from government systems, and investigators are working to assess how much data was…  
-<sub>`The Record`</sub>
-
-**[When AI Agents Commit Breaches, Humans May Not Be Held Liable](https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable)**  
-As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled.  
+**[Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk](https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk)**  
+Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise…  
 <sub>`Dark Reading`</sub>
+
+**[Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform](https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield)**  
+The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year.  
+<sub>`Dark Reading`</sub>
+
+**[Enterprise AI Enters Risk Management Phase as Security Concerns Rise](https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise)**  
+Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution.  
+<sub>`Dark Reading`</sub>
+
+**[AI Takes Control of Robotic Arm in 16 Minutes Flat](https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes)**  
+Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber…  
+<sub>`Dark Reading`</sub>
+
+**[Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug](https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html)**  
+A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate…  
+<sub>`The Hacker News`</sub>
+
+**[Targeted ads installed Candiru spyware in zero-click attacks](https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/)**  
+Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only…  
+<sub>`BleepingComputer`</sub>
+
+**[Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor](https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html)**  
+Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time…  
+<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
