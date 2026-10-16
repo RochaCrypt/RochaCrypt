@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks](https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/)**  
-Left without funds for a coding task, an OpenAI model spent test crypto from a stranger’s wallet and left it out of its report. The post OpenAI…  
+**[Proofpoint lines up $6.3 billion deal for Varonis’ data security](https://therecord.media/proofpoint-varonis-cybersecurity-acquisition)**  
+Cybersecurity giant Proofpoint says it will acquire Miami-based data visibility and security company Varonis in an all-cash transaction worth $6.3…  
+<sub>`The Record`</sub>
+
+**[In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit](https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/)**  
+Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and…  
 <sub>`SecurityWeek`</sub>
 
-**[F5, Juniper Networks Patch Critical Vulnerabilities](https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/)**  
-Successful exploitation of some of these issues could lead to remote code execution and full device takeover. The post F5, Juniper Networks Patch…  
-<sub>`SecurityWeek`</sub>
-
-**[Microsoft: October Windows update may break Smart App Control](https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/)**  
-Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]  
-<sub>`BleepingComputer`</sub>
-
-**[Microsoft Patches Two Dozen RCE Flaws in Office](https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/)**  
-In addition to RCE flaws, Microsoft fixed multiple information disclosure bugs and a security bypass issue in Office. The post Microsoft Patches Two…  
-<sub>`SecurityWeek`</sub>
-
-**[BAE Systems cyberattack disrupts US federal court operations](https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/)**  
-The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal…  
-<sub>`BleepingComputer`</sub>
-
-**[Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis](https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/)**  
-The Thoma Bravo-owned Proofpoint will acquire Varonis in an all-cash transaction and Varonis will become a private company. The post Proofpoint Inks…  
-<sub>`SecurityWeek`</sub>
-
-**[China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers](https://thehackernews.com/2026/10/china-linked-hackers-exploited.html)**  
-The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in…  
+**[OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract](https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html)**  
+OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its…  
 <sub>`The Hacker News`</sub>
 
-**[CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing](https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html)**  
-AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential…  
-<sub>`The Hacker News`</sub>
+**[When Your Ransomware Negotiator Works for the Other Side](https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side)**  
+The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight.  
+<sub>`Dark Reading`</sub>
+
+**[Employees using personal ChatGPT at work? Here's what IT admins need to do](https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/)**  
+Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise…  
+<sub>`BleepingComputer`</sub>
+
+**[Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia](https://therecord.media/russia-datasuckers-hackers-arrested)**  
+Russian authorities have reportedly detained three suspected members of the DataSuckers hacking group following a cyberattack on a popular restaurant…  
+<sub>`The Record`</sub>
+
+**[Baltimore suburb confirms August data breach after ransomware claims](https://therecord.media/anne-arundel-county-maryland-confirms-data-breach)**  
+Anne Arundel County, Maryland, said an intruder stole files from government systems, and investigators are working to assess how much data was…  
+<sub>`The Record`</sub>
+
+**[When AI Agents Commit Breaches, Humans May Not Be Held Liable](https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable)**  
+As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled.  
+<sub>`Dark Reading`</sub>
 
 <!-- CYBER-NEWS:END -->
 
