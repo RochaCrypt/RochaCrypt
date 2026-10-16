@@ -60,9 +60,21 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape](https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape)**  
+The event closed in Toronto last week, with experts sharing critical perspectives on emerging risks, drawing record attendance and marking 22% growth.  
+<sub>`Dark Reading`</sub>
+
+**[F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud](https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud)**  
+Built from decades of threat intelligence research, the new resource explains scams from the victims' perspective and tracks emerging forms of cyber…  
+<sub>`Dark Reading`</sub>
+
 **[Federal bankruptcy courts dealing with outages after contractor cyberattack](https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage)**  
 The incident, which involved a government contractor, has halted all production of bankruptcy notices.  
 <sub>`The Record`</sub>
+
+**[AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too](https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks)**  
+Don't buy the hype! AI has been dumbing down cyberattacks, and serious threat actors are barely touching it.  
+<sub>`Dark Reading`</sub>
 
 **[Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers](https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/)**  
 Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app…  
@@ -79,18 +91,6 @@ Google announced new AI-powered defenses against scam messages and call-forwardi
 **[Zero-click spyware infecting devices through online ads, researchers say](https://therecord.media/spyware-citizen-lab-advertising)**  
 Powerful zero-click spyware is infected devices worldwide through targeted ads, new research shows — an alarming development in the spread of…  
 <sub>`The Record`</sub>
-
-**[ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More](https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html)**  
-Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in…  
-<sub>`The Hacker News`</sub>
-
-**[Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth](https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/)**  
-A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy…  
-<sub>`BleepingComputer`</sub>
-
-**[Context Is King in the Fight Against Modern Cyberattacks](https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/)**  
-Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. The post Context Is…  
-<sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
 
