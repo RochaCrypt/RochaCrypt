@@ -60,6 +60,10 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack](https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/)**  
+ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities…  
+<sub>`BleepingComputer`</sub>
+
 **[Drupal patches critical RCE flaws, warns exploits may emerge soon](https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/)**  
 Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the…  
 <sub>`BleepingComputer`</sub>
@@ -86,10 +90,6 @@ Researchers warn that hackers could soon exploit a maximum-severity vulnerabilit
 
 **[Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk](https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk)**  
 Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise…  
-<sub>`Dark Reading`</sub>
-
-**[Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform](https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield)**  
-The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year.  
 <sub>`Dark Reading`</sub>
 
 <!-- CYBER-NEWS:END -->
