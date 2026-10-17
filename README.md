@@ -60,6 +60,18 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Drupal patches critical RCE flaws, warns exploits may emerge soon](https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/)**  
+Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the…  
+<sub>`BleepingComputer`</sub>
+
+**[MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon](https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html)**  
+Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed…  
+<sub>`The Hacker News`</sub>
+
+**[Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel](https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/)**  
+Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets. The post Israeli Ad…  
+<sub>`SecurityWeek`</sub>
+
 **[Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants](https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html)**  
 Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365…  
 <sub>`The Hacker News`</sub>
@@ -79,18 +91,6 @@ Campaigns that impersonate popular AI brands are on the rise, and they typically
 **[Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform](https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield)**  
 The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year.  
 <sub>`Dark Reading`</sub>
-
-**[Enterprise AI Enters Risk Management Phase as Security Concerns Rise](https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise)**  
-Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution.  
-<sub>`Dark Reading`</sub>
-
-**[AI Takes Control of Robotic Arm in 16 Minutes Flat](https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes)**  
-Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber…  
-<sub>`Dark Reading`</sub>
-
-**[Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug](https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html)**  
-A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate…  
-<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
