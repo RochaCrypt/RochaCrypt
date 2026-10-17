@@ -60,6 +60,10 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants](https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html)**  
+Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365…  
+<sub>`The Hacker News`</sub>
+
 **[BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs](https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs)**  
 Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.  
 <sub>`Dark Reading`</sub>
@@ -87,10 +91,6 @@ Most OT devices at utilities, factories, and elsewhere have been deployed for a 
 **[Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug](https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html)**  
 A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate…  
 <sub>`The Hacker News`</sub>
-
-**[Targeted ads installed Candiru spyware in zero-click attacks](https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/)**  
-Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only…  
-<sub>`BleepingComputer`</sub>
 
 <!-- CYBER-NEWS:END -->
 
