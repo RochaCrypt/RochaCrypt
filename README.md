@@ -60,6 +60,10 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants](https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html)**  
+ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which…  
+<sub>`The Hacker News`</sub>
+
 **[Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack](https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/)**  
 ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities…  
 <sub>`BleepingComputer`</sub>
@@ -87,10 +91,6 @@ Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices co
 **[Critical BlockStrap flaw lets hackers run code on Magento servers](https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/)**  
 Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially…  
 <sub>`BleepingComputer`</sub>
-
-**[Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk](https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk)**  
-Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise…  
-<sub>`Dark Reading`</sub>
 
 <!-- CYBER-NEWS:END -->
 
