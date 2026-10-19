@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[One Compromised Login Exposed Millions of California Students’ Records](https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/)**  
-Intruders used compromised credentials to access an ETS SFTP server, copying records of California students back to 2006. The post One Compromised…  
-<sub>`SecurityWeek`</sub>
-
-**[Hackers steal customer data from major Russian hosting provider FirstVDS](https://therecord.media/russia-cyberattack-firstvds-cloud)**  
-Hackers have stolen passwords, access credentials and other sensitive data belonging to customers of Russian hosting provider FirstVDS after…  
-<sub>`The Record`</sub>
-
-**[Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack](https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/)**  
-The persistent, stealthy FortiGate implant was deployed against a telecommunications organization. The post Exploited Fortinet Bug Linked to Stealthy…  
-<sub>`SecurityWeek`</sub>
-
-**[Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic](https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html)**  
-A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under…  
-<sub>`The Hacker News`</sub>
-
-**[MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks](https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/)**  
-Defenders get 15 new detection strategies, six for Enterprise and nine for ICS, backed by 38 analytics. The post MITRE ATT&CK v20 Catalogs AI Abuse…  
-<sub>`SecurityWeek`</sub>
-
-**[Microsoft: October Windows Server updates break Exchange sign-in, mail flow](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/)**  
-Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server…  
+**[Nikkei discloses third data breach in a month, 1.8M records exposed](https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/)**  
+Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]  
 <sub>`BleepingComputer`</sub>
 
-**[Anthropic Acquires Confidential AI Startup Opaque Systems](https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/)**  
-Opaque Systems has developed technology that lets AI systems use sensitive data while keeping it protected by the underlying hardware. The post…  
-<sub>`SecurityWeek`</sub>
+**[WordPress SEO plugin Rank Math compromised to backdoor websites](https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/)**  
+Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a…  
+<sub>`BleepingComputer`</sub>
 
-**[Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers](https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html)**  
-A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network…  
-<sub>`The Hacker News`</sub>
+**[Researchers Infiltrate Microsoft Tech Support Scam Operation](https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation)**  
+A large-scale scam operation impersonating Microsoft uses a malicious traffic distribution system (TDS) run by a Russian organization and abuses…  
+<sub>`Dark Reading`</sub>
+
+**['AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery](https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery)**  
+Spyware vendors are exploiting targeted ad bidding in the digital ecosystem to identify and track individuals and organizations of interest.  
+<sub>`Dark Reading`</sub>
+
+**[Judge denies WhatsApp’s bid to hold spyware maker in contempt for allegedly targeting users](https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction)**  
+WhatsApp argued that NSO Group violated a 2025 injunction against using the messaging app to spread spyware. A federal judge said WhatsApp hurt its…  
+<sub>`The Record`</sub>
+
+**[ConnectWise suspends Cloud Backup service after supply chain attack](https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack)**  
+ConnectWise initially said on Friday that it was investigating “attempts of unauthorized access associated with the ConnectWise Cloud Backup…  
+<sub>`The Record`</sub>
+
+**[Hackers hijack AOMEI update servers to secretly spread malware](https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/)**  
+Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering…  
+<sub>`BleepingComputer`</sub>
+
+**[ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs](https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps)**  
+Researchers say attackers authenticated into Microsoft 365 tenants using ConnectWise credentials; ConnectWise says customer impact remains…  
+<sub>`Dark Reading`</sub>
 
 <!-- CYBER-NEWS:END -->
 
