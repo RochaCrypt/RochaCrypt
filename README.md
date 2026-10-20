@@ -60,36 +60,36 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[US Agencies Detail Incident Response Practices for Rogue AI Agents](https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/)**  
-NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI agent…  
-<sub>`SecurityWeek`</sub>
-
-**[Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution](https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html)**  
-Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM…  
-<sub>`The Hacker News`</sub>
-
-**[Close Identity Gaps in Software Development Before Unleashing AI](https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai)**  
-Artificial Intelligence is complicating security in the software development lifecycle, but a Dark Reading roundtable found collaboration, better…  
-<sub>`Dark Reading`</sub>
-
-**[Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA](https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html)**  
-Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by…  
-<sub>`The Hacker News`</sub>
-
-**[EU cyber law won’t force fixes for fridge controllers hit in French attack](https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack)**  
-The EU’s Cyber Resilience Act that took effect last month only requires companies to fix vulnerabilities and issue free updates during a product's…  
-<sub>`The Record`</sub>
-
-**[Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree](https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn)**  
-A Chinese-speaking attacker has compromised hundreds of websites across the globe, looting from big fish like John Deere, SharkNinja, and engine…  
-<sub>`Dark Reading`</sub>
-
-**[DHS bans DeepSeek products across US federal civilian agencies](https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/)**  
-The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government…  
+**[PHP warns admins of two critical flaws, emergency patches coming tomorrow](https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/)**  
+The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as…  
 <sub>`BleepingComputer`</sub>
 
-**[AOMEI yet to notify customers after hackers hijacked its software updates](https://therecord.media/aomei-yet-to-notify-customers-hijack-software)**  
-In an email, the Hong Kong-registered company confirmed to Recorded Future News that hackers repeatedly altered configuration files on its update…  
+**[FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024](https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims)**  
+The FBI and cyber agencies in the UK and Germany said SafePay is targeting businesses and critical infrastructure by guessing passwords, exploiting…  
+<sub>`The Record`</sub>
+
+**[Zeabur shutting down after second security breach in two months](https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/)**  
+Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in…  
+<sub>`BleepingComputer`</sub>
+
+**[California warns all public school students of data stolen in contractor breach](https://therecord.media/california-warns-all-public-school-students-of-data-breach)**  
+The CDE released multiple statements over the last week warning the state’s students that assessment contractor Educational Testing Service (ETS)…  
+<sub>`The Record`</sub>
+
+**[Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ](https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties)**  
+The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector.  
+<sub>`Dark Reading`</sub>
+
+**[23andMe successor settles with California for $6 million over cybersecurity failings](https://therecord.media/23andme-california-data-breach-settlement)**  
+California Attorney General Rob Bonta announced a settlement under which 23andMe's successor will pay $6 million to resolve allegations that the…  
+<sub>`The Record`</sub>
+
+**[OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/)**  
+OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]  
+<sub>`BleepingComputer`</sub>
+
+**[Nigerian national given 8-year sentence for tax business hacks](https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks)**  
+A Nigerian national who worked with a group to hack tax prep businesses and conduct millions of dollars in fraud using customer data was sentenced…  
 <sub>`The Record`</sub>
 
 <!-- CYBER-NEWS:END -->
