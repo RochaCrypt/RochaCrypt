@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Hackers Steal 1.8 Million Records From Nikkei](https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/)**  
-The compromised information includes names, addresses, email addresses, phone numbers, and dates of birth. The post Hackers Steal 1.8 Million Records…  
+**[US Agencies Detail Incident Response Practices for Rogue AI Agents](https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/)**  
+NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI agent…  
 <sub>`SecurityWeek`</sub>
 
-**[Defense contractors in two NATO allies hacked in recent Russia-linked campaign](https://therecord.media/european-defense-contractors-fancy-bear-espionage)**  
-The Russian group known as APT28 and Fancy Bear used a recently documented backdoor to dwell in the networks of two defense contractors and a law…  
+**[Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution](https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html)**  
+Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM…  
+<sub>`The Hacker News`</sub>
+
+**[Close Identity Gaps in Software Development Before Unleashing AI](https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai)**  
+Artificial Intelligence is complicating security in the software development lifecycle, but a Dark Reading roundtable found collaboration, better…  
+<sub>`Dark Reading`</sub>
+
+**[Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA](https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html)**  
+Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by…  
+<sub>`The Hacker News`</sub>
+
+**[EU cyber law won’t force fixes for fridge controllers hit in French attack](https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack)**  
+The EU’s Cyber Resilience Act that took effect last month only requires companies to fix vulnerabilities and issue free updates during a product's…  
 <sub>`The Record`</sub>
 
-**[Revolut outage disrupts online banking operations worldwide](https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/)**  
-Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]  
+**[Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree](https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn)**  
+A Chinese-speaking attacker has compromised hundreds of websites across the globe, looting from big fish like John Deere, SharkNinja, and engine…  
+<sub>`Dark Reading`</sub>
+
+**[DHS bans DeepSeek products across US federal civilian agencies](https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/)**  
+The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government…  
 <sub>`BleepingComputer`</sub>
 
-**[970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach](https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/)**  
-Paradigm Healthcare Services detected an intrusion in October 2025, but it took nearly a year to start notifying affected individuals. The post…  
-<sub>`SecurityWeek`</sub>
-
-**[Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware](https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html)**  
-An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday…  
-<sub>`The Hacker News`</sub>
-
-**[ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan](https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html)**  
-Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The…  
-<sub>`The Hacker News`</sub>
-
-**[Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge](https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html)**  
-A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an…  
-<sub>`The Hacker News`</sub>
-
-**[Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware](https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html)**  
-Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as…  
-<sub>`The Hacker News`</sub>
+**[AOMEI yet to notify customers after hackers hijacked its software updates](https://therecord.media/aomei-yet-to-notify-customers-hijack-software)**  
+In an email, the Hong Kong-registered company confirmed to Recorded Future News that hackers repeatedly altered configuration files on its update…  
+<sub>`The Record`</sub>
 
 <!-- CYBER-NEWS:END -->
 
