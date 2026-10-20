@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Nikkei discloses third data breach in a month, 1.8M records exposed](https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/)**  
-Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]  
-<sub>`BleepingComputer`</sub>
+**[Hackers Steal 1.8 Million Records From Nikkei](https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/)**  
+The compromised information includes names, addresses, email addresses, phone numbers, and dates of birth. The post Hackers Steal 1.8 Million Records…  
+<sub>`SecurityWeek`</sub>
 
-**[WordPress SEO plugin Rank Math compromised to backdoor websites](https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/)**  
-Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a…  
-<sub>`BleepingComputer`</sub>
-
-**[Researchers Infiltrate Microsoft Tech Support Scam Operation](https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation)**  
-A large-scale scam operation impersonating Microsoft uses a malicious traffic distribution system (TDS) run by a Russian organization and abuses…  
-<sub>`Dark Reading`</sub>
-
-**['AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery](https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery)**  
-Spyware vendors are exploiting targeted ad bidding in the digital ecosystem to identify and track individuals and organizations of interest.  
-<sub>`Dark Reading`</sub>
-
-**[Judge denies WhatsApp’s bid to hold spyware maker in contempt for allegedly targeting users](https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction)**  
-WhatsApp argued that NSO Group violated a 2025 injunction against using the messaging app to spread spyware. A federal judge said WhatsApp hurt its…  
+**[Defense contractors in two NATO allies hacked in recent Russia-linked campaign](https://therecord.media/european-defense-contractors-fancy-bear-espionage)**  
+The Russian group known as APT28 and Fancy Bear used a recently documented backdoor to dwell in the networks of two defense contractors and a law…  
 <sub>`The Record`</sub>
 
-**[ConnectWise suspends Cloud Backup service after supply chain attack](https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack)**  
-ConnectWise initially said on Friday that it was investigating “attempts of unauthorized access associated with the ConnectWise Cloud Backup…  
-<sub>`The Record`</sub>
-
-**[Hackers hijack AOMEI update servers to secretly spread malware](https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/)**  
-Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering…  
+**[Revolut outage disrupts online banking operations worldwide](https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/)**  
+Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]  
 <sub>`BleepingComputer`</sub>
 
-**[ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs](https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps)**  
-Researchers say attackers authenticated into Microsoft 365 tenants using ConnectWise credentials; ConnectWise says customer impact remains…  
-<sub>`Dark Reading`</sub>
+**[970,000 Medi-Cal Members Affected by Paradigm Healthcare Data Breach](https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/)**  
+Paradigm Healthcare Services detected an intrusion in October 2025, but it took nearly a year to start notifying affected individuals. The post…  
+<sub>`SecurityWeek`</sub>
+
+**[Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware](https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html)**  
+An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday…  
+<sub>`The Hacker News`</sub>
+
+**[ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan](https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html)**  
+Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The…  
+<sub>`The Hacker News`</sub>
+
+**[Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge](https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html)**  
+A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an…  
+<sub>`The Hacker News`</sub>
+
+**[Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware](https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html)**  
+Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as…  
+<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
