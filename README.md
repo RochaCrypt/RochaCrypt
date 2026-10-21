@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[China Defends DeepSeek After US Ban of Its AI From Government Systems](https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/)**  
-The DHS said agencies should remove DeepSeek products as well as third-party products and services developed using DeepSeek from their IT systems…  
-<sub>`SecurityWeek`</sub>
-
-**[Microsoft says October updates didn’t actually fix VPN issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/)**  
-Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]  
+**[OpenAI agents disabled safety monitoring, one lied about it](https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/)**  
+OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding…  
 <sub>`BleepingComputer`</sub>
 
-**[Chinese AI Model Writes More Hackable Code When Told It’s for US Contractor](https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/)**  
-Tasked with writing an application for a US defense contractor, the model made the code 19% more likely to be hackable. The post Chinese AI Model…  
+**[Optiv Launches CyberBOT Cybersecurity Awareness Training Program](https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program)**  
+Hands-on sessions provide educators, nonprofits, and community leaders with an accessible resource to foster year-round cyber awareness and build…  
+<sub>`Dark Reading`</sub>
+
+**[Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk](https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable)**  
+360 Privacy finds more than 8 in 10 security and wealth professionals say cybersecurity and physical security can no longer be separated.  
+<sub>`Dark Reading`</sub>
+
+**[Widespread PHP Flaw May Cause Many Site Outages Today](https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/)**  
+Expect to see quite a few websites serving "404" or "Page Not Found" errors today: Nearly 70 percent of websites need to update their core software…  
+<sub>`Krebs on Security`</sub>
+
+**[‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets](https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/)**  
+Deceptive prompts lure AI agents into decoys and dead ends, cutting attack success by up to 91% in tests and raising the cost of a successful attack…  
 <sub>`SecurityWeek`</sub>
 
-**[PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert](https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html)**  
-This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed…  
-<sub>`The Hacker News`</sub>
+**[High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7](https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/)**  
+Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents. The post…  
+<sub>`SecurityWeek`</sub>
 
-**[Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites](https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html)**  
-Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral…  
-<sub>`The Hacker News`</sub>
+**[Hundreds of websites taken offline as concern grows over two PHP vulnerabilities](https://therecord.media/php-script-vulnerabilities-warnings)**  
+The maintainers of the globally used PHP scripting language released patches for two vulnerabilities after alerting users that the bugs were severe.  
+<sub>`The Record`</sub>
 
-**[CISA: SafePay ransomware hit over 600 critical infrastructure orgs](https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/)**  
-The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure…  
+**[PHP ships emergency patches for critical PHP2Shell flaws](https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/)**  
+The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and…  
 <sub>`BleepingComputer`</sub>
-
-**[U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases](https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html)**  
-U.S. federal civilian agencies must remove DeepSeek products from their information technology systems, along with any third-party products or…  
-<sub>`The Hacker News`</sub>
-
-**[State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web](https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html)**  
-State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark…  
-<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
