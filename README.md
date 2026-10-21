@@ -60,6 +60,18 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Stolen UpdraftCentral keys used to backdoor WordPress sites](https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/)**  
+A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral…  
+<sub>`BleepingComputer`</sub>
+
+**[Mozilla, Google, Apple block compromised eMudhra CA certificates](https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/)**  
+Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone…  
+<sub>`BleepingComputer`</sub>
+
+**[Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys](https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys)**  
+Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the…  
+<sub>`Dark Reading`</sub>
+
 **[PHP warns admins of two critical flaws, emergency patches coming tomorrow](https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/)**  
 The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as…  
 <sub>`BleepingComputer`</sub>
@@ -79,18 +91,6 @@ The CDE released multiple statements over the last week warning the state’s st
 **[Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ](https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties)**  
 The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector.  
 <sub>`Dark Reading`</sub>
-
-**[23andMe successor settles with California for $6 million over cybersecurity failings](https://therecord.media/23andme-california-data-breach-settlement)**  
-California Attorney General Rob Bonta announced a settlement under which 23andMe's successor will pay $6 million to resolve allegations that the…  
-<sub>`The Record`</sub>
-
-**[OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/)**  
-OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]  
-<sub>`BleepingComputer`</sub>
-
-**[Nigerian national given 8-year sentence for tax business hacks](https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks)**  
-A Nigerian national who worked with a group to hack tax prep businesses and conduct millions of dollars in fraud using customer data was sentenced…  
-<sub>`The Record`</sub>
 
 <!-- CYBER-NEWS:END -->
 
