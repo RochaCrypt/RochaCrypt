@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Stolen UpdraftCentral keys used to backdoor WordPress sites](https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/)**  
-A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral…  
+**[China Defends DeepSeek After US Ban of Its AI From Government Systems](https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/)**  
+The DHS said agencies should remove DeepSeek products as well as third-party products and services developed using DeepSeek from their IT systems…  
+<sub>`SecurityWeek`</sub>
+
+**[Microsoft says October updates didn’t actually fix VPN issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/)**  
+Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]  
 <sub>`BleepingComputer`</sub>
 
-**[Mozilla, Google, Apple block compromised eMudhra CA certificates](https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/)**  
-Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone…  
+**[Chinese AI Model Writes More Hackable Code When Told It’s for US Contractor](https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/)**  
+Tasked with writing an application for a US defense contractor, the model made the code 19% more likely to be hackable. The post Chinese AI Model…  
+<sub>`SecurityWeek`</sub>
+
+**[PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert](https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html)**  
+This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed…  
+<sub>`The Hacker News`</sub>
+
+**[Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites](https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html)**  
+Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral…  
+<sub>`The Hacker News`</sub>
+
+**[CISA: SafePay ransomware hit over 600 critical infrastructure orgs](https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/)**  
+The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure…  
 <sub>`BleepingComputer`</sub>
 
-**[Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys](https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys)**  
-Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the…  
-<sub>`Dark Reading`</sub>
+**[U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases](https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html)**  
+U.S. federal civilian agencies must remove DeepSeek products from their information technology systems, along with any third-party products or…  
+<sub>`The Hacker News`</sub>
 
-**[PHP warns admins of two critical flaws, emergency patches coming tomorrow](https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/)**  
-The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as…  
-<sub>`BleepingComputer`</sub>
-
-**[FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024](https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims)**  
-The FBI and cyber agencies in the UK and Germany said SafePay is targeting businesses and critical infrastructure by guessing passwords, exploiting…  
-<sub>`The Record`</sub>
-
-**[Zeabur shutting down after second security breach in two months](https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/)**  
-Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in…  
-<sub>`BleepingComputer`</sub>
-
-**[California warns all public school students of data stolen in contractor breach](https://therecord.media/california-warns-all-public-school-students-of-data-breach)**  
-The CDE released multiple statements over the last week warning the state’s students that assessment contractor Educational Testing Service (ETS)…  
-<sub>`The Record`</sub>
-
-**[Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ](https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties)**  
-The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector.  
-<sub>`Dark Reading`</sub>
+**[State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web](https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html)**  
+State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark…  
+<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
