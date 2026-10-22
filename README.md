@@ -60,6 +60,18 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks](https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/)**  
+Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix…  
+<sub>`BleepingComputer`</sub>
+
+**[Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected](https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/)**  
+Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739…  
+<sub>`BleepingComputer`</sub>
+
+**[TiDB Breach Exposes Flawed Cloud Security Assumptions](https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security)**  
+Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the data comes home to…  
+<sub>`Dark Reading`</sub>
+
 **[Lazarus hackers use post-quantum cryptography for malware delivery](https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/)**  
 North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new…  
 <sub>`BleepingComputer`</sub>
@@ -79,18 +91,6 @@ Research finds that, among respondents experiencing data loss, only 16% said DLP
 **[Tech trio launches $10 million initiative to help under-resourced utilities bolster cybersecurity](https://therecord.media/utilities-cybersecurity-initiative-accenture)**  
 Up to 500 under-resourced utilities will receive support in order to bolster their cybersecurity through a private sector initiative launched this…  
 <sub>`The Record`</sub>
-
-**['PHP2Shell' Bugs Signal Red Alert for Security Industry](https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry)**  
-Security teams are scrambling to remediate two critical PHP vulnerabilities following leaked details and reports of exploitation attempts.  
-<sub>`Dark Reading`</sub>
-
-**[Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases](https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html)**  
-GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every…  
-<sub>`The Hacker News`</sub>
-
-**[CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/)**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media…  
-<sub>`BleepingComputer`</sub>
 
 <!-- CYBER-NEWS:END -->
 
