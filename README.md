@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks](https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/)**  
-Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix…  
+**[Splunk, SolarWinds Release Fresh Security Updates](https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/)**  
+Patched vulnerabilities could allow attackers to execute code, elevate privileges, and leak sensitive information. The post Splunk, SolarWinds…  
+<sub>`SecurityWeek`</sub>
+
+**[Cisco Patches 34 Vulnerabilities Across Multiple Products](https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/)**  
+Critical-severity security defects could lead to command execution, authentication bypass, and XSS attacks. The post Cisco Patches 34 Vulnerabilities…  
+<sub>`SecurityWeek`</sub>
+
+**[PHP2Shell Exploitation Started Days Before Patches](https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/)**  
+Initial attempts were observed on October 17, and mass activity began shortly after patches were released. The post PHP2Shell Exploitation Started…  
+<sub>`SecurityWeek`</sub>
+
+**[LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release](https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html)**  
+LiteLLM on Wednesday disclosed that threat actors compromised "multiple independent security controls" to push a malicious version of the Python…  
+<sub>`The Hacker News`</sub>
+
+**[Authorities disrupt nearly 11,000 cybercrime networks in Africa](https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/)**  
+Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which…  
 <sub>`BleepingComputer`</sub>
 
-**[Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected](https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/)**  
-Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739…  
-<sub>`BleepingComputer`</sub>
+**[Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions](https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html)**  
+Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a…  
+<sub>`The Hacker News`</sub>
 
-**[TiDB Breach Exposes Flawed Cloud Security Assumptions](https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security)**  
-Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the data comes home to…  
-<sub>`Dark Reading`</sub>
+**[Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU](https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/)**  
+Nearly 100 vulnerabilities have been assigned a critical severity rating and Fusion Middleware received the most patches. The post Oracle Patches…  
+<sub>`SecurityWeek`</sub>
 
-**[Lazarus hackers use post-quantum cryptography for malware delivery](https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/)**  
-North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new…  
-<sub>`BleepingComputer`</sub>
-
-**[Meta on the spot for $25 billion under New Mexico privacy ruling](https://therecord.media/meta-new-mexico-penalty-cambridge-analytica-privacy-case)**  
-The Cambridge Analytica data privacy scandal from a decade ago is still weighing on Meta's finances.  
-<sub>`The Record`</sub>
-
-**[Marvell, Microsoft & Oracle Work to Standardize Data Center Hardware Security](https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security)**  
-The effort is aimed at standardizing a NIST FIPS 140-3 Level 3 integrated HSM for cloud and hyperscale data center infrastructure.  
-<sub>`Dark Reading`</sub>
-
-**[Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data Loss Only After It Happens](https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss)**  
-Research finds that, among respondents experiencing data loss, only 16% said DLP blocked their most significant incidents before data left the…  
-<sub>`Dark Reading`</sub>
-
-**[Tech trio launches $10 million initiative to help under-resourced utilities bolster cybersecurity](https://therecord.media/utilities-cybersecurity-initiative-accenture)**  
-Up to 500 under-resourced utilities will receive support in order to bolster their cybersecurity through a private sector initiative launched this…  
-<sub>`The Record`</sub>
+**[Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook](https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/)**  
+The $25 billion award far exceeds a $5 billion fine the Federal Trade Commission levied against Facebook in 2019. The post Meta Ordered to Pay New…  
+<sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
 
