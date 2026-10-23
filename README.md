@@ -60,9 +60,17 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Railway warns devs to rotate secrets after potential breach](https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/)**  
+Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment…  
+<sub>`BleepingComputer`</sub>
+
 **[Toronto crime tips org freezes operations after details of data breach come to light](https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach)**  
 Late Wednesday night the Toronto chapter of Crime Stoppers broke ranks with the national association, revealing a timeline showing what it knew and…  
 <sub>`The Record`</sub>
+
+**[Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack)**  
+The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants.  
+<sub>`Dark Reading`</sub>
 
 **[What We Missed: Feds Lasso Texas Laptop Farms](https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers)**  
 In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from busting up North Korea's stateside…  
@@ -83,14 +91,6 @@ Hackers compromised the LiteLLM project's PyPI package and published malicious D
 **[The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat](https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html)**  
 Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your…  
 <sub>`The Hacker News`</sub>
-
-**[Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks](https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html)**  
-Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the central management system for VeloCloud SD-WAN…  
-<sub>`The Hacker News`</sub>
-
-**[Indian tech company eMudhra announces withdrawal from certificate business after security incident](https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident)**  
-The issue was publicized by cybersecurity researcher Scott Helme, who published a blog saying that instead of a random 384-bit number, one of the…  
-<sub>`The Record`</sub>
 
 <!-- CYBER-NEWS:END -->
 
