@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Railway warns devs to rotate secrets after potential breach](https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/)**  
-Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment…  
-<sub>`BleepingComputer`</sub>
+**[China APT Uses AI Pentest Tool Artex in ConnectWise Attacks](https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/)**  
+The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments. The post China APT Uses AI Pentest…  
+<sub>`SecurityWeek`</sub>
 
-**[Toronto crime tips org freezes operations after details of data breach come to light](https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach)**  
-Late Wednesday night the Toronto chapter of Crime Stoppers broke ranks with the national association, revealing a timeline showing what it knew and…  
-<sub>`The Record`</sub>
+**[Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months](https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/)**  
+The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post…  
+<sub>`SecurityWeek`</sub>
 
-**[Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack)**  
-The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants.  
-<sub>`Dark Reading`</sub>
-
-**[What We Missed: Feds Lasso Texas Laptop Farms](https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers)**  
-In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from busting up North Korea's stateside…  
-<sub>`Dark Reading`</sub>
-
-**[Capcom confirms data breach affecting 11.7 million accounts](https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/)**  
-Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email…  
-<sub>`BleepingComputer`</sub>
-
-**[Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour](https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french)**  
-Des centaines de magasins ont subi des pertes se chiffrant en millions d'euros parce qu'ils avaient fait appel à des tiers pour gérer le…  
-<sub>`Dark Reading`</sub>
-
-**[LiteLLM release pipeline hacked to distribute info-stealer malware](https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/)**  
-Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and…  
-<sub>`BleepingComputer`</sub>
-
-**[The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat](https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html)**  
-Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your…  
+**[Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image](https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html)**  
+Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it…  
 <sub>`The Hacker News`</sub>
+
+**[Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data](https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html)**  
+Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have…  
+<sub>`The Hacker News`</sub>
+
+**[Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances](https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html)**  
+AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it…  
+<sub>`The Hacker News`</sub>
+
+**[11 Million Impacted by Capcom Data Breach](https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/)**  
+The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts. The post 11 Million Impacted by Capcom…  
+<sub>`SecurityWeek`</sub>
+
+**[Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’](https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/)**  
+In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place…  
+<sub>`SecurityWeek`</sub>
+
+**[LiteLLM Compromised in Fresh Supply Chain Attack](https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/)**  
+Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker. The post LiteLLM Compromised in Fresh…  
+<sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
 
