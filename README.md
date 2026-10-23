@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[PHP shares mitigation for new RCE vulnerability with no patch](https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/)**  
-The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default…  
+**[Abandoned Popcorn Time app exposed millions of device to RCE attacks](https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/)**  
+Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a…  
 <sub>`BleepingComputer`</sub>
 
-**[In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware](https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/)**  
-Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters…  
-<sub>`SecurityWeek`</sub>
-
-**[You gave your AI agent access, but who is giving it orders?](https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/)**  
-AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their…  
-<sub>`BleepingComputer`</sub>
-
-**[Why Caribbean Threats Cascade Into Global Cyber-Risk](https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk)**  
-The region is demonstrating what happens when exploits accelerate but assurance does not.  
+**[Exposed to PHP2Shell? Cyber Experts Weigh in With Advice](https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice)**  
+Fixing the critical PHP flaws is not as simple as clicking "Update." Here's how to assess your risk, and what you can do to protect yourself.  
 <sub>`Dark Reading`</sub>
 
-**[Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials](https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html)**  
-Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate…  
+**[Microsoft Teams to get AI-powered, context-aware phishing detection](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/)**  
+Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]  
+<sub>`BleepingComputer`</sub>
+
+**[BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations](https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html)**  
+Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called…  
 <sub>`The Hacker News`</sub>
 
-**[Cyber Insurance's New Reality: Underwriting Isn't Enough](https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough)**  
-Rising AI, social engineering, and cloud risks are pushing carriers beyond risk transfer and deeper into cybersecurity itself.  
+**[Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws](https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html)**  
+Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie…  
+<sub>`The Hacker News`</sub>
+
+**[Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions](https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html)**  
+Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen…  
+<sub>`The Hacker News`</sub>
+
+**[FCC bans two devices with surveillance chips linked to Huawei](https://therecord.media/fcc-bans-devices-huawei-surveillance-chips)**  
+The banned items — a wireless video transmitter and dashboard camera — are made with chips manufactured by Huawei subsidiary HiSilicon, which markets…  
+<sub>`The Record`</sub>
+
+**[AI Tools Are Generating Massive Attacks for Little Cost](https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost)**  
+One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to…  
 <sub>`Dark Reading`</sub>
-
-**[UK proposes 14-year prison terms for undersea cable sabotage](https://therecord.media/uk-undersea-cables-sabotage-new-sentencing-guidelines)**  
-In an era of hybrid threats, the British government wants to update the Submarine Telegraph Act 1885, which carries a maximum fine of £1,000 and five…  
-<sub>`The Record`</sub>
-
-**[Quest Diagnostics warns of potential data theft after attack on lab service system](https://therecord.media/quest-diagnostics-network-intrusion)**  
-Nationwide lab test company Quest Diagnostics said one of its key systems may have experienced a breach of patient data.  
-<sub>`The Record`</sub>
 
 <!-- CYBER-NEWS:END -->
 
