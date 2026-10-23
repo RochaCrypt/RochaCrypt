@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[China APT Uses AI Pentest Tool Artex in ConnectWise Attacks](https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/)**  
-The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments. The post China APT Uses AI Pentest…  
+**[PHP shares mitigation for new RCE vulnerability with no patch](https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/)**  
+The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default…  
+<sub>`BleepingComputer`</sub>
+
+**[In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware](https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/)**  
+Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters…  
 <sub>`SecurityWeek`</sub>
 
-**[Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months](https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/)**  
-The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post…  
-<sub>`SecurityWeek`</sub>
+**[You gave your AI agent access, but who is giving it orders?](https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/)**  
+AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their…  
+<sub>`BleepingComputer`</sub>
 
-**[Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image](https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html)**  
-Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it…  
+**[Why Caribbean Threats Cascade Into Global Cyber-Risk](https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk)**  
+The region is demonstrating what happens when exploits accelerate but assurance does not.  
+<sub>`Dark Reading`</sub>
+
+**[Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials](https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html)**  
+Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate…  
 <sub>`The Hacker News`</sub>
 
-**[Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data](https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html)**  
-Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have…  
-<sub>`The Hacker News`</sub>
+**[Cyber Insurance's New Reality: Underwriting Isn't Enough](https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough)**  
+Rising AI, social engineering, and cloud risks are pushing carriers beyond risk transfer and deeper into cybersecurity itself.  
+<sub>`Dark Reading`</sub>
 
-**[Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances](https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html)**  
-AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it…  
-<sub>`The Hacker News`</sub>
+**[UK proposes 14-year prison terms for undersea cable sabotage](https://therecord.media/uk-undersea-cables-sabotage-new-sentencing-guidelines)**  
+In an era of hybrid threats, the British government wants to update the Submarine Telegraph Act 1885, which carries a maximum fine of £1,000 and five…  
+<sub>`The Record`</sub>
 
-**[11 Million Impacted by Capcom Data Breach](https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/)**  
-The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts. The post 11 Million Impacted by Capcom…  
-<sub>`SecurityWeek`</sub>
-
-**[Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’](https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/)**  
-In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place…  
-<sub>`SecurityWeek`</sub>
-
-**[LiteLLM Compromised in Fresh Supply Chain Attack](https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/)**  
-Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker. The post LiteLLM Compromised in Fresh…  
-<sub>`SecurityWeek`</sub>
+**[Quest Diagnostics warns of potential data theft after attack on lab service system](https://therecord.media/quest-diagnostics-network-intrusion)**  
+Nationwide lab test company Quest Diagnostics said one of its key systems may have experienced a breach of patient data.  
+<sub>`The Record`</sub>
 
 <!-- CYBER-NEWS:END -->
 
