@@ -60,7 +60,11 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Abandoned Popcorn Time app exposed millions of device to RCE attacks](https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/)**  
+**[Trust Is Not What It Seems — And Fraudsters Are Counting on It](https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it)**  
+Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a…  
+<sub>`Dark Reading`</sub>
+
+**[Abandoned Popcorn Time app exposed millions of devices to RCE attacks](https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/)**  
 Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a…  
 <sub>`BleepingComputer`</sub>
 
@@ -87,10 +91,6 @@ Cybersecurity researchers have discovered an artificial intelligence (AI)-driven
 **[FCC bans two devices with surveillance chips linked to Huawei](https://therecord.media/fcc-bans-devices-huawei-surveillance-chips)**  
 The banned items — a wireless video transmitter and dashboard camera — are made with chips manufactured by Huawei subsidiary HiSilicon, which markets…  
 <sub>`The Record`</sub>
-
-**[AI Tools Are Generating Massive Attacks for Little Cost](https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost)**  
-One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to…  
-<sub>`Dark Reading`</sub>
 
 <!-- CYBER-NEWS:END -->
 
