@@ -60,6 +60,10 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave](https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/)**  
+Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit…  
+<sub>`SecurityWeek`</sub>
+
 **[OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication](https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html)**  
 OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and…  
 <sub>`The Hacker News`</sub>
@@ -87,10 +91,6 @@ Between November 2025 and March 2026, the Dutch security firm Eye Security pushe
 **[CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud](https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html)**  
 The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server…  
 <sub>`The Hacker News`</sub>
-
-**[Trust Is Not What It Seems — And Fraudsters Are Counting on It](https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it)**  
-Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a…  
-<sub>`Dark Reading`</sub>
 
 <!-- CYBER-NEWS:END -->
 
