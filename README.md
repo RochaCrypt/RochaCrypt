@@ -60,6 +60,18 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers](https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html)**  
+A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who…  
+<sub>`The Hacker News`</sub>
+
+**[PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking](https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html)**  
+Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the…  
+<sub>`The Hacker News`</sub>
+
+**[AI coding agents hijacked using AGENTS.md file in Downloads folder](https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/)**  
+Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a…  
+<sub>`BleepingComputer`</sub>
+
 **[Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave](https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/)**  
 Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit…  
 <sub>`SecurityWeek`</sub>
@@ -78,18 +90,6 @@ A memory-corruption flaw in Google's Brotli decoder sits in many programs that u
 
 **[Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline](https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html)**  
 LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed…  
-<sub>`The Hacker News`</sub>
-
-**[Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads](https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html)**  
-Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the…  
-<sub>`The Hacker News`</sub>
-
-**[Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html)**  
-Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch…  
-<sub>`The Hacker News`</sub>
-
-**[CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud](https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html)**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server…  
 <sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
