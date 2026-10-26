@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Popular AI tool LiteLLM says unrevoked key allowed hackers to target users](https://therecord.media/litellm-hackers-ai-malware)**  
-LiteLLM, an open-source tool widely used by artificial intelligence developers, said a key accidentally exposed in May was behind a supply-chain…  
+**[Risks & Rewards: How AI Is Redefining the CISO's Role](https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role)**  
+Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the…  
+<sub>`Dark Reading`</sub>
+
+**[Former pentester used ARTEX AI to steal 8.2 million data records](https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/)**  
+South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI…  
+<sub>`BleepingComputer`</sub>
+
+**[Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines](https://therecord.media/texas-sues-openai-deceiving-customers)**  
+In an unusual move, the suit — brought under the state’s deceptive trade practices laws — seeks to hold founder and CEO Sam Altman personally liable…  
 <sub>`The Record`</sub>
 
-**[Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts](https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/)**  
-The individuals called victims and persuaded them to install an app and scan their credit cards to loot their bank accounts. The post Dutch Police…  
-<sub>`SecurityWeek`</sub>
+**[In-the-Wild Attack Abuses AI Agents' Trust in Markdown](https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown)**  
+A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents…  
+<sub>`Dark Reading`</sub>
 
-**[Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses](https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html)**  
-Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from…  
-<sub>`The Hacker News`</sub>
-
-**[Kali Linux 2026.3 released with 6 new tools, desktop updates](https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/)**  
-Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed…  
+**[OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/)**  
+OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less…  
 <sub>`BleepingComputer`</sub>
 
-**[Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages](https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/)**  
-An out-of-bounds write in Google’s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution. The post…  
+**[Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI](https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/)**  
+A string of hacking incidents by rogue AI agents also has raised fears the technology will slip free of human control to carry out harmful…  
 <sub>`SecurityWeek`</sub>
 
-**[uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts](https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html)**  
-A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps…  
-<sub>`The Hacker News`</sub>
-
-**[PHP2Shell security flaws now sucessfully exploited in the wild](https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/)**  
-Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the…  
+**[DreamHost forces password resets in ongoing "incident"](https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/)**  
+DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface…  
 <sub>`BleepingComputer`</sub>
 
-**[Mythos 5 Ignored Real-World Harm in July Attack](https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/)**  
-The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub. The post Mythos 5 Ignored…  
-<sub>`SecurityWeek`</sub>
+**[Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento](https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html)**  
+An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025…  
+<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
