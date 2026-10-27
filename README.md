@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI](https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/)**  
-Anthropic presents its own initial public offering as a step toward mitigating the risks it believes AI poses. The post Risks Spelled Out for…  
-<sub>`SecurityWeek`</sub>
+**['Aokigahara' Stealer Targets 'Developer Keyrings' & AI Assistants](https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants)**  
+The malware's focus on AI tools expands the traditional infostealer playbook to expose a forest of AI sessions, sensitive business data, and…  
+<sub>`Dark Reading`</sub>
 
-**[Apple backports CoreGraphics zero-day patches to older iPhones](https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/)**  
-​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in "extremely…  
+**[Warp discloses breach exposing AI agent logs, user telemetry data](https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/)**  
+Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in…  
 <sub>`BleepingComputer`</sub>
 
-**[This is Fine: What NetScaler Zero-Days Tell Us About the New Normal](https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/)**  
-Keep your patch management pipelines primed in case another round of Citrix NetScaler patches get released soon. The post This is Fine: What…  
+**[Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws](https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/)**  
+Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released. The post…  
 <sub>`SecurityWeek`</sub>
 
-**[Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover](https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/)**  
-Running at system boot, it periodically polled the update domain to execute any code served, with full privileges. The post Dead Popcorn Time Updater…  
-<sub>`SecurityWeek`</sub>
+**[Hackers repeatedly breached suppliers holding UK police data, watchdog finds](https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report)**  
+His Majesty’s Inspectorate of Constabulary and Fire & Rescue Services says British police data has been breach several times this decade through…  
+<sub>`The Record`</sub>
 
-**[Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers](https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html)**  
-A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia…  
+**[University of New Mexico hospital diverts ambulances after cyberattack](https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident)**  
+For about two hours on Monday, the organization diverted ambulances to health systems in Albuquerque and Santa Fe. They were forced to suspend…  
+<sub>`The Record`</sub>
+
+**[Tailscale warns of SSH flaws allowing root privilege escalation](https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/)**  
+The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers…  
+<sub>`BleepingComputer`</sub>
+
+**[The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest](https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/)**  
+Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering…  
+<sub>`BleepingComputer`</sub>
+
+**[GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption](https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html)**  
+The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a…  
 <sub>`The Hacker News`</sub>
-
-**[Energy giant ENGIE discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/)**  
-French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a…  
-<sub>`BleepingComputer`</sub>
-
-**[OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections](https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html)**  
-OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in…  
-<sub>`The Hacker News`</sub>
-
-**[CISA confirms PHP2Shell vulnerabilities now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/)**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited…  
-<sub>`BleepingComputer`</sub>
 
 <!-- CYBER-NEWS:END -->
 
