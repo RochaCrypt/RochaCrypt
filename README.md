@@ -60,6 +60,18 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics](https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/)**  
+The University of New Mexico Health System told people not to show up at its main hospital in Albuquerque and canceled appointments at more than 30…  
+<sub>`SecurityWeek`</sub>
+
+**[So Many AI Security Benchmarks, But None Tell the Whole Story](https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges)**  
+Measuring AI model security gets complex fast — a growing patchwork of benchmarks targets different variables in the equation, but none replace…  
+<sub>`Dark Reading`</sub>
+
+**[University of Copenhagen data breach exposes data of 525,000 people](https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/)**  
+The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000…  
+<sub>`BleepingComputer`</sub>
+
 **[Risks & Rewards: How AI Is Redefining the CISO's Role](https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role)**  
 Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the…  
 <sub>`Dark Reading`</sub>
@@ -79,18 +91,6 @@ A new AI agent prompt injection technique exploits how coding assistants consume
 **[OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/)**  
 OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less…  
 <sub>`BleepingComputer`</sub>
-
-**[Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI](https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/)**  
-A string of hacking incidents by rogue AI agents also has raised fears the technology will slip free of human control to carry out harmful…  
-<sub>`SecurityWeek`</sub>
-
-**[DreamHost forces password resets in ongoing "incident"](https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/)**  
-DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface…  
-<sub>`BleepingComputer`</sub>
-
-**[Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento](https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html)**  
-An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025…  
-<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
