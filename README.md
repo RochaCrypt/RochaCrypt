@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Japan's GMO urges customers to shut down PCs amid ransomware threat](https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/)**  
-The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the…  
-<sub>`BleepingComputer`</sub>
+**[China-Linked Hackers Exploit PHP2Shell to Root Firewalls](https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/)**  
+The attackers chained PHP2Shell and Fragnesia exploits and hacked two servers of a US government-affiliated organization. The post China-Linked…  
+<sub>`SecurityWeek`</sub>
 
-**[OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/)**  
-OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]  
-<sub>`BleepingComputer`</sub>
-
-**[UNM Health ransomware attack disrupts patient care, surgeries](https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/)**  
-The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic…  
-<sub>`BleepingComputer`</sub>
-
-**[3 Frameworks to Protect CISOs & Orgs Against AI Liability](https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability)**  
-Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors.  
-<sub>`Dark Reading`</sub>
-
-**[Hackers hijack Convertr analytics script to steal payment card data](https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/)**  
-A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data…  
-<sub>`BleepingComputer`</sub>
-
-**[External Teams Chats Anchor 15-Minute Malware Delivery](https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path)**  
-Main bombing sis getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.  
-<sub>`Dark Reading`</sub>
-
-**[Nefilim, Hive ransomware operator given five-year-plus sentence after guilty plea](https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison)**  
-Ukrainian national Artem Stryzhak, 36, had pleaded guilty last year to charges related to participating in at least two well-known ransomware groups.  
+**[FBI seizes ‘bulletproof’ hosting site accused of facilitating child abuse, money laundering](https://therecord.media/fbi-seizure-csam-virtualine)**  
+The FBI seized the domain of a “bulletproof” hosting provider accused of facilitating a range of cybercrimes, including money laundering and the…  
 <sub>`The Record`</sub>
 
-**[SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack](https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack)**  
-A recent Shai-Hulud attack shows defenders need real-time visibility into production code and affected services to respond to supply chain…  
-<sub>`Dark Reading`</sub>
+**[Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass](https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html)**  
+Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary…  
+<sub>`The Hacker News`</sub>
+
+**[Long-Hidden Flaws Patched in EPICS Research Facility Control Software](https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/)**  
+Four EPICS Base flaws found by an autonomous system could let attackers crash processes at particle accelerators and fusion labs. The post…  
+<sub>`SecurityWeek`</sub>
+
+**[CISA warns of hackers now exploiting critical Node2Shell flaw](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/)**  
+On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli…  
+<sub>`BleepingComputer`</sub>
+
+**[American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed](https://thehackernews.com/2026/10/american-organizations-under-attack.html)**  
+Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud…  
+<sub>`The Hacker News`</sub>
+
+**[Nobody Trusts the Security Questionnaire. We Rely on It Anyway.](https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/)**  
+The process that gates nearly every B2B deal is a self-assessment the sender distrusts and the receiver accepts. There is finally a better basis for…  
+<sub>`SecurityWeek`</sub>
+
+**[Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise](https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/)**  
+The company will use the Series B funds to expand its platform for securing AI agents’ access to sensitive systems. The post Secrets Management Firm…  
+<sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
 
