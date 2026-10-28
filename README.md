@@ -60,6 +60,18 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Japan's GMO urges customers to shut down PCs amid ransomware threat](https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/)**  
+The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the…  
+<sub>`BleepingComputer`</sub>
+
+**[OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/)**  
+OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]  
+<sub>`BleepingComputer`</sub>
+
+**[UNM Health ransomware attack disrupts patient care, surgeries](https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/)**  
+The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic…  
+<sub>`BleepingComputer`</sub>
+
 **[3 Frameworks to Protect CISOs & Orgs Against AI Liability](https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability)**  
 Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors.  
 <sub>`Dark Reading`</sub>
@@ -76,20 +88,8 @@ Main bombing sis getting a new look with a wide-scale, ongoing social engineerin
 Ukrainian national Artem Stryzhak, 36, had pleaded guilty last year to charges related to participating in at least two well-known ransomware groups.  
 <sub>`The Record`</sub>
 
-**[US indicts Malaysian national after Madagascar scam operation uncovered](https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar)**  
-DOJ action against five foreign nationals — plus a sting in Madagascar — highlight the expanding global reach of the scam center industry.  
-<sub>`The Record`</sub>
-
-**[CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets](https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html)**  
-Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a…  
-<sub>`The Hacker News`</sub>
-
-**[Microsoft releases Windows OOB updates to distrust eMudhra certificates](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/)**  
-Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys…  
-<sub>`BleepingComputer`</sub>
-
-**[Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills](https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills)**  
-Nathan Hamiel outlines potential SecOps horror in the AI midst, as core technical capabilities go the way of reading an atlas or remembering phone…  
+**[SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack](https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack)**  
+A recent Shai-Hulud attack shows defenders need real-time visibility into production code and affected services to respond to supply chain…  
 <sub>`Dark Reading`</sub>
 
 <!-- CYBER-NEWS:END -->
