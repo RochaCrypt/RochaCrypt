@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Court strikes down West Virginia law barring disclosure of public officials’ personal data](https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court)**  
-A federal appellate court panel said West Virginia's version of Daniel's Law — meant to shield the personal data of police and other officials — is…  
-<sub>`The Record`</sub>
-
-**[Police seize Virtualine bulletproof service tied to ransowmare, cybercrime](https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/)**  
-U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating…  
+**[Windows 11 KB5127936 update released with 41 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/)**  
+Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud…  
 <sub>`BleepingComputer`</sub>
 
-**[Japan Airlines warns of data breach as country grapples with multiple cyber incidents](https://therecord.media/japan-airlines-warns-of-breach-country-grapples-with-incidents)**  
-Hackers stole passport numbers, frequent flyer numbers, email addresses and phone numbers for about 2,000 customers.  
-<sub>`The Record`</sub>
-
-**[GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub](https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github)**  
-The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.  
-<sub>`Dark Reading`</sub>
-
-**[Discord to let search engines index public server messages](https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/)**  
-Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform…  
+**[New Cisco firewall zero-day exploited to crash SSL VPN devices](https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/)**  
+Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that…  
 <sub>`BleepingComputer`</sub>
 
-**[Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns](https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html)**  
-The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has…  
+**[Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net](https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/)**  
+The data of So-net and Plala customers in Japan was exposed, along with 54,401 email account passwords and 16 bank account records. The post Hackers…  
+<sub>`SecurityWeek`</sub>
+
+**[Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls](https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html)**  
+Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall…  
 <sub>`The Hacker News`</sub>
 
-**[European digital rights nonprofit noyb sues Scale AI for ‘invasive’ worker surveillance](https://therecord.media/noyb-sues-scale-ai-for-worker-surveillance)**  
-Noyb alleges the platform in some cases records freelancers’ mouse clicks and keystrokes every few seconds and claims the collected information can…  
-<sub>`The Record`</sub>
+**[Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network](https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/)**  
+Cisco Talos linked SD-WAN key-stealing malware to infrastructure overlapping Volt Typhoon’s Silent Train network, which Lumen detailed. The post…  
+<sub>`SecurityWeek`</sub>
 
-**[US sanctions Russians, North Koreans for laundering IT worker earnings](https://therecord.media/north-korea-russia-sanctions)**  
-The U.S. Treasury Department sanctioned Russian and North Korean nationals for allegedly laundering the earnings of illicit IT workers on behalf of…  
-<sub>`The Record`</sub>
+**[GitHub Launches npm Firewall to Block Malicious Packages Before Installation](https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html)**  
+GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation…  
+<sub>`The Hacker News`</sub>
+
+**[Shadowy AI Relay Disables OpenAI Codex, Claude Code Sandboxes](https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes)**  
+The enigmatic service is providing popular AI coding tools to mainland China and other regions where OpenAI and Anthropic products are not officially…  
+<sub>`Dark Reading`</sub>
+
+**[Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August](https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/)**  
+An exploited flaw in the Remote Access SSL VPN service lets unauthenticated attackers remotely force ASA and FTD firewalls to reload. The post…  
+<sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
 
