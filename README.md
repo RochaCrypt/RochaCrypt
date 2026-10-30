@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/)**  
-OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep…  
-<sub>`BleepingComputer`</sub>
+**[Fresh WordPress Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/)**  
+Threat actors are attempting to exploit a high-severity unauthenticated race condition leading to remote code execution. The post Fresh WordPress…  
+<sub>`SecurityWeek`</sub>
 
-**[Binance probes potential $5.8 billion crypto-theft hack](https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/)**  
-Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the…  
-<sub>`BleepingComputer`</sub>
-
-**[Hugging Face malware campaign returns to hijack GPUs for crypto mining](https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/)**  
-A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model…  
-<sub>`BleepingComputer`</sub>
-
-**[Japan Airlines suffers third-party data breach exposing passenger info](https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/)**  
-Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]  
-<sub>`BleepingComputer`</sub>
-
-**[Polymarket halts trading after crypto-draining script breach, $2.5M traced](https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/)**  
-Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute…  
-<sub>`BleepingComputer`</sub>
-
-**[Anthropic-Themed Phishing Emails Bypass Top Security Tools](https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools)**  
-Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products.  
-<sub>`Dark Reading`</sub>
-
-**[Rethinking Cybersecurity Awareness in the AI Era](https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era)**  
-This installment of the Reporters' Notebook video series discusses some of the trends and topics from Cybersecurity Awareness Month, from using AI…  
-<sub>`Dark Reading`</sub>
-
-**[Limited reports of PHP bug exploitation emerge](https://therecord.media/php2shell-successful-exploitation-reports-emerge)**  
-One cyber firm listed a half-dozen exploitations of the PHP2Shell bugs, and another identified a well targeted, suspected Chinese campaign that…  
+**[Polymarket confirms cyberattack on third-party provider after outages](https://therecord.media/polymarket-confirms-cyberattack-third-party)**  
+The company suffered outages starting at 2pm EST on Thursday and eventually attributed the downtime to a compromise involving an unnamed provider.  
 <sub>`The Record`</sub>
+
+**[Russian popular home goods chain faces days of disruption following cyberattack](https://therecord.media/russian-home-goods-chain-faces-disruptions)**  
+Poryadok, which operates 48 stores across 32 Russian cities, first reported technical problems on Sunday, saying its website, mobile app and physical…  
+<sub>`The Record`</sub>
+
+**[Microsoft finally fixes VPN issues caused by September updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/)**  
+Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]  
+<sub>`BleepingComputer`</sub>
+
+**[Drupal Commerce Core Vulnerability Exploited Against Online Stores](https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/)**  
+Drupal says a highly critical Commerce Core access bypass is exploited in the wild and urges store owners to audit their orders. The post Drupal…  
+<sub>`SecurityWeek`</sub>
+
+**[Drupal warns of critical Commerce Core flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/)**  
+Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]  
+<sub>`BleepingComputer`</sub>
+
+**[$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack](https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/)**  
+Malicious code linked to a website monitoring tool was designed to hijack logged-in Polymarket sessions and siphon user funds. The post $2 Million+…  
+<sub>`SecurityWeek`</sub>
+
+**[Max-Severity GitLab Vulnerability Exploited Against Alpine Linux](https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/)**  
+Tracked as CVE-2026-97229, the bug allows unauthenticated attackers to execute arbitrary code on the server. The post Max-Severity GitLab…  
+<sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
 
