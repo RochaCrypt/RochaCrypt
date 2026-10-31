@@ -72,6 +72,10 @@ The DOJ’s Executive Office for U.S. Trustees said a consumer privacy ombudsman
 Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs).  
 <sub>`Dark Reading`</sub>
 
+**[Behind the Scenes of How Operation Blackout Went Down](https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down)**  
+A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened…  
+<sub>`Dark Reading`</sub>
+
 **[Fashion retailer Resolve says hackers stole payment card information](https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards)**  
 The company, billing itself as “the next-generation fashion retailer for Millennial and Generation Z consumers,” said a recent hack exposed customer…  
 <sub>`The Record`</sub>
@@ -87,10 +91,6 @@ Hardware wallet device maker Trezor has received credible reports about a suspec
 **[Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach](https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach)**  
 The state’s Department of Education (FLDOE) said on Thursday it became aware of a data breach involving the Florida Student Financial Aid website on…  
 <sub>`The Record`</sub>
-
-**[L’Italia è afflitta da vulnerabilità informatiche, senza una causa chiara](https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian)**  
-I ricercatori non riescono a spiegare del tutto perché le minacce informatiche in Italia siano così diverse rispetto a quelle di qualsiasi altro…  
-<sub>`Dark Reading`</sub>
 
 <!-- CYBER-NEWS:END -->
 
