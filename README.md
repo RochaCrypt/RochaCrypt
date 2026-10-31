@@ -60,6 +60,26 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[New Android SMS of Death exploit can remotely crash unpatched phones](https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/)**  
+A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed "SMS of Death" and tracked as…  
+<sub>`BleepingComputer`</sub>
+
+**[Reddit to lock content behind logins to fight scrapers](https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/)**  
+Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a "logged-in service," offering limited access to visitors…  
+<sub>`BleepingComputer`</sub>
+
+**[From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.](https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/)**  
+AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to…  
+<sub>`BleepingComputer`</sub>
+
+**[Chainalysis discloses data breach from "offensive agentic techniques"](https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/)**  
+Blockchain analytics firm Chainalysis disclosed a data breach after attackers used "offensive agentic techniques" to access internal systems and…  
+<sub>`BleepingComputer`</sub>
+
+**[Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html)**  
+American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive…  
+<sub>`The Hacker News`</sub>
+
 **[Syrian Hacker Gets Prison Time in US After Over a Decade on the Run](https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/)**  
 A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian…  
 <sub>`SecurityWeek`</sub>
@@ -71,26 +91,6 @@ The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added
 **[A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats](https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html)**  
 A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private…  
 <sub>`The Hacker News`</sub>
-
-**[Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%](https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html)**  
-Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web…  
-<sub>`The Hacker News`</sub>
-
-**[Critical Linux kernel flaw allows remote root attacks on MPTCP servers](https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/)**  
-Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to…  
-<sub>`BleepingComputer`</sub>
-
-**[DOJ raises privacy concerns over potential sale of Character.AI chats](https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale)**  
-The DOJ’s Executive Office for U.S. Trustees said a consumer privacy ombudsman is needed to advise the court on how to regulate what data from…  
-<sub>`The Record`</sub>
-
-**[Devs Hit by Trojanized Claude Code Extension for Cursor](https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor)**  
-Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs).  
-<sub>`Dark Reading`</sub>
-
-**[Behind the Scenes of How Operation Blackout Went Down](https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down)**  
-A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened…  
-<sub>`Dark Reading`</sub>
 
 <!-- CYBER-NEWS:END -->
 
