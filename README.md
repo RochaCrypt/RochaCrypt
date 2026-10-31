@@ -60,6 +60,10 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Northflank security breach leads to abuse of customers' AI API keys](https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/)**  
+Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security…  
+<sub>`BleepingComputer`</sub>
+
 **[New Android SMS of Death exploit can remotely crash unpatched phones](https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/)**  
 A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed "SMS of Death" and tracked as…  
 <sub>`BleepingComputer`</sub>
@@ -86,10 +90,6 @@ A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad at
 
 **[Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access](https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html)**  
 The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its…  
-<sub>`The Hacker News`</sub>
-
-**[A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats](https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html)**  
-A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private…  
 <sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
