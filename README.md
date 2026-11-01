@@ -60,6 +60,26 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations](https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/)**  
+The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues. The post…  
+<sub>`SecurityWeek`</sub>
+
+**[CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key](https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html)**  
+A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the…  
+<sub>`The Hacker News`</sub>
+
+**[Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script](https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html)**  
+Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October…  
+<sub>`The Hacker News`</sub>
+
+**[FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist](https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html)**  
+The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a…  
+<sub>`The Hacker News`</sub>
+
+**[NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection](https://thehackernews.com/2026/11/netamloader-malware-targets-government.html)**  
+Cybersecurity researchers have disclosed details of what has been described as a "highly sophisticated infection chain" targeting government…  
+<sub>`The Hacker News`</sub>
+
 **[Northflank security breach leads to abuse of customers' AI API keys](https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/)**  
 Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security…  
 <sub>`BleepingComputer`</sub>
@@ -71,26 +91,6 @@ A security researcher has released a proof-of-concept exploit for a recently pat
 **[Reddit to lock content behind logins to fight scrapers](https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/)**  
 Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a "logged-in service," offering limited access to visitors…  
 <sub>`BleepingComputer`</sub>
-
-**[From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.](https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/)**  
-AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to…  
-<sub>`BleepingComputer`</sub>
-
-**[Chainalysis discloses data breach from "offensive agentic techniques"](https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/)**  
-Blockchain analytics firm Chainalysis disclosed a data breach after attackers used "offensive agentic techniques" to access internal systems and…  
-<sub>`BleepingComputer`</sub>
-
-**[Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html)**  
-American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive…  
-<sub>`The Hacker News`</sub>
-
-**[Syrian Hacker Gets Prison Time in US After Over a Decade on the Run](https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/)**  
-A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian…  
-<sub>`SecurityWeek`</sub>
-
-**[Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access](https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html)**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its…  
-<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
