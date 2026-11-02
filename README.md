@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[FBI links $6.3 billion Binance crypto heist to North Korean hackers](https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/)**  
-The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance…  
-<sub>`BleepingComputer`</sub>
-
-**[Alpine Linux rebuilds GitLab after attempted RCE attack](https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/)**  
-Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source…  
-<sub>`BleepingComputer`</sub>
-
-**[OpenAI says it's doubling Pro usage limits and bringing Work features to Chat](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/)**  
-OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across…  
-<sub>`BleepingComputer`</sub>
-
-**[Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations](https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/)**  
-The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues. The post…  
+**[Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk](https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/)**  
+The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website. The post…  
 <sub>`SecurityWeek`</sub>
 
-**[CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key](https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html)**  
-A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the…  
-<sub>`The Hacker News`</sub>
+**[Apple warns users in 99 countries of mercenary spyware](https://therecord.media/apple-warns-users-99-countries-mercenary-spyware)**  
+Apple does not attribute attacks or the notices to specific malicious actors or geographical regions, the notification said, due to the “extreme…  
+<sub>`The Record`</sub>
 
-**[Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script](https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html)**  
-Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October…  
-<sub>`The Hacker News`</sub>
+**[Russian and Ukrainian hackers hijack emergency apps to spread fake nuclear attack warnings](https://therecord.media/ukraine-hackers-russia-alert-system)**  
+A popular Ukrainian air raid alert system was hacked over the weekend, prompting a cyber group to breach a similar Russian system in retaliation.  
+<sub>`The Record`</sub>
 
-**[FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist](https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html)**  
-The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a…  
-<sub>`The Hacker News`</sub>
+**[Hackers disrupt refrigeration systems at European supermarkets](https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/)**  
+A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers…  
+<sub>`BleepingComputer`</sub>
 
-**[NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection](https://thehackernews.com/2026/11/netamloader-malware-targets-government.html)**  
-Cybersecurity researchers have disclosed details of what has been described as a "highly sophisticated infection chain" targeting government…  
-<sub>`The Hacker News`</sub>
+**[PapRAT Cyber Espionage Campaign Leaves a 'BITTER' Taste in South Asia](https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia)**  
+Organizations in the region face attacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct…  
+<sub>`Dark Reading`</sub>
+
+**[Microsoft fixes Smart App Control broken by October Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/)**  
+Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October…  
+<sub>`BleepingComputer`</sub>
+
+**[Revolve Data Breach Impacts at Least 180,000 People](https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/)**  
+Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at…  
+<sub>`SecurityWeek`</sub>
+
+**[Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward](https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward/)**  
+The top payout is for high-impact architectural research demonstrating full administrative control. The post Google Introduces $250,000 Root-in-Cloud…  
+<sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
 
