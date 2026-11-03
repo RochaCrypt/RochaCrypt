@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Police seizes over 100 servers in investment scam crackdown](https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/)**  
-European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company…  
+**[Hackers hijack cPGuard autoupdate to deploy backdoor, steal data](https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/)**  
+Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]  
 <sub>`BleepingComputer`</sub>
 
-**[Android’s November 2026 Updates Patch Over 200 Vulnerabilities](https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/)**  
-The most severe is a critical flaw in Framework leading to remote code execution without user interaction. The post Android’s November 2026 Updates…  
-<sub>`SecurityWeek`</sub>
+**[Fresh European Fridge Attacks Put Cold-Chain Security in Focus](https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security)**  
+Beyond food storage, the same combination of Internet connectivity, remote access, and inadequate security practices can put temperature-controlled…  
+<sub>`Dark Reading`</sub>
 
-**[Critical Node-RED Flaw Exploited in Attacks](https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/)**  
-Multiple attacks from the same IP address attempted to deploy various payloads, including a Linux bot and webshells. The post Critical Node-RED Flaw…  
-<sub>`SecurityWeek`</sub>
+**[Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit](https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud)**  
+German police led a multinational probe that exposed an alleged crime-as-a-service provider supplying fraudulent trading platforms to investment…  
+<sub>`Dark Reading`</sub>
 
-**[Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs](https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/)**  
-Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]  
+**[WorkOS says attacker used ARTEX AI to breach internal sales app](https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/)**  
+Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications…  
 <sub>`BleepingComputer`</sub>
 
-**[Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing](https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html)**  
-Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10…  
-<sub>`The Hacker News`</sub>
-
-**[The 4 Elements of Exposure Prioritization and How to Operationalize Them](https://thehackernews.com/2026/11/the-4-elements-of-exposure.html)**  
-Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on…  
-<sub>`The Hacker News`</sub>
-
-**[Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware](https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html)**  
-A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian…  
-<sub>`The Hacker News`</sub>
-
-**[Harvard University data breach exposed info of 851,000 accounts](https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/)**  
-Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email…  
+**[Binance says fake job interview led to $6.3 billion crypto heist](https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/)**  
+Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let…  
 <sub>`BleepingComputer`</sub>
+
+**[Google dismantles massive botnet hidden in Android TV boxes](https://therecord.media/google-dismantles-botnet-hidden-android-tv-boxes)**  
+The overwhelming majority of the infected devices in the X.CPE botnet are Android TV set-top boxes, Google said, adding that they observed a number…  
+<sub>`The Record`</sub>
+
+**[Google: LLMjacking attacks rack up $1 million in cloud AI charges](https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/)**  
+Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more…  
+<sub>`BleepingComputer`</sub>
+
+**[mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity](https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html)**  
+Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing…  
+<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
