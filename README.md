@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk](https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/)**  
-The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website. The post…  
-<sub>`SecurityWeek`</sub>
-
-**[Apple warns users in 99 countries of mercenary spyware](https://therecord.media/apple-warns-users-99-countries-mercenary-spyware)**  
-Apple does not attribute attacks or the notices to specific malicious actors or geographical regions, the notification said, due to the “extreme…  
+**[UK faces ‘unprecedented rise’ in cyberattacks in coming months, warns cyber chief](https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months)**  
+"[V]ulnerabilities that have been tolerated for far too long can now be discovered and exploited at a scale that was once unimaginable," the NCSC's…  
 <sub>`The Record`</sub>
 
-**[Russian and Ukrainian hackers hijack emergency apps to spread fake nuclear attack warnings](https://therecord.media/ukraine-hackers-russia-alert-system)**  
-A popular Ukrainian air raid alert system was hacked over the weekend, prompting a cyber group to breach a similar Russian system in retaliation.  
-<sub>`The Record`</sub>
-
-**[Hackers disrupt refrigeration systems at European supermarkets](https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/)**  
-A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers…  
-<sub>`BleepingComputer`</sub>
-
-**[PapRAT Cyber Espionage Campaign Leaves a 'BITTER' Taste in South Asia](https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia)**  
-Organizations in the region face attacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct…  
+**[One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning](https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths)**  
+The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss.  
 <sub>`Dark Reading`</sub>
 
-**[Microsoft fixes Smart App Control broken by October Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/)**  
-Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October…  
+**[Largest crypto exchange in Brazil confirms cyberattack as millions flow out of platform](https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist)**  
+Blockchain security companies said more than $46 million left the Mercado Bitcoin platform.  
+<sub>`The Record`</sub>
+
+**[Chinese hackers use ARTEX AI in automated attacks against 200 orgs](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/)**  
+Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14…  
 <sub>`BleepingComputer`</sub>
 
-**[Revolve Data Breach Impacts at Least 180,000 People](https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/)**  
-Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at…  
-<sub>`SecurityWeek`</sub>
+**[Michigan State cyber incident claimed by ransomware gang behind recent hospital attack](https://therecord.media/michigan-state-university-byod-gang-cyber-incident)**  
+A recent post by the BYOD gang appears to line up with a security incident that prompted campus-wide action at Michigan State University. BYOD drew…  
+<sub>`The Record`</sub>
 
-**[Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward](https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward/)**  
-The top payout is for high-impact architectural research demonstrating full administrative control. The post Google Introduces $250,000 Root-in-Cloud…  
-<sub>`SecurityWeek`</sub>
+**[Fintech platform Sageworks taken offline after suspected cyberattack](https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/)**  
+Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an…  
+<sub>`BleepingComputer`</sub>
+
+**[Google disrupts million-device XCPE Android malware botnet, bans TV box maker](https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/)**  
+Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google…  
+<sub>`BleepingComputer`</sub>
+
+**[Polymarket pledges to give $3.9 million back to victims after site compromise](https://therecord.media/polymarket-returning-funds-to-customers-after-site-compromise)**  
+In a post-mortem about an October 29 incident, prediction market Polymarket said it will pay people back what they lost, as well as compensate them…  
+<sub>`The Record`</sub>
 
 <!-- CYBER-NEWS:END -->
 
