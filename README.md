@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[French blood service hit by Europe-wide cyberattacks on refrigeration](https://therecord.media/france-cyberattack-blood-refrigeration)**  
-Temperature controls were altered at three of France’s national blood service sites this week amid a wave of cyberattacks affecting refrigeration…  
+**[Critical Rails Bug Threatens to Derail Vulnerable Servers](https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers)**  
+An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly…  
+<sub>`Dark Reading`</sub>
+
+**[Vercel rolls out new protection against stolen session cookie attacks](https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/)**  
+Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]  
+<sub>`BleepingComputer`</sub>
+
+**[More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus](https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident)**  
+Japan Airlines, Cathay Pacific, Korean Air, Asiana Airlines, Singapore Airlines and Malaysia Airlines have all come forward over the last week to…  
 <sub>`The Record`</sub>
 
-**[US charges two Canadians accused of hacking US universities](https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/)**  
-A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for…  
+**[Zyxel fixes zero-day exploited to hack nearly 1,000 network switches](https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/)**  
+Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide…  
 <sub>`BleepingComputer`</sub>
 
-**[AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks](https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/)**  
-Hackers have been harvesting AI access tokens and have been using AI-assisted offensive tools to automate attacks. The post AI-Linked Breaches Mount…  
-<sub>`SecurityWeek`</sub>
+**[Canadian extradited to US for allegedly hacking schools in at least four states](https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining)**  
+The Department of Justice said it identified two suspects in a case that dates back to 2016 and involved illicit cryptomining on the computers of…  
+<sub>`The Record`</sub>
 
-**[Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers](https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/)**  
-A federal grand jury indicted two Canadian men for hijacking university supercomputers to secretly mine Electroneum cryptocurrency. The post Canadian…  
-<sub>`SecurityWeek`</sub>
-
-**[CISA flags WordPress RCE flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/)**  
-The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched…  
+**[DreamHost confirms data breach exposed FTP logins and webmail sessions](https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/)**  
+DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP…  
 <sub>`BleepingComputer`</sub>
 
-**[Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads](https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html)**  
-A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if…  
-<sub>`The Hacker News`</sub>
+**[French bank confirms cyber heist, hackers suspected to have stolen an estimated $133 million](https://therecord.media/french-bank-confirms-cyber-heist)**  
+Crédit Mutuel Arkéa said in a press notice that the attackers were able to make transfers using the bank’s own account after compromising an unnamed…  
+<sub>`The Record`</sub>
 
-**[Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory](https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html)**  
-Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including…  
-<sub>`The Hacker News`</sub>
-
-**[Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It](https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html)**  
-Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of…  
-<sub>`The Hacker News`</sub>
+**[Cyberattack disrupts blood storage refrigeration systems in France](https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/)**  
+France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings…  
+<sub>`BleepingComputer`</sub>
 
 <!-- CYBER-NEWS:END -->
 
