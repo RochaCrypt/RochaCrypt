@@ -60,6 +60,10 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach](https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach)**  
+An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.  
+<sub>`Dark Reading`</sub>
+
 **[Hackers hijack cPGuard autoupdate to deploy backdoor, steal data](https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/)**  
 Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]  
 <sub>`BleepingComputer`</sub>
@@ -87,10 +91,6 @@ The overwhelming majority of the infected devices in the X.CPE botnet are Androi
 **[Google: LLMjacking attacks rack up $1 million in cloud AI charges](https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/)**  
 Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more…  
 <sub>`BleepingComputer`</sub>
-
-**[mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity](https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html)**  
-Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing…  
-<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
