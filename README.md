@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns](https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/)**  
-More than 200 sites were seen serving phishing content to first-time visitors but not to those who revisit. The post Bank Phishing Sites Show Fake…  
-<sub>`SecurityWeek`</sub>
+**[Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers](https://therecord.media/queens-library-ransomware-causes-disruptions)**  
+The library system, which has 66 branches serving the borough’s 2.3 million residents, published multiple alerts on Wednesday confirming that the…  
+<sub>`The Record`</sub>
 
-**[Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised](https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/)**  
-The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were…  
-<sub>`SecurityWeek`</sub>
+**[US Government Email Systems Open to Abuse Thanks to Typos](https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos)**  
+Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.  
+<sub>`Dark Reading`</sub>
 
-**[Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws](https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/)**  
-Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws. The post Cisco, WatchGuard Release Patches; SonicWall…  
-<sub>`SecurityWeek`</sub>
+**[Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts](https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/)**  
+Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different…  
+<sub>`BleepingComputer`</sub>
 
-**[Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out](https://thehackernews.com/2026/11/is-your-exposure-management-platform.html)**  
-A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a…  
-<sub>`The Hacker News`</sub>
+**[What We Missed: Knicks Phishing Test Goes Out of Bounds](https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds)**  
+In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing…  
+<sub>`Dark Reading`</sub>
 
-**[OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run](https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html)**  
-OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local…  
-<sub>`The Hacker News`</sub>
+**[Social media giants sue California to overturn law shielding kids 15 and under from compulsive use](https://therecord.media/social-media-giants-sue-california-over-social-media-law)**  
+Google, Meta and TikTok each filed suit in federal court against an incoming California law that blocks platforms from deploying features considered…  
+<sub>`The Record`</sub>
 
-**[The Agent Smith Dilemma: Governing Agentic Identities](https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/)**  
-Every autonomous AI agent deployed across your enterprise today is a new proxy identity operating inside your perimeter. The post The Agent Smith…  
-<sub>`SecurityWeek`</sub>
+**[Nearly 1.5 million exposed secrets targeted in new revocation program](https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/)**  
+Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed…  
+<sub>`BleepingComputer`</sub>
 
-**[CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality](https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/)**  
-Ryan Davis went from hacking his school’s network to running security at New Charter Technologies. What worries him now is shadow AI. The post CISO…  
-<sub>`SecurityWeek`</sub>
+**[US issues more sanctions against Prince Group scam center affiliates](https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers)**  
+The sanctions target four people and 41 companies linked to the Prince Group — a Cambodian company accused of running a billion-dollar scam operation.  
+<sub>`The Record`</sub>
 
-**[Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day](https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/)**  
-Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests. The post Zyxel…  
-<sub>`SecurityWeek`</sub>
+**[APT29's Watering Holes Target Thousands of Mobile Users](https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users)**  
+After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting…  
+<sub>`Dark Reading`</sub>
 
 <!-- CYBER-NEWS:END -->
 
