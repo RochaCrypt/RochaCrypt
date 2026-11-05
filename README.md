@@ -60,6 +60,14 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/)**  
+Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address…  
+<sub>`Krebs on Security`</sub>
+
+**[OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run](https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html)**  
+OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local…  
+<sub>`The Hacker News`</sub>
+
 **[Critical Rails Bug Threatens to Derail Vulnerable Servers](https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers)**  
 An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly…  
 <sub>`Dark Reading`</sub>
@@ -82,14 +90,6 @@ The Department of Justice said it identified two suspects in a case that dates b
 
 **[DreamHost confirms data breach exposed FTP logins and webmail sessions](https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/)**  
 DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP…  
-<sub>`BleepingComputer`</sub>
-
-**[French bank confirms cyber heist, hackers suspected to have stolen an estimated $133 million](https://therecord.media/french-bank-confirms-cyber-heist)**  
-Crédit Mutuel Arkéa said in a press notice that the attackers were able to make transfers using the bank’s own account after compromising an unnamed…  
-<sub>`The Record`</sub>
-
-**[Cyberattack disrupts blood storage refrigeration systems in France](https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/)**  
-France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings…  
 <sub>`BleepingComputer`</sub>
 
 <!-- CYBER-NEWS:END -->
