@@ -60,6 +60,14 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million](https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/)**  
+The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. The…  
+<sub>`SecurityWeek`</sub>
+
+**[FBI, CISA warn of cyberattacks targeting refrigeration systems](https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/)**  
+The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing…  
+<sub>`BleepingComputer`</sub>
+
 **[Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers](https://therecord.media/queens-library-ransomware-causes-disruptions)**  
 The library system, which has 66 branches serving the borough’s 2.3 million residents, published multiple alerts on Wednesday confirming that the…  
 <sub>`The Record`</sub>
@@ -83,14 +91,6 @@ Google, Meta and TikTok each filed suit in federal court against an incoming Cal
 **[Nearly 1.5 million exposed secrets targeted in new revocation program](https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/)**  
 Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed…  
 <sub>`BleepingComputer`</sub>
-
-**[US issues more sanctions against Prince Group scam center affiliates](https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers)**  
-The sanctions target four people and 41 companies linked to the Prince Group — a Cambodian company accused of running a billion-dollar scam operation.  
-<sub>`The Record`</sub>
-
-**[APT29's Watering Holes Target Thousands of Mobile Users](https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users)**  
-After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting…  
-<sub>`Dark Reading`</sub>
 
 <!-- CYBER-NEWS:END -->
 
