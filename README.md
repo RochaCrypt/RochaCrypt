@@ -60,6 +60,14 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Hackers pull off $133 million French bank heist via service provider](https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/)**  
+French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to…  
+<sub>`BleepingComputer`</sub>
+
+**[CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands](https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/)**  
+Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger…  
+<sub>`BleepingComputer`</sub>
+
 **[SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/)**  
 CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post…  
 <sub>`SecurityWeek`</sub>
@@ -83,14 +91,6 @@ The UK is betting on domestic AI and cyber investment to reduce reliance on US t
 **[OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs](https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/)**  
 OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities…  
 <sub>`BleepingComputer`</sub>
-
-**[Medical services company settles with 4 states over 2023 hack of sensitive patient records](https://therecord.media/medical-services-company-settles-with-4-state-ags)**  
-The case, brought by AGs in Connecticut, New Jersey, New York and Michigan, targeted the medical transcription, coding and imaging subsidiaries of…  
-<sub>`The Record`</sub>
-
-**[Certificate authority DigiCert reports data breach involving business customer info](https://therecord.media/digicert-certificate-authority-reports-data-breach)**  
-DigiCert explained that over the summer, an internal business system was "externally accessible when that was not intended," and someone had created…  
-<sub>`The Record`</sub>
 
 <!-- CYBER-NEWS:END -->
 
