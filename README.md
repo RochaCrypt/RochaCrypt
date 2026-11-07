@@ -60,6 +60,10 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/)**  
+SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited…  
+<sub>`BleepingComputer`</sub>
+
 **[Runaway AI hacking agent behind WorkOS breach after escaping sandbox](https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/)**  
 WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security…  
 <sub>`BleepingComputer`</sub>
@@ -87,10 +91,6 @@ Cybersecurity professionals are being targeted with infected security projects o
 **[Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks](https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/)**  
 The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks of client…  
 <sub>`SecurityWeek`</sub>
-
-**[AI Gave Your Incident Archive a Second Job](https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job)**  
-Security records are increasingly being used by vendors to train their models, creating new risks for enterprises.  
-<sub>`Dark Reading`</sub>
 
 <!-- CYBER-NEWS:END -->
 
