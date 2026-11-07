@@ -60,6 +60,14 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins](https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/)**  
+CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post…  
+<sub>`SecurityWeek`</sub>
+
+**[Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html)**  
+Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can…  
+<sub>`The Hacker News`</sub>
+
 **[SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/)**  
 SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited…  
 <sub>`BleepingComputer`</sub>
@@ -83,14 +91,6 @@ The case, brought by AGs in Connecticut, New Jersey, New York and Michigan, targ
 **[Certificate authority DigiCert reports data breach involving business customer info](https://therecord.media/digicert-certificate-authority-reports-data-breach)**  
 DigiCert explained that over the summer, an internal business system was "externally accessible when that was not intended," and someone had created…  
 <sub>`The Record`</sub>
-
-**[Fake security tools on GitHub push backdoors and infostealers](https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/)**  
-Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]  
-<sub>`BleepingComputer`</sub>
-
-**[Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks](https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/)**  
-The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks of client…  
-<sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
 
