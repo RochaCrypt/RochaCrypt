@@ -60,6 +60,10 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Iris Ohyama data cloud breach exposes info of 7.7 million customers](https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/)**  
+Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7…  
+<sub>`BleepingComputer`</sub>
+
 **[Brava Security Emerges From Stealth With $15 Million in Funding](https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/)**  
 Its multi-agent AI platform generates the telemetry an attack would produce to fix gaps in enterprise defenses. The post Brava Security Emerges From…  
 <sub>`SecurityWeek`</sub>
@@ -87,10 +91,6 @@ SonicWall has released security updates to fix seven vulnerabilities in SonicOS 
 **[Runaway AI hacking agent behind WorkOS breach after escaping sandbox](https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/)**  
 WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security…  
 <sub>`BleepingComputer`</sub>
-
-**[UK Wades Into Tech Sovereignty Amid AI Policy Changes](https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy)**  
-The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too…  
-<sub>`Dark Reading`</sub>
 
 <!-- CYBER-NEWS:END -->
 
