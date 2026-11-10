@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Vanderbilt University hit in BYOD ransomware attack, data theft claimed](https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/)**  
-Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's…  
-<sub>`BleepingComputer`</sub>
+**[Over a Dozen Organizations Hit in Qubole Supply Chain Attack](https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/)**  
+Hackers used compromised Qubole IAM credentials to steal customer files, secrets, keys, environment variables, and credentials. The post Over a Dozen…  
+<sub>`SecurityWeek`</sub>
 
-**[SEGA newsletter data breach exposes 2.2 million email addresses](https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/)**  
-Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million…  
-<sub>`BleepingComputer`</sub>
-
-**[CISA Announces Enhanced Reporting Form for Cyber Incidents](https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents)**  
-New questionnaire captures critical data and information that improves the agency’s ability to assess incidents, identify trends and prioritize…  
+**[AI Makes Reverse Engineering Mainstream Software & Malware Far Easier](https://www.darkreading.com/application-security/ai-reverse-engineering-apps)**  
+Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising fresh concerns for defenders.  
 <sub>`Dark Reading`</sub>
 
-**[N-able takes cloud platform offline after 30+ "zero-days" published](https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/)**  
-N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher…  
-<sub>`BleepingComputer`</sub>
-
-**[York University breach exposed personal information dating to 2007](https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/)**  
-York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online…  
-<sub>`BleepingComputer`</sub>
-
-**[Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion](https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion)**  
-Last month, Microsoft disclosed a vulnerability in Microsoft Paint, but messaging regarding a patch was unclear.  
-<sub>`Dark Reading`</sub>
-
-**[Data breach at hearing aid giant Amplifon impacts thousands](https://therecord.media/amplifon-hearing-aid-company-data-breach)**  
-The U.S arm of international hearing aid company Amplifon has been notifying customers about a data breach early this year that included medical…  
+**[Russian hackers compromised government email servers to steal NATO, EU correspondence](https://therecord.media/russia-hackers-espionage-romania-kazakhstan)**  
+Russian state-linked hackers have compromised government email servers in Romania and Kazakhstan to secretly intercept messages exchanged with NATO…  
 <sub>`The Record`</sub>
 
-**[Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India](https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut)**  
-Inaugural edition by Informa Markets in India brings together leading researchers, security practitioners and industry decision makers for four days…  
-<sub>`Dark Reading`</sub>
+**[Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes](https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/)**  
+Anthropic says Mythos 5.2 improves vulnerability discovery while showing a lower tendency to escape sandboxes in controlled tests. The post Anthropic…  
+<sub>`SecurityWeek`</sub>
+
+**[Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed](https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html)**  
+An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys…  
+<sub>`The Hacker News`</sub>
+
+**[SAP patches ICM2SHELL and PROXYGATE maximum severity flaws](https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/)**  
+SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher…  
+<sub>`BleepingComputer`</sub>
+
+**[Beyond the Alert: The Case for Rich Network Data](https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html)**  
+At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we…  
+<sub>`The Hacker News`</sub>
+
+**[Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities](https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html)**  
+An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The…  
+<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
