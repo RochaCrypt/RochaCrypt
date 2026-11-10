@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.](https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/)**  
-AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant…  
+**[Vanderbilt University hit in BYOD ransomware attack, data theft claimed](https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/)**  
+Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's…  
 <sub>`BleepingComputer`</sub>
 
-**[FBI agent stole $2.5 million in crypto from hackers under investigation](https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/)**  
-A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation…  
+**[SEGA newsletter data breach exposes 2.2 million email addresses](https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/)**  
+Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million…  
 <sub>`BleepingComputer`</sub>
 
-**[Alleged AI-aided cyberattack exploits assistant interface to breach German web host](https://therecord.media/cyberattack-germany-ai-mittwald)**  
-Hackers allegedly assisted by AI breached a German web hosting company through a tool designed to allow customers to connect AI assistants to their…  
+**[CISA Announces Enhanced Reporting Form for Cyber Incidents](https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents)**  
+New questionnaire captures critical data and information that improves the agency’s ability to assess incidents, identify trends and prioritize…  
+<sub>`Dark Reading`</sub>
+
+**[N-able takes cloud platform offline after 30+ "zero-days" published](https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/)**  
+N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher…  
+<sub>`BleepingComputer`</sub>
+
+**[York University breach exposed personal information dating to 2007](https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/)**  
+York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online…  
+<sub>`BleepingComputer`</sub>
+
+**[Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion](https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion)**  
+Last month, Microsoft disclosed a vulnerability in Microsoft Paint, but messaging regarding a patch was unclear.  
+<sub>`Dark Reading`</sub>
+
+**[Data breach at hearing aid giant Amplifon impacts thousands](https://therecord.media/amplifon-hearing-aid-company-data-breach)**  
+The U.S arm of international hearing aid company Amplifon has been notifying customers about a data breach early this year that included medical…  
 <sub>`The Record`</sub>
 
-**[Revolve Puts Data Breach Victim Count at 1.5 Million](https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/)**  
-Online fashion retailer Revolve has told regulators that the September cyberattack affected more than 1.5 million individuals. The post Revolve Puts…  
-<sub>`SecurityWeek`</sub>
-
-**[US bans MEXC crypto exchange over sanctions evasion, cybercrime links](https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/)**  
-The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with…  
-<sub>`BleepingComputer`</sub>
-
-**[⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More](https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html)**  
-A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week…  
-<sub>`The Hacker News`</sub>
-
-**[Pro-Russian hackers target European officials, offer rewards for personal information](https://therecord.media/hackers-russia-italy-noname)**  
-Pro-Russian hackers published the personal information of Italian Foreign Minister Antonio Tajani and other senior European officials on the dark…  
-<sub>`The Record`</sub>
-
-**[Plex2Shell Exploited Against QNAP NAS Users](https://www.securityweek.com/plex2shell-exploited-against-qnap-nas-users/)**  
-Threat actors are exploiting the four-flaw chain to hack the Plex Media Server application on QNAP NAS devices. The post Plex2Shell Exploited Against…  
-<sub>`SecurityWeek`</sub>
+**[Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India](https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut)**  
+Inaugural edition by Informa Markets in India brings together leading researchers, security practitioners and industry decision makers for four days…  
+<sub>`Dark Reading`</sub>
 
 <!-- CYBER-NEWS:END -->
 
