@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise](https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches)**  
-The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active…  
-<sub>`Dark Reading`</sub>
-
-**[Baker Tilly notifies clients of data breach at third-party provider](https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/)**  
-The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents…  
+**[Apify rotates API tokens, prompts 2FA resets after breach](https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/)**  
+Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal…  
 <sub>`BleepingComputer`</sub>
 
-**[Active ScreenConnect attacks breach MSPs, impact dozens of organizations](https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/)**  
-ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments…  
+**[Chrome, Firefox Updates Patch Over 180 Vulnerabilities](https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/)**  
+Google fixed 83 flaws with a new Chrome 157 release, and Mozilla addressed 99 bugs in Firefox 160. The post Chrome, Firefox Updates Patch Over 180…  
+<sub>`SecurityWeek`</sub>
+
+**[Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign](https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/)**  
+Using thousands of hijacked accounts, the wfx-loot campaign planted a CI secret stealer that ran in over 1,800 GitHub repositories. The post Attacker…  
+<sub>`SecurityWeek`</sub>
+
+**[Romania says it stopped Russian cyberattack targeting government emails](https://therecord.media/romania-russia-cyberattack-emails)**  
+Romania's intelligence agency said it stopped a cyber-espionage campaign by Russian state-linked hackers before the group exfiltrated sensitive data.  
+<sub>`The Record`</sub>
+
+**[Daylight Lands $80 Million for AI-Powered Security Operations](https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/)**  
+The company plans to accelerate product development, hire new talent, expand its US presence, and enter new markets. The post Daylight Lands $80…  
+<sub>`SecurityWeek`</sub>
+
+**[Kazakhstan-linked hackers used AI agent to spy on Central Asian governments](https://therecord.media/kazakhstan-hackers-central-asia)**  
+Suspected Kazakhstan-linked hackers used an artificial intelligence agent to help spy on Central Asian governments, steal sensitive documents and…  
+<sub>`The Record`</sub>
+
+**[Microsoft: Recent Windows updates cause SQL Server performance issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/)**  
+Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues…  
 <sub>`BleepingComputer`</sub>
 
-**[Attackers Say 'Hello' to a Different Scale of Cloud Attack](https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack)**  
-Researchers dubbed an attack chain "Greeter" after discovering that attackers deliberately covered their trail by leaving "hello" messages in logs.  
-<sub>`Dark Reading`</sub>
-
-**[eMudhra revokes 8 more CA certificates after private key mishap](https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/)**  
-Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security…  
-<sub>`BleepingComputer`</sub>
-
-**[AI Raises the Stakes for Cyber Resilience](https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience)**  
-An organization's ability to quickly recover from a business disruption will be a competitive advantage in an era of AI-driven threats and business…  
-<sub>`Dark Reading`</sub>
-
-**[Notion says Fireworks breach exposed customer AI chat transcripts](https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/)**  
-Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat…  
-<sub>`BleepingComputer`</sub>
-
-**[N-able Takes N-central Platform Offline After Discovery of 33 Flaws](https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws)**  
-The RMM provider also released a hotfix as one of recommended mitigations to address public exploits for the alleged zero-days that allow for…  
-<sub>`Dark Reading`</sub>
+**[Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs](https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html)**  
+Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this…  
+<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
