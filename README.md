@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Poland shuts down government services platform ePUAP following cyberattack](https://therecord.media/poland-shuts-down-government-services-platform-cyberattack)**  
-The attack targeted a nationwide system that allows users to submit official documents, communicate with government agencies and complete…  
-<sub>`The Record`</sub>
+**[Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise](https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches)**  
+The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active…  
+<sub>`Dark Reading`</sub>
 
-**[Britain, France set out first guidelines for commercial hacking firms](https://therecord.media/britain-france-set-out-guidelines-for-commercial-hacking-firms)**  
-The guidelines call on businesses that develop, sell or finance CCICs to vet their customers, establish technical safeguards against misuse and to…  
-<sub>`The Record`</sub>
-
-**[N-able releases security hotfixes for zero-day vulnerabilities](https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/)**  
-N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly…  
+**[Baker Tilly notifies clients of data breach at third-party provider](https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/)**  
+The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents…  
 <sub>`BleepingComputer`</sub>
 
-**[Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices](https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/)**  
-The Series C round will fund international expansion and more autonomous features for the firm’s device security platform. The post Finite State…  
-<sub>`SecurityWeek`</sub>
+**[Active ScreenConnect attacks breach MSPs, impact dozens of organizations](https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/)**  
+ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments…  
+<sub>`BleepingComputer`</sub>
 
-**[Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords](https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html)**  
-Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said…  
-<sub>`The Hacker News`</sub>
+**[Attackers Say 'Hello' to a Different Scale of Cloud Attack](https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack)**  
+Researchers dubbed an attack chain "Greeter" after discovering that attackers deliberately covered their trail by leaving "hello" messages in logs.  
+<sub>`Dark Reading`</sub>
 
-**[Fortinet Patches Nearly 100 Vulnerabilities](https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/)**  
-The massive drop comes after the company integrated frontier AI models into its product security testing. The post Fortinet Patches Nearly 100…  
-<sub>`SecurityWeek`</sub>
+**[eMudhra revokes 8 more CA certificates after private key mishap](https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/)**  
+Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security…  
+<sub>`BleepingComputer`</sub>
 
-**[We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.](https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html)**  
-We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability…  
-<sub>`The Hacker News`</sub>
+**[AI Raises the Stakes for Cyber Resilience](https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience)**  
+An organization's ability to quickly recover from a business disruption will be a competitive advantage in an era of AI-driven threats and business…  
+<sub>`Dark Reading`</sub>
 
-**[eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise](https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html)**  
-The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs)…  
-<sub>`The Hacker News`</sub>
+**[Notion says Fireworks breach exposed customer AI chat transcripts](https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/)**  
+Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat…  
+<sub>`BleepingComputer`</sub>
+
+**[N-able Takes N-central Platform Offline After Discovery of 33 Flaws](https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws)**  
+The RMM provider also released a hotfix as one of recommended mitigations to address public exploits for the alleged zero-days that allow for…  
+<sub>`Dark Reading`</sub>
 
 <!-- CYBER-NEWS:END -->
 
