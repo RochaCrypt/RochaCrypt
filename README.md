@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance](https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/)**  
-Also Thursday, the FBI blamed North Korea for a separate social engineering scheme that officials say resulted in the theft of $400 million worth of…  
+**[Microsoft Struggles to Restore Email and Other Services in a Global Outage](https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/)**  
+Microsoft is trying different ways to identify the cause of the problem and get its servers back online, using “a measured approach to identify and…  
 <sub>`SecurityWeek`</sub>
 
-**[New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks](https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/)**  
-A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to…  
-<sub>`BleepingComputer`</sub>
-
-**[Getting Past the Post-Quantum Cryptography Discovery Phase](https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery)**  
-Most organizations haven't sorted out their cryptographic estate enough to even know where they'd start with post-quantum cryptography (PQC).  
+**[Attackers in Binance Breach Targeted Known Weakness, Missing Controls](https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls)**  
+Blockchain complexities, such as attacker-deployed sweepers, hobble security controls designed to limit the damage of an exchange compromise.  
 <sub>`Dark Reading`</sub>
 
-**[Hackers compromise 4,800 GitHub accounts to steal cloud credentials](https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/)**  
-A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull…  
-<sub>`BleepingComputer`</sub>
-
-**[Feds announce seizure of $1.2 billion from Binance theft; also takedown of ‘FaceStealer’ tools](https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted)**  
-The Department of Justice and FBI announced two separate actions in response to North Korea-linked cryptocurrency theft operations.  
+**[Record number of cyber incidents reported to UK privacy regulator](https://therecord.media/record-number-of-cyber-incidents-reported-to-uk-regulator)**  
+British organizations have reported a record number of cyber incidents to the country’s data protection regulator this year, as cybersecurity firms…  
 <sub>`The Record`</sub>
 
-**[Cyber Experts Weigh In: How to Fight Artex & AntiFox](https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox)**  
-Cybercriminals using agentic pen-testing tools is a proverbial genie out of the bottle at this point, so enterprises need to get a defense plan in…  
-<sub>`Dark Reading`</sub>
-
-**[Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams](https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/)**  
-Microsoft says failed server health checks disrupted Outlook and other Microsoft 365 services. The company is still investigating the cause and has…  
+**[Apify Confirms Customer Data Accessed in Cyberattack](https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/)**  
+The web scraping company says an intruder accessed customer accounts and obtained personal information or stored data. The post Apify Confirms…  
 <sub>`SecurityWeek`</sub>
 
-**[Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide](https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/)**  
-Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users…  
+**[Microsoft says November security updates cause printing issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/)**  
+Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]  
 <sub>`BleepingComputer`</sub>
+
+**[SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks](https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/)**  
+Enea says SilentAir hijacked mobile network nodes to intercept calls and messages, with Taiwanese subscribers the primary targets. The post SilentAir…  
+<sub>`SecurityWeek`</sub>
+
+**[When an AI Agent Goes Wrong, Can You Stop It?](https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html)**  
+Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export…  
+<sub>`The Hacker News`</sub>
+
+**[SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users](https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html)**  
+A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in…  
+<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
