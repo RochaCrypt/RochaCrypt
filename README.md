@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Microsoft Struggles to Restore Email and Other Services in a Global Outage](https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/)**  
-Microsoft is trying different ways to identify the cause of the problem and get its servers back online, using “a measured approach to identify and…  
+**[FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’](https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/)**  
+Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack. The post FAA…  
 <sub>`SecurityWeek`</sub>
 
-**[Attackers in Binance Breach Targeted Known Weakness, Missing Controls](https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls)**  
-Blockchain complexities, such as attacker-deployed sweepers, hobble security controls designed to limit the damage of an exchange compromise.  
-<sub>`Dark Reading`</sub>
-
-**[Record number of cyber incidents reported to UK privacy regulator](https://therecord.media/record-number-of-cyber-incidents-reported-to-uk-regulator)**  
-British organizations have reported a record number of cyber incidents to the country’s data protection regulator this year, as cybersecurity firms…  
+**[FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’](https://therecord.media/artex-ai-tool-fbi-flash-alert)**  
+Open source hacking tool Artex "significantly reduces the time required to chain attack techniques, with some intrusions progressing from initial…  
 <sub>`The Record`</sub>
 
-**[Apify Confirms Customer Data Accessed in Cyberattack](https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/)**  
-The web scraping company says an intruder accessed customer accounts and obtained personal information or stored data. The post Apify Confirms…  
-<sub>`SecurityWeek`</sub>
+**[ArcticRAT Cybercrime Gang Profiles Victim Finances With AI](https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai)**  
+The Android malware has expanded from focusing on crypto theft to full device control, and the attackers have added advanced analysis of stolen…  
+<sub>`Dark Reading`</sub>
 
-**[Microsoft says November security updates cause printing issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/)**  
-Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]  
+**[City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents](https://therecord.media/city-of-osaka-japan-email-data-breach)**  
+Osaka, Japan's third-largest city, told its 2.8 million residents to be wary of suspicious emails purporting to come from the local government.  
+<sub>`The Record`</sub>
+
+**[Trezor confirms crypto-stealing implants in three wallets, releases fix](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/)**  
+Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious…  
 <sub>`BleepingComputer`</sub>
 
-**[SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks](https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/)**  
-Enea says SilentAir hijacked mobile network nodes to intercept calls and messages, with Taiwanese subscribers the primary targets. The post SilentAir…  
-<sub>`SecurityWeek`</sub>
+**[NYC to bar surveillance pricing as momentum for bans grows nationwide](https://therecord.media/nyc-council-passes-bill-ban-surveillance-pricing)**  
+The New York City government will be able to fine companies $1,000 for each verified instance of surveillance pricing.  
+<sub>`The Record`</sub>
 
-**[When an AI Agent Goes Wrong, Can You Stop It?](https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html)**  
-Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export…  
-<sub>`The Hacker News`</sub>
+**[German military drone operations disrupted by cyberattack](https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/)**  
+German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by…  
+<sub>`BleepingComputer`</sub>
 
-**[SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users](https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html)**  
-A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in…  
-<sub>`The Hacker News`</sub>
+**[University of Texas at Arlington warns personal information stolen during cyberattack](https://therecord.media/university-of-texas-arlington-warns-data-breach)**  
+In a statement to Recorded Future News, a spokesperson said an investigation into the attack confirmed the stolen data but declined to say what…  
+<sub>`The Record`</sub>
 
 <!-- CYBER-NEWS:END -->
 
