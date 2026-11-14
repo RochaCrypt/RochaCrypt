@@ -60,6 +60,18 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Cursor confirms security breach led to malicious Claude Code extension](https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/)**  
+Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing…  
+<sub>`BleepingComputer`</sub>
+
+**[US disrupts North Korean campaign behind $400 million crypto theft](https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/)**  
+The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in…  
+<sub>`BleepingComputer`</sub>
+
+**[Is AI Making Us Worse at Cybersecurity?](https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/)**  
+Overreliance on AI could erode the creativity, clear communication, and critical thinking security teams need when there’s no playbook. The post Is…  
+<sub>`SecurityWeek`</sub>
+
 **[Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html)**  
 The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source…  
 <sub>`The Hacker News`</sub>
@@ -79,18 +91,6 @@ Federal officials have yet to say what caused the communications disruption or w
 **[FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’](https://therecord.media/artex-ai-tool-fbi-flash-alert)**  
 Open source hacking tool Artex "significantly reduces the time required to chain attack techniques, with some intrusions progressing from initial…  
 <sub>`The Record`</sub>
-
-**[ArcticRAT Cybercrime Gang Profiles Victim Finances With AI](https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai)**  
-The Android malware has expanded from focusing on crypto theft to full device control, and the attackers have added advanced analysis of stolen…  
-<sub>`Dark Reading`</sub>
-
-**[City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents](https://therecord.media/city-of-osaka-japan-email-data-breach)**  
-Osaka, Japan's third-largest city, told its 2.8 million residents to be wary of suspicious emails purporting to come from the local government.  
-<sub>`The Record`</sub>
-
-**[Trezor confirms crypto-stealing implants in three wallets, releases fix](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/)**  
-Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious…  
-<sub>`BleepingComputer`</sub>
 
 <!-- CYBER-NEWS:END -->
 
