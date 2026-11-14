@@ -60,6 +60,18 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html)**  
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source…  
+<sub>`The Hacker News`</sub>
+
+**[Apple Reveals How Secure Exclaves Shield Camera and Microphone Data](https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/)**  
+The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones. The post Apple…  
+<sub>`SecurityWeek`</sub>
+
+**[No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update](https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/)**  
+Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update. The post No…  
+<sub>`SecurityWeek`</sub>
+
 **[FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’](https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/)**  
 Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack. The post FAA…  
 <sub>`SecurityWeek`</sub>
@@ -79,18 +91,6 @@ Osaka, Japan's third-largest city, told its 2.8 million residents to be wary of 
 **[Trezor confirms crypto-stealing implants in three wallets, releases fix](https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/)**  
 Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious…  
 <sub>`BleepingComputer`</sub>
-
-**[NYC to bar surveillance pricing as momentum for bans grows nationwide](https://therecord.media/nyc-council-passes-bill-ban-surveillance-pricing)**  
-The New York City government will be able to fine companies $1,000 for each verified instance of surveillance pricing.  
-<sub>`The Record`</sub>
-
-**[German military drone operations disrupted by cyberattack](https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/)**  
-German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by…  
-<sub>`BleepingComputer`</sub>
-
-**[University of Texas at Arlington warns personal information stolen during cyberattack](https://therecord.media/university-of-texas-arlington-warns-data-breach)**  
-In a statement to Recorded Future News, a spokesperson said an investigation into the attack confirmed the stolen data but declined to say what…  
-<sub>`The Record`</sub>
 
 <!-- CYBER-NEWS:END -->
 
