@@ -60,6 +60,14 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[FBI warns ARTEX AI hacking tool is powering global cyberattacks](https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/)**  
+The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations…  
+<sub>`BleepingComputer`</sub>
+
+**[TSMC employee data breach linked to cloud provider](https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/)**  
+Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of…  
+<sub>`BleepingComputer`</sub>
+
 **[Pentagon Renames CDAO ‘Super Intelligence Office’](https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/)**  
 The move follows President Trump’s order to replace “artificial intelligence” with “super intelligence” in executive branch communications. The post…  
 <sub>`SecurityWeek`</sub>
@@ -83,14 +91,6 @@ Cursor confirmed it suffered a security breach that let hackers distribute a mal
 **[US disrupts North Korean campaign behind $400 million crypto theft](https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/)**  
 The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in…  
 <sub>`BleepingComputer`</sub>
-
-**[Is AI Making Us Worse at Cybersecurity?](https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/)**  
-Overreliance on AI could erode the creativity, clear communication, and critical thinking security teams need when there’s no playbook. The post Is…  
-<sub>`SecurityWeek`</sub>
-
-**[Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html)**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source…  
-<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
