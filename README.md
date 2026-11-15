@@ -60,6 +60,22 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Pentagon Renames CDAO ‘Super Intelligence Office’](https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/)**  
+The move follows President Trump’s order to replace “artificial intelligence” with “super intelligence” in executive branch communications. The post…  
+<sub>`SecurityWeek`</sub>
+
+**[Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent](https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html)**  
+Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for…  
+<sub>`The Hacker News`</sub>
+
+**[Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident](https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html)**  
+The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was…  
+<sub>`The Hacker News`</sub>
+
+**[Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook](https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/)**  
+The directive protects smartphones as part of a person’s private sphere and requires “free and informed consent” for such access, the authority said…  
+<sub>`SecurityWeek`</sub>
+
 **[Cursor confirms security breach led to malicious Claude Code extension](https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/)**  
 Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing…  
 <sub>`BleepingComputer`</sub>
@@ -75,22 +91,6 @@ Overreliance on AI could erode the creativity, clear communication, and critical
 **[Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection](https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html)**  
 The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source…  
 <sub>`The Hacker News`</sub>
-
-**[Apple Reveals How Secure Exclaves Shield Camera and Microphone Data](https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/)**  
-The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones. The post Apple…  
-<sub>`SecurityWeek`</sub>
-
-**[No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update](https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/)**  
-Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update. The post No…  
-<sub>`SecurityWeek`</sub>
-
-**[FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’](https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/)**  
-Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack. The post FAA…  
-<sub>`SecurityWeek`</sub>
-
-**[FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’](https://therecord.media/artex-ai-tool-fbi-flash-alert)**  
-Open source hacking tool Artex "significantly reduces the time required to chain attack techniques, with some intrusions progressing from initial…  
-<sub>`The Record`</sub>
 
 <!-- CYBER-NEWS:END -->
 
