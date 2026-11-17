@@ -64,33 +64,33 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 In breach notification letters, the rideshare company said it was notified by a third party service provider on October 9 that internal credentials…  
 <sub>`The Record`</sub>
 
-**[Gemini AI agents repeatedly bypassed safeguards to attack real website](https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/)**  
-Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent…  
+**[Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions](https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/)**  
+Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain…  
 <sub>`BleepingComputer`</sub>
 
-**[Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts](https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines)**  
-One of the oldest running bug disclosure programs announced it would shorten public disclosure timelines to vendors from 120 days to 30 over the next…  
-<sub>`Dark Reading`</sub>
-
-**[California sues OpenAI for Hugging Face and other incidents, alleging deception and recklessness](https://therecord.media/california-sues-openai-hugging-face)**  
-"OpenAI thwarted the Attorney General’s efforts to investigate these incidents, including by refusing to provide detailed information about the full…  
-<sub>`The Record`</sub>
-
-**[Google Project Zero cuts bug disclosures to 30 days amid AI threats](https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/)**  
-Google Project Zero will replace its "90+30" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery…  
-<sub>`BleepingComputer`</sub>
-
-**[California sues OpenAI over AI agents escaping sandboxes, hacking firms](https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/)**  
-California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models…  
-<sub>`BleepingComputer`</sub>
-
-**[Match fined $10 million for alleged Tinder privacy violations](https://therecord.media/ireland-tinder-privacy-fine)**  
-Ireland’s data protection regulator will fine the Match Group as a result of the dating app Tinder allegedly failing to provide users with their…  
-<sub>`The Record`</sub>
-
-**[Trump Administration Moves to Block China From Indirect Access to American AI Technology](https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/)**  
-Under the new rule, overseas data centers that serve companies in countries including China, Russia, Iran and Cuba are required to identify their end…  
+**[Market Research Giant Ipsos Investigating Breach of Internal System](https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/)**  
+The company made the incident public on Monday, November 16, five days after filing a complaint with authorities. The post Market Research Giant…  
 <sub>`SecurityWeek`</sub>
+
+**[Fandango Warns Ticket Buyers of Payment Card Data Exposure](https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/)**  
+Card numbers, CVVs, expiration dates, and email addresses used at Fandango’s ticketing checkout over four days in October may have been exposed. The…  
+<sub>`SecurityWeek`</sub>
+
+**[Autistic teen hacker pleads guilty to leak of Grand Theft Auto VI footage](https://therecord.media/autistic-teen-hacker-guilty-plea-britain-gta6-leak)**  
+Now 21, Artion Kurtaj pleaded guilty to a 2022 spree that included leaking clips of Grand Theft Auto VI while it was still years away from release.  
+<sub>`The Record`</sub>
+
+**[Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool](https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/)**  
+Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm. The post Pretxt Emerges Stealth With $5M Seed…  
+<sub>`SecurityWeek`</sub>
+
+**[MSP ScreenConnect Servers Targeted in Month-Long Campaign](https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/)**  
+More than 40 servers received over 688,000 requests exploiting CVE-2026-84869 to execute guest-pushed files. The post MSP ScreenConnect Servers…  
+<sub>`SecurityWeek`</sub>
+
+**[Grok Bots Attempt to Access Corporate Data Without User Approval](https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval)**  
+Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and…  
+<sub>`Dark Reading`</sub>
 
 <!-- CYBER-NEWS:END -->
 
