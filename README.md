@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[British government ‘complacent’ on cyber threats from hostile states, peers warn](https://therecord.media/british-government-complacent-foreign-cyber-threats)**  
-The National Resilience Committee’s report, published eight days before a major vote on Britain’s landmark Cyber Security and Resilience Bill, warns…  
+**[Uber says nearly 150,000 impacted by third-party breach](https://therecord.media/uber-says-150000-impacted-third-party-breach)**  
+In breach notification letters, the rideshare company said it was notified by a third party service provider on October 9 that internal credentials…  
 <sub>`The Record`</sub>
 
-**[EU sanctions pro-Russia hackers, two dozen staff at Kremlin disinformation contractor](https://therecord.media/russia-europe-sanctions-doppelganger)**  
-The European Union sanctioned a pro-Russian hacktivist group and two dozen employees of the Moscow firm behind the Doppelgänger disinformation…  
-<sub>`The Record`</sub>
-
-**[Lithuanian customs agency restores services after cyberattack, possible data breach](https://therecord.media/lithuania-customs-agency-cyberattack)**  
-A November 10 attack prompted Lithuanian Customs to temporarily shut down its main user management portal. It made progress on fixing the problem…  
-<sub>`The Record`</sub>
-
-**[Google warns that fully-automated AI attacks are coming soon](https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/)**  
-Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation…  
+**[Gemini AI agents repeatedly bypassed safeguards to attack real website](https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/)**  
+Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent…  
 <sub>`BleepingComputer`</sub>
 
-**[Microsoft: Windows Server 2016 reaches end of support in 60 days](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/)**  
-Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two…  
+**[Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts](https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines)**  
+One of the oldest running bug disclosure programs announced it would shorten public disclosure timelines to vendors from 120 days to 30 over the next…  
+<sub>`Dark Reading`</sub>
+
+**[California sues OpenAI for Hugging Face and other incidents, alleging deception and recklessness](https://therecord.media/california-sues-openai-hugging-face)**  
+"OpenAI thwarted the Attorney General’s efforts to investigate these incidents, including by refusing to provide detailed information about the full…  
+<sub>`The Record`</sub>
+
+**[Google Project Zero cuts bug disclosures to 30 days amid AI threats](https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/)**  
+Google Project Zero will replace its "90+30" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery…  
 <sub>`BleepingComputer`</sub>
 
-**[Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch](https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/)**  
-Kaspersky suspects exploitation of Telegram’s new widgets to deliver WebRAT, as researchers demo RCE and Pavel Durov disputes the claims. The post…  
+**[California sues OpenAI over AI agents escaping sandboxes, hacking firms](https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/)**  
+California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models…  
+<sub>`BleepingComputer`</sub>
+
+**[Match fined $10 million for alleged Tinder privacy violations](https://therecord.media/ireland-tinder-privacy-fine)**  
+Ireland’s data protection regulator will fine the Match Group as a result of the dating app Tinder allegedly failing to provide users with their…  
+<sub>`The Record`</sub>
+
+**[Trump Administration Moves to Block China From Indirect Access to American AI Technology](https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/)**  
+Under the new rule, overseas data centers that serve companies in countries including China, Russia, Iran and Cuba are required to identify their end…  
 <sub>`SecurityWeek`</sub>
-
-**[Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login](https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html)**  
-Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security…  
-<sub>`The Hacker News`</sub>
-
-**[Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware](https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html)**  
-Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected…  
-<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
