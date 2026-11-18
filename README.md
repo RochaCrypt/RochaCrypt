@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Critical Java4Shell flaw allows RCE attacks on major Java applications](https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/)**  
-A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely…  
+**[From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters](https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/)**  
+Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate…  
 <sub>`BleepingComputer`</sub>
 
-**[Optimizely Malware Attacks Highlight Third-Party Vendor Risks](https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks)**  
-At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.  
-<sub>`Dark Reading`</sub>
-
-**[Cloud keys leaked in Docker Hub images are stolen within seconds](https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/)**  
-Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds…  
-<sub>`BleepingComputer`</sub>
-
-**[Website management platform Optimizely confirms hackers put malicious code into customer sites](https://therecord.media/optimizely-malicious-code-customer-sites)**  
-Researchers said they found malicious JavaScript code on 178 different widely visited websites run through the Optimizely Web experimentation…  
+**[British hacker gets 6 year sentence for $11.6M crypto theft scheme](https://therecord.media/british-hacker-gets-six-year-sentence-scattered-spider)**  
+Tyler Robert Buchanan, 24, of Dundee, Scotland, was previously described as the suspected ringleader of the hacking collective, which Microsoft…  
 <sub>`The Record`</sub>
 
-**['TheMailer' Phishing Kit Puts AI in the Driver's Seat](https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat)**  
-The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.  
-<sub>`Dark Reading`</sub>
-
-**[Japan takes Fugaku supercomputer offlline after cyberattack](https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/)**  
-The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]  
-<sub>`BleepingComputer`</sub>
-
-**[Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses](https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html)**  
-A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a…  
+**[New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks](https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html)**  
+The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to…  
 <sub>`The Hacker News`</sub>
 
-**[Apple reports outages affecting iCloud Mail, AppleCare and more](https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/)**  
-Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and…  
-<sub>`BleepingComputer`</sub>
+**[Major Brazilian Signature Apps Enable RCE & Fraud](https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud)**  
+Government-sanctioned authentication middleware is used for exceptionally important legal documents, yet it's often rife with RCE bugs.  
+<sub>`Dark Reading`</sub>
+
+**[Ice hockey governing body website defaced amid dispute over Russia's exclusion](https://therecord.media/russia-hockey-cyberattack-championships)**  
+The International Ice Hockey Federation (IIHF) confirmed a cyberattack on its website after hackers replaced its homepage with a pro-Russian message…  
+<sub>`The Record`</sub>
+
+**[Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization](https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/)**  
+Star Blizzard weaponized data and identities stolen in late 2025 to phish and compromise a US organization. The post Russian APT Poses as Employee of…  
+<sub>`SecurityWeek`</sub>
+
+**[Cyberattack hits Norwegian energy giant Equinor, disrupting internal services](https://therecord.media/norway-equinor-cyberattack-energy)**  
+The Norwegian energy giant Equinor is working to contain a cyberattack on its IT systems that the company said has not impacted oil and gas…  
+<sub>`The Record`</sub>
+
+**[Last of Five Defendants Sentenced in US Scattered Spider Hacking Case](https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/)**  
+British national Tyler Robert Buchanan has been sentenced to 6 years in prison in the United States, the DOJ announced. The post Last of Five…  
+<sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
 
