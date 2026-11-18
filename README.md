@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters](https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/)**  
-Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate…  
+**[Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms](https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/)**  
+Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than…  
 <sub>`BleepingComputer`</sub>
 
-**[British hacker gets 6 year sentence for $11.6M crypto theft scheme](https://therecord.media/british-hacker-gets-six-year-sentence-scattered-spider)**  
-Tyler Robert Buchanan, 24, of Dundee, Scotland, was previously described as the suspected ringleader of the hacking collective, which Microsoft…  
-<sub>`The Record`</sub>
-
-**[New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks](https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html)**  
-The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to…  
-<sub>`The Hacker News`</sub>
-
-**[Major Brazilian Signature Apps Enable RCE & Fraud](https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud)**  
-Government-sanctioned authentication middleware is used for exceptionally important legal documents, yet it's often rife with RCE bugs.  
+**[Russia's Cold Relic APT Turns One Cloud Breach Into Another](https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another)**  
+The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.  
 <sub>`Dark Reading`</sub>
 
-**[Ice hockey governing body website defaced amid dispute over Russia's exclusion](https://therecord.media/russia-hockey-cyberattack-championships)**  
-The International Ice Hockey Federation (IIHF) confirmed a cyberattack on its website after hackers replaced its homepage with a pro-Russian message…  
+**[Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam](https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/)**  
+Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk…  
+<sub>`BleepingComputer`</sub>
+
+**[Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool](https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool)**  
+New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work.  
+<sub>`Dark Reading`</sub>
+
+**[Judge signs off on sale of Spirit Airlines’ data to Google](https://therecord.media/judge-signs-off-google-purchase-spirit-airlines-data)**  
+Google can take possession of defunct Spirit Airlines' data for $10 million, a federal bankruptcy judge has ruled. The tech giant agreed to…  
 <sub>`The Record`</sub>
 
-**[Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization](https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/)**  
-Star Blizzard weaponized data and identities stolen in late 2025 to phish and compromise a US organization. The post Russian APT Poses as Employee of…  
-<sub>`SecurityWeek`</sub>
+**[AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks](https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups)**  
+Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.  
+<sub>`Dark Reading`</sub>
 
-**[Cyberattack hits Norwegian energy giant Equinor, disrupting internal services](https://therecord.media/norway-equinor-cyberattack-energy)**  
-The Norwegian energy giant Equinor is working to contain a cyberattack on its IT systems that the company said has not impacted oil and gas…  
+**[Trump administration officials size-up a bad stretch for tech](https://therecord.media/tech-disruptions-house-homeland-committee-testimony)**  
+Homeland Security Secretary Markwayne Mullin said the administration will reach out to industry to get companies to share more information about big…  
 <sub>`The Record`</sub>
 
-**[Last of Five Defendants Sentenced in US Scattered Spider Hacking Case](https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/)**  
-British national Tyler Robert Buchanan has been sentenced to 6 years in prison in the United States, the DOJ announced. The post Last of Five…  
-<sub>`SecurityWeek`</sub>
+**[Data breach impacts 40 Irish credit unions in reported IT provider hack](https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/)**  
+A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located…  
+<sub>`BleepingComputer`</sub>
 
 <!-- CYBER-NEWS:END -->
 
