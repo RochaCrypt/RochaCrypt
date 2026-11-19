@@ -60,6 +60,14 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19](https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html)**  
+The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical…  
+<sub>`The Hacker News`</sub>
+
+**[Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion](https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/)**  
+The all-stock deal will give the cybersecurity company a platform for fine-tuning and running open-weight AI models in public and sovereign clouds…  
+<sub>`SecurityWeek`</sub>
+
 **[Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms](https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/)**  
 Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than…  
 <sub>`BleepingComputer`</sub>
@@ -83,14 +91,6 @@ Google can take possession of defunct Spirit Airlines' data for $10 million, a f
 **[AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks](https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups)**  
 Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.  
 <sub>`Dark Reading`</sub>
-
-**[Trump administration officials size-up a bad stretch for tech](https://therecord.media/tech-disruptions-house-homeland-committee-testimony)**  
-Homeland Security Secretary Markwayne Mullin said the administration will reach out to industry to get companies to share more information about big…  
-<sub>`The Record`</sub>
-
-**[Data breach impacts 40 Irish credit unions in reported IT provider hack](https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/)**  
-A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located…  
-<sub>`BleepingComputer`</sub>
 
 <!-- CYBER-NEWS:END -->
 
