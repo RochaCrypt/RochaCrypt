@@ -60,36 +60,36 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19](https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html)**  
-The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical…  
-<sub>`The Hacker News`</sub>
-
-**[Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion](https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/)**  
-The all-stock deal will give the cybersecurity company a platform for fine-tuning and running open-weight AI models in public and sovereign clouds…  
-<sub>`SecurityWeek`</sub>
-
-**[Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms](https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/)**  
-Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than…  
-<sub>`BleepingComputer`</sub>
-
-**[Russia's Cold Relic APT Turns One Cloud Breach Into Another](https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another)**  
-The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.  
-<sub>`Dark Reading`</sub>
-
-**[Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam](https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/)**  
-Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk…  
-<sub>`BleepingComputer`</sub>
-
-**[Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool](https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool)**  
-New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work.  
-<sub>`Dark Reading`</sub>
-
-**[Judge signs off on sale of Spirit Airlines’ data to Google](https://therecord.media/judge-signs-off-google-purchase-spirit-airlines-data)**  
-Google can take possession of defunct Spirit Airlines' data for $10 million, a federal bankruptcy judge has ruled. The tech giant agreed to…  
+**[European Commission confirms cyberattack, says hackers used AI tool](https://therecord.media/european-commission-confirms-cyberattack-using-ai)**  
+POLITICO had reported CERT-EU had identified the attackers’ use of ARTEX, an open-source AI hacking platform that the FBI last week warned was being…  
 <sub>`The Record`</sub>
 
-**[AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks](https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups)**  
-Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.  
+**[Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication](https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html)**  
+A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom…  
+<sub>`The Hacker News`</sub>
+
+**[Five warning signs of ransomware breach before encryption or data theft](https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/)**  
+Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis…  
+<sub>`BleepingComputer`</sub>
+
+**[Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers](https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/)**  
+Two critical NGINX vulnerabilities dubbed "nginx2root" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with…  
+<sub>`BleepingComputer`</sub>
+
+**[PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution](https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html)**  
+The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution…  
+<sub>`The Hacker News`</sub>
+
+**[Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites](https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html)**  
+Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to…  
+<sub>`The Hacker News`</sub>
+
+**[Nvidia Responds to Gentlemen Ransomware Claim](https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/)**  
+Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim. The…  
+<sub>`SecurityWeek`</sub>
+
+**[Why Holiday Security Can't Wait for Black Friday](https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday)**  
+Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike.  
 <sub>`Dark Reading`</sub>
 
 <!-- CYBER-NEWS:END -->
