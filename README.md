@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[European Commission confirms cyberattack, says hackers used AI tool](https://therecord.media/european-commission-confirms-cyberattack-using-ai)**  
-POLITICO had reported CERT-EU had identified the attackers’ use of ARTEX, an open-source AI hacking platform that the FBI last week warned was being…  
+**[Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering](https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering)**  
+Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.  
+<sub>`Dark Reading`</sub>
+
+**[Hackers steal data of 1.6 million SBC Medical Group customers](https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/)**  
+SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive…  
+<sub>`BleepingComputer`</sub>
+
+**[Lawmakers launch new AI safety caucus amid rising security concerns](https://therecord.media/lawmakers-launch-new-ai-safety-caucus)**  
+Seven of 26 founding members of the caucus are Republicans, a notable number given the White House’s steadfast opposition to regulating AI.  
 <sub>`The Record`</sub>
 
-**[Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication](https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html)**  
-A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom…  
-<sub>`The Hacker News`</sub>
-
-**[Five warning signs of ransomware breach before encryption or data theft](https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/)**  
-Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis…  
+**[ASUS warns of critical hard-coded key flaw in Control Center Express](https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/)**  
+ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the…  
 <sub>`BleepingComputer`</sub>
 
-**[Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers](https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/)**  
-Two critical NGINX vulnerabilities dubbed "nginx2root" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with…  
-<sub>`BleepingComputer`</sub>
-
-**[PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution](https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html)**  
-The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution…  
-<sub>`The Hacker News`</sub>
-
-**[Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites](https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html)**  
-Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to…  
-<sub>`The Hacker News`</sub>
-
-**[Nvidia Responds to Gentlemen Ransomware Claim](https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/)**  
-Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim. The…  
-<sub>`SecurityWeek`</sub>
-
-**[Why Holiday Security Can't Wait for Black Friday](https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday)**  
-Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike.  
+**[Second Norwegian Energy Company Breached in Two Days](https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached)**  
+No specific link has been drawn between the two incidents, though they certainly sing the same notes.  
 <sub>`Dark Reading`</sub>
+
+**[Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style](https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell)**  
+November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and…  
+<sub>`Dark Reading`</sub>
+
+**[Navigating Vulnerability Hysteria in the AI Era](https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era)**  
+This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of…  
+<sub>`Dark Reading`</sub>
+
+**[Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT](https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/)**  
+Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch. The post Newly…  
+<sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
 
