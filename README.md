@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Cyber Director Cairncross out as White House resets cyber leadership](https://therecord.media/sean-cairncross-out-as-national-cyber-director)**  
-Sean Cairncross is leaving the White House as Kirsten Davies, the Pentagon’s chief information officer, has been named the acting cyber czar.  
+**[West Virginia Legislature hit with cyber incident affecting IT systems](https://therecord.media/west-virginia-legislature-cyberattack)**  
+A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not…  
 <sub>`The Record`</sub>
 
-**[Dozens of credit unions hit by supplier breach that went unnoticed for six weeks](https://therecord.media/dozens-of-credit-unions-hit-by-supplier-breach)**  
-Ireland’s Data Protection Commission told Recorded Future News on Thursday it had received more than 40 breach notifications from credit unions that…  
+**[China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day](https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day)**  
+During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.  
+<sub>`Dark Reading`</sub>
+
+**[US companies’ use of Chinese open weight AI draws rebuke from House chairmen](https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation)**  
+An investigation led by the House Homeland Security Committee focused on the dangers of U.S. companies using lower-cost open weight AI models for…  
 <sub>`The Record`</sub>
 
-**[N-able says recent security breach led to major service outage](https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/)**  
-N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services…  
+**[Container Store restores systems after cyberattack](https://therecord.media/container-store-restores-systems-cyberattack)**  
+The firm’s parent company, Neighborhood Intelligence, said in a statement that The Container Store has “restored its website and systems following a…  
+<sub>`The Record`</sub>
+
+**[Bell Canada says 'agentic' hacker stole enterprise customer data](https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/)**  
+Bell Canada has confirmed that an "agentic" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including…  
 <sub>`BleepingComputer`</sub>
 
-**[Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday](https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/)**  
-Experts commented on whether AI-accelerated patching played a role, the need for tested rollback plans, and the fragility of interconnected systems…  
-<sub>`SecurityWeek`</sub>
+**[In Security, Words Matter as Much as Tools, Maybe More](https://www.darkreading.com/cybersecurity-operations/security-words-matter)**  
+From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability…  
+<sub>`Dark Reading`</sub>
 
-**[Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts](https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html)**  
-A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine…  
+**[WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams](https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html)**  
+Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in…  
 <sub>`The Hacker News`</sub>
 
-**[Microsoft now automatically installs Windows 11 26H2 on unmanaged devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/)**  
-Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]  
+**[Hackers use autonomous AI tool Cairn to find zero-day, take over server](https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/)**  
+Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging…  
 <sub>`BleepingComputer`</sub>
-
-**[The Path to AI Autonomy in the SOC](https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html)**  
-Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees…  
-<sub>`The Hacker News`</sub>
-
-**[SBC Medical Group Data Breach Impacts Over 2 Million](https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/)**  
-Threat actors accessed databases containing customer information associated with clinics in Japan. The post SBC Medical Group Data Breach Impacts…  
-<sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
 
