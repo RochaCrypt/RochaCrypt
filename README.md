@@ -60,36 +60,36 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering](https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering)**  
-Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.  
-<sub>`Dark Reading`</sub>
-
-**[Hackers steal data of 1.6 million SBC Medical Group customers](https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/)**  
-SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive…  
-<sub>`BleepingComputer`</sub>
-
-**[Lawmakers launch new AI safety caucus amid rising security concerns](https://therecord.media/lawmakers-launch-new-ai-safety-caucus)**  
-Seven of 26 founding members of the caucus are Republicans, a notable number given the White House’s steadfast opposition to regulating AI.  
+**[Cyber Director Cairncross out as White House resets cyber leadership](https://therecord.media/sean-cairncross-out-as-national-cyber-director)**  
+Sean Cairncross is leaving the White House as Kirsten Davies, the Pentagon’s chief information officer, has been named the acting cyber czar.  
 <sub>`The Record`</sub>
 
-**[ASUS warns of critical hard-coded key flaw in Control Center Express](https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/)**  
-ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the…  
+**[Dozens of credit unions hit by supplier breach that went unnoticed for six weeks](https://therecord.media/dozens-of-credit-unions-hit-by-supplier-breach)**  
+Ireland’s Data Protection Commission told Recorded Future News on Thursday it had received more than 40 breach notifications from credit unions that…  
+<sub>`The Record`</sub>
+
+**[N-able says recent security breach led to major service outage](https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/)**  
+N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services…  
 <sub>`BleepingComputer`</sub>
 
-**[Second Norwegian Energy Company Breached in Two Days](https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached)**  
-No specific link has been drawn between the two incidents, though they certainly sing the same notes.  
-<sub>`Dark Reading`</sub>
+**[Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday](https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/)**  
+Experts commented on whether AI-accelerated patching played a role, the need for tested rollback plans, and the fragility of interconnected systems…  
+<sub>`SecurityWeek`</sub>
 
-**[Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style](https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell)**  
-November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and…  
-<sub>`Dark Reading`</sub>
+**[Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts](https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html)**  
+A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine…  
+<sub>`The Hacker News`</sub>
 
-**[Navigating Vulnerability Hysteria in the AI Era](https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era)**  
-This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of…  
-<sub>`Dark Reading`</sub>
+**[Microsoft now automatically installs Windows 11 26H2 on unmanaged devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/)**  
+Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]  
+<sub>`BleepingComputer`</sub>
 
-**[Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT](https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/)**  
-Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch. The post Newly…  
+**[The Path to AI Autonomy in the SOC](https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html)**  
+Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees…  
+<sub>`The Hacker News`</sub>
+
+**[SBC Medical Group Data Breach Impacts Over 2 Million](https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/)**  
+Threat actors accessed databases containing customer information associated with clinics in Japan. The post SBC Medical Group Data Breach Impacts…  
 <sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
