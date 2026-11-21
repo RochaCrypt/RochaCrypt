@@ -60,6 +60,18 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Microsoft Entra Connect Health flaw exploited to steal tenant data](https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/)**  
+Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to…  
+<sub>`BleepingComputer`</sub>
+
+**[BADBOX botnet returns with record-breaking 40 billion daily ad requests](https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/)**  
+The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's…  
+<sub>`BleepingComputer`</sub>
+
+**[FBI reportedly hacked again, this time targeting nationwide police database](https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/)**  
+FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center…  
+<sub>`BleepingComputer`</sub>
+
 **[Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day](https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/)**  
 A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers’…  
 <sub>`SecurityWeek`</sub>
@@ -79,18 +91,6 @@ Suspected China-linked hackers used autonomous AI agents to find a previously un
 **[Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS](https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html)**  
 Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android…  
 <sub>`The Hacker News`</sub>
-
-**[Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge](https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html)**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver…  
-<sub>`The Hacker News`</sub>
-
-**[CTO of ‘RansomwareHelp’ Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)**  
-The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use "advanced cryptographic tools"…  
-<sub>`Krebs on Security`</sub>
-
-**[West Virginia Legislature hit with cyber incident affecting IT systems](https://therecord.media/west-virginia-legislature-cyberattack)**  
-A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not…  
-<sub>`The Record`</sub>
 
 <!-- CYBER-NEWS:END -->
 
