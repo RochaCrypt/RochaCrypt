@@ -60,6 +60,30 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day](https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/)**  
+A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers’…  
+<sub>`SecurityWeek`</sub>
+
+**[A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats](https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html)**  
+A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval…  
+<sub>`The Hacker News`</sub>
+
+**[GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys](https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html)**  
+A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work…  
+<sub>`The Hacker News`</sub>
+
+**[Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access](https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html)**  
+Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and…  
+<sub>`The Hacker News`</sub>
+
+**[Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS](https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html)**  
+Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android…  
+<sub>`The Hacker News`</sub>
+
+**[Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge](https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html)**  
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver…  
+<sub>`The Hacker News`</sub>
+
 **[CTO of ‘RansomwareHelp’ Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)**  
 The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use "advanced cryptographic tools"…  
 <sub>`Krebs on Security`</sub>
@@ -67,30 +91,6 @@ The chief technology officer and co-founder of ransomwarehelp.com, a six year ol
 **[West Virginia Legislature hit with cyber incident affecting IT systems](https://therecord.media/west-virginia-legislature-cyberattack)**  
 A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not…  
 <sub>`The Record`</sub>
-
-**[China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day](https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day)**  
-During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.  
-<sub>`Dark Reading`</sub>
-
-**[US companies’ use of Chinese open weight AI draws rebuke from House chairmen](https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation)**  
-An investigation led by the House Homeland Security Committee focused on the dangers of U.S. companies using lower-cost open weight AI models for…  
-<sub>`The Record`</sub>
-
-**[Container Store restores systems after cyberattack](https://therecord.media/container-store-restores-systems-cyberattack)**  
-The firm’s parent company, Neighborhood Intelligence, said in a statement that The Container Store has “restored its website and systems following a…  
-<sub>`The Record`</sub>
-
-**[Bell Canada says 'agentic' hacker stole enterprise customer data](https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/)**  
-Bell Canada has confirmed that an "agentic" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including…  
-<sub>`BleepingComputer`</sub>
-
-**[In Security, Words Matter as Much as Tools, Maybe More](https://www.darkreading.com/cybersecurity-operations/security-words-matter)**  
-From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability…  
-<sub>`Dark Reading`</sub>
-
-**[WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams](https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html)**  
-Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in…  
-<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
