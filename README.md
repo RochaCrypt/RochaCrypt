@@ -60,6 +60,14 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms](https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html)**  
+Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial…  
+<sub>`The Hacker News`</sub>
+
+**[Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps](https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html)**  
+A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it…  
+<sub>`The Hacker News`</sub>
+
 **[FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says](https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/)**  
 The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its…  
 <sub>`SecurityWeek`</sub>
@@ -83,14 +91,6 @@ FBI systems have reportedly been breached for the second time in two months, thi
 **[President Trump Taps Kirsten Davies as National Cyber Director](https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/)**  
 White House says the battle-tested cyber leader will drive an America First cyber strategy. The post President Trump Taps Kirsten Davies as National…  
 <sub>`SecurityWeek`</sub>
-
-**[Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day](https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/)**  
-A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers’…  
-<sub>`SecurityWeek`</sub>
-
-**[A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats](https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html)**  
-A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval…  
-<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
