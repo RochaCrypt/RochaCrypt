@@ -60,6 +60,18 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices](https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/)**  
+GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers…  
+<sub>`BleepingComputer`</sub>
+
+**[Cleverbridge warns hackers stole credit card numbers, CVVs in data breach](https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/)**  
+E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card…  
+<sub>`BleepingComputer`</sub>
+
+**[Signal to block Siri, Gemini AI from capturing chats on iOS, Android](https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/)**  
+Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android…  
+<sub>`BleepingComputer`</sub>
+
 **[OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms](https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html)**  
 Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial…  
 <sub>`The Hacker News`</sub>
@@ -79,18 +91,6 @@ Rackspace warned customers that hackers breached its Rackspace Spot cloud platfo
 **[Microsoft Entra Connect Health flaw exploited to steal tenant data](https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/)**  
 Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to…  
 <sub>`BleepingComputer`</sub>
-
-**[BADBOX botnet returns with record-breaking 40 billion daily ad requests](https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/)**  
-The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's…  
-<sub>`BleepingComputer`</sub>
-
-**[FBI reportedly hacked again, this time targeting nationwide police database](https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/)**  
-FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center…  
-<sub>`BleepingComputer`</sub>
-
-**[President Trump Taps Kirsten Davies as National Cyber Director](https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/)**  
-White House says the battle-tested cyber leader will drive an America First cyber strategy. The post President Trump Taps Kirsten Davies as National…  
-<sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
 
