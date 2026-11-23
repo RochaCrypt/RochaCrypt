@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices](https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/)**  
-GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers…  
+**[Hackers breach Austrian Foreign Ministry website, access diplomats' contact details](https://therecord.media/austrian-foreign-ministry-says-website-hacked)**  
+Austria's Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of…  
+<sub>`The Record`</sub>
+
+**[CrowdStrike to purchase Zscaler for $43.9 billion](https://therecord.media/crowdstrike-zscaler)**  
+“We see a path to become the largest AI safety and security company the world has ever seen,” CrowdStrike CEO George Kurtz said.  
+<sub>`The Record`</sub>
+
+**[GlobeTopper loses $2.5 million after hackers steal $70k in gift cards](https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/)**  
+A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the…  
 <sub>`BleepingComputer`</sub>
 
-**[Cleverbridge warns hackers stole credit card numbers, CVVs in data breach](https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/)**  
-E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card…  
-<sub>`BleepingComputer`</sub>
+**[AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes](https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes)**  
+A China-nexus actor used the Cairn penetration testing tool in attacks against East Asian universities, exploiting a zero-day in a medical imaging…  
+<sub>`Dark Reading`</sub>
 
-**[Signal to block Siri, Gemini AI from capturing chats on iOS, Android](https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/)**  
-Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android…  
-<sub>`BleepingComputer`</sub>
-
-**[OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms](https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html)**  
-Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial…  
-<sub>`The Hacker News`</sub>
-
-**[Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps](https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html)**  
-A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it…  
-<sub>`The Hacker News`</sub>
-
-**[FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says](https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/)**  
-The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its…  
+**[Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms](https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/)**  
+Microsoft closed an Azure API Management flaw exploited to target secrets at Norwegian energy companies, with other sectors also affected. The post…  
 <sub>`SecurityWeek`</sub>
 
-**[Rackspace Spot breach let hackers access customer Kubernetes secrets](https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/)**  
-Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy…  
-<sub>`BleepingComputer`</sub>
+**[Norway says hackers exploited Microsoft security flaw to attack energy firms Equinor, Skagerak Energi](https://therecord.media/norway-microsoft-cyberattack-equinor)**  
+Norwegian energy companies Equinor and Skagerak Energi were affected by a Microsoft cloud security vulnerability that hackers have exploited to…  
+<sub>`The Record`</sub>
 
-**[Microsoft Entra Connect Health flaw exploited to steal tenant data](https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/)**  
-Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to…  
-<sub>`BleepingComputer`</sub>
+**['Overwhelming' support leads Trump to lock in Davies for national cyber czar](https://therecord.media/kirsten-davies-trump-intends-nominate-national-cyber-director)**  
+The Pentagon's chief information officer, who has filled in as the acting national cyber director, is the president's likely pick for the full…  
+<sub>`The Record`</sub>
+
+**[⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble](https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html)**  
+A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work…  
+<sub>`The Hacker News`</sub>
 
 <!-- CYBER-NEWS:END -->
 
