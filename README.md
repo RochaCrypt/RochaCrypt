@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Hackers breach Austrian Foreign Ministry website, access diplomats' contact details](https://therecord.media/austrian-foreign-ministry-says-website-hacked)**  
-Austria's Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of…  
+**[VMware Updates Patch Critical ESX, vCenter Vulnerabilities](https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/)**  
+The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts. The post VMware Updates Patch…  
+<sub>`SecurityWeek`</sub>
+
+**[ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof](https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/)**  
+The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting…  
+<sub>`BleepingComputer`</sub>
+
+**[European Commission confirms data theft in EU Academy breach](https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/)**  
+The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole…  
+<sub>`BleepingComputer`</sub>
+
+**[Hackers compromise Check Point Servers in 22 organizations](https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/)**  
+Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign…  
+<sub>`BleepingComputer`</sub>
+
+**[Carnegie Endowment for International Peace says third-party breach leaked donation info](https://therecord.media/carnegie-endowment-data-breach)**  
+Some donors to the Carnegie Endowment for International Peace had their information leaked due to a cyberattack on a third-party vendor named Soapbox…  
 <sub>`The Record`</sub>
 
-**[Industrial Serial Gateways Broadcast That They're Insecure](https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure)**  
-Critical OT access devices will often tell you, and anyone else, whether they're protected by authentication — and many aren't.  
-<sub>`Dark Reading`</sub>
-
-**[CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal](https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal)**  
-CrowdStrike's $44 billion acquisition of Zscaler would unite endpoint protection and zero-trust network security to obtain greater control over AI…  
-<sub>`Dark Reading`</sub>
-
-**[South Korea’s power giant KEPCO confirms data breach impacting 1.5 million](https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/)**  
-A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and…  
+**[Police disrupt 57 illegal streaming services with 7.3 million visits](https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/)**  
+Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3…  
 <sub>`BleepingComputer`</sub>
 
-**[US Cyber Director Pick Signals Shift Toward Expertise](https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise)**  
-Trump named Kirsten Davies as Acting National Cyber Director, bringing greater industry experience to the role amid recent outages and rising…  
-<sub>`Dark Reading`</sub>
-
-**[OpenRouter drops AI providers over leaked prompts and secrets](https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/)**  
-OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed…  
+**[From Vulnerability Noise to Resilience: Rethinking Security in the AI Era](https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/)**  
+AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little…  
 <sub>`BleepingComputer`</sub>
 
-**[Microsoft Azure flaw exploited to steal customers' API credentials](https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/)**  
-Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API…  
-<sub>`BleepingComputer`</sub>
-
-**[Spanish LaLiga confirms hackers stole soccer fans’ personal data](https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/)**  
-LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of…  
-<sub>`BleepingComputer`</sub>
+**[CISA warns of exploited N-able bug as company restores email platform](https://therecord.media/cisa-nable-cybersecurity-bug)**  
+The U.S. cyber agency is giving government departments until Thanksgiving to patch a vulnerability impacting a critical email security platform that…  
+<sub>`The Record`</sub>
 
 <!-- CYBER-NEWS:END -->
 
