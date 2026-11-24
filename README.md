@@ -64,33 +64,33 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 Austria's Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of…  
 <sub>`The Record`</sub>
 
-**[CrowdStrike to purchase Zscaler for $43.9 billion](https://therecord.media/crowdstrike-zscaler)**  
-“We see a path to become the largest AI safety and security company the world has ever seen,” CrowdStrike CEO George Kurtz said.  
-<sub>`The Record`</sub>
-
-**[GlobeTopper loses $2.5 million after hackers steal $70k in gift cards](https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/)**  
-A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the…  
-<sub>`BleepingComputer`</sub>
-
-**[AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes](https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes)**  
-A China-nexus actor used the Cairn penetration testing tool in attacks against East Asian universities, exploiting a zero-day in a medical imaging…  
+**[Industrial Serial Gateways Broadcast That They're Insecure](https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure)**  
+Critical OT access devices will often tell you, and anyone else, whether they're protected by authentication — and many aren't.  
 <sub>`Dark Reading`</sub>
 
-**[Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms](https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/)**  
-Microsoft closed an Azure API Management flaw exploited to target secrets at Norwegian energy companies, with other sectors also affected. The post…  
-<sub>`SecurityWeek`</sub>
+**[CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal](https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal)**  
+CrowdStrike's $44 billion acquisition of Zscaler would unite endpoint protection and zero-trust network security to obtain greater control over AI…  
+<sub>`Dark Reading`</sub>
 
-**[Norway says hackers exploited Microsoft security flaw to attack energy firms Equinor, Skagerak Energi](https://therecord.media/norway-microsoft-cyberattack-equinor)**  
-Norwegian energy companies Equinor and Skagerak Energi were affected by a Microsoft cloud security vulnerability that hackers have exploited to…  
-<sub>`The Record`</sub>
+**[South Korea’s power giant KEPCO confirms data breach impacting 1.5 million](https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/)**  
+A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and…  
+<sub>`BleepingComputer`</sub>
 
-**['Overwhelming' support leads Trump to lock in Davies for national cyber czar](https://therecord.media/kirsten-davies-trump-intends-nominate-national-cyber-director)**  
-The Pentagon's chief information officer, who has filled in as the acting national cyber director, is the president's likely pick for the full…  
-<sub>`The Record`</sub>
+**[US Cyber Director Pick Signals Shift Toward Expertise](https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise)**  
+Trump named Kirsten Davies as Acting National Cyber Director, bringing greater industry experience to the role amid recent outages and rising…  
+<sub>`Dark Reading`</sub>
 
-**[⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble](https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html)**  
-A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work…  
-<sub>`The Hacker News`</sub>
+**[OpenRouter drops AI providers over leaked prompts and secrets](https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/)**  
+OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed…  
+<sub>`BleepingComputer`</sub>
+
+**[Microsoft Azure flaw exploited to steal customers' API credentials](https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/)**  
+Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API…  
+<sub>`BleepingComputer`</sub>
+
+**[Spanish LaLiga confirms hackers stole soccer fans’ personal data](https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/)**  
+LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of…  
+<sub>`BleepingComputer`</sub>
 
 <!-- CYBER-NEWS:END -->
 
