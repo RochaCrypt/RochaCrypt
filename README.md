@@ -60,36 +60,36 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[VMware Updates Patch Critical ESX, vCenter Vulnerabilities](https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/)**  
-The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts. The post VMware Updates Patch…  
+**[An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says](https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/)**  
+It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack…  
 <sub>`SecurityWeek`</sub>
 
-**[ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof](https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/)**  
-The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting…  
+**[Satellites Have a Ground-Level Cybersecurity Problem](https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem)**  
+Weaknesses in the ground-based infrastructure supporting satellite services are becoming more consequential as a new space race gathers pace.  
+<sub>`Dark Reading`</sub>
+
+**[Webworm APT Slithers Into Networks With Customized SoftEther VPN](https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn)**  
+The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to…  
+<sub>`Dark Reading`</sub>
+
+**[Rackspace shuts down Spot cloud platform after security breach](https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/)**  
+Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and…  
 <sub>`BleepingComputer`</sub>
 
-**[European Commission confirms data theft in EU Academy breach](https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/)**  
-The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole…  
-<sub>`BleepingComputer`</sub>
+**['God Mode' Flaws Could Wreak Border-Control Havoc](https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc)**  
+Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online…  
+<sub>`Dark Reading`</sub>
 
-**[Hackers compromise Check Point Servers in 22 organizations](https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/)**  
-Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign…  
-<sub>`BleepingComputer`</sub>
-
-**[Carnegie Endowment for International Peace says third-party breach leaked donation info](https://therecord.media/carnegie-endowment-data-breach)**  
-Some donors to the Carnegie Endowment for International Peace had their information leaked due to a cyberattack on a third-party vendor named Soapbox…  
+**[Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen](https://therecord.media/mycolorado-app-down-data-breach)**  
+Cybercriminals likely stole data from 150,000 users of myColorado, which residents typically use for digital identification, document storage and…  
 <sub>`The Record`</sub>
 
-**[Police disrupt 57 illegal streaming services with 7.3 million visits](https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/)**  
-Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3…  
+**[New Inception extortion gang launches large-scale vishing campaign](https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/)**  
+A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of…  
 <sub>`BleepingComputer`</sub>
 
-**[From Vulnerability Noise to Resilience: Rethinking Security in the AI Era](https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/)**  
-AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little…  
-<sub>`BleepingComputer`</sub>
-
-**[CISA warns of exploited N-able bug as company restores email platform](https://therecord.media/cisa-nable-cybersecurity-bug)**  
-The U.S. cyber agency is giving government departments until Thanksgiving to patch a vulnerability impacting a critical email security platform that…  
+**[California privacy agency director Kemp to leave after two-year tenure](https://therecord.media/california-privacy-agency-kemp)**  
+The director of the trailblazing California Privacy Protection Agency announced his departure following implementation of a first-in-the-nation…  
 <sub>`The Record`</sub>
 
 <!-- CYBER-NEWS:END -->
