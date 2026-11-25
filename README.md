@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says](https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/)**  
-It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack…  
+**[CISA warns of critical unpatched flaw in Danfoss refrigeration controllers](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/)**  
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers…  
+<sub>`BleepingComputer`</sub>
+
+**[Attackers Target .NET Developers With Poisoned Job Assessments](https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments)**  
+Researchers discovered 13 malicious NuGet packages as part of a fake recruitment campaign that spreads malware and gives attackers access to…  
+<sub>`Dark Reading`</sub>
+
+**[Two Newly Disclosed GeoServer Vulnerabilities Under Attack](https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/)**  
+Attackers are probing GeoServer instances for two high-severity flaws that can be chained with other bugs for unauthenticated RCE. The post Two Newly…  
 <sub>`SecurityWeek`</sub>
 
-**[Satellites Have a Ground-Level Cybersecurity Problem](https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem)**  
-Weaknesses in the ground-based infrastructure supporting satellite services are becoming more consequential as a new space race gathers pace.  
+**[It's a Bot World. We're Just Living in It](https://www.darkreading.com/cyber-risk/bot-world-just-living)**  
+Bot detection has become a losing game. Security teams need to limit privileged access for humans and their machine counterparts equally.  
 <sub>`Dark Reading`</sub>
 
-**[Webworm APT Slithers Into Networks With Customized SoftEther VPN](https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn)**  
-The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to…  
-<sub>`Dark Reading`</sub>
-
-**[Rackspace shuts down Spot cloud platform after security breach](https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/)**  
-Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and…  
+**[More Pentests Without More Pentesters: Where AI Safely Helps](https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/)**  
+Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad…  
 <sub>`BleepingComputer`</sub>
 
-**['God Mode' Flaws Could Wreak Border-Control Havoc](https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc)**  
-Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online…  
-<sub>`Dark Reading`</sub>
-
-**[Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen](https://therecord.media/mycolorado-app-down-data-breach)**  
-Cybercriminals likely stole data from 150,000 users of myColorado, which residents typically use for digital identification, document storage and…  
-<sub>`The Record`</sub>
-
-**[New Inception extortion gang launches large-scale vishing campaign](https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/)**  
-A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of…  
+**[InfraTrust warns of exploited supply chain flaws in network appliances](https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/)**  
+Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month…  
 <sub>`BleepingComputer`</sub>
 
-**[California privacy agency director Kemp to leave after two-year tenure](https://therecord.media/california-privacy-agency-kemp)**  
-The director of the trailblazing California Privacy Protection Agency announced his departure following implementation of a first-in-the-nation…  
-<sub>`The Record`</sub>
+**[Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'](https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide)**  
+Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting…  
+<sub>`Dark Reading`</sub>
+
+**[ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties](https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/)**  
+An account tied to ShinyHunters announced the group’s return, as Okta spots possible links between Inception and ShinyHunters hackers. The post…  
+<sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
 
