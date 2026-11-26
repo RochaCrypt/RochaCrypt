@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
-**[Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/)**  
-Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces…  
+**[Remus malware steals Gmail messages via fake Google Sheets extension](https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/)**  
+The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a…  
 <sub>`BleepingComputer`</sub>
 
-**[1Password customer data stolen after employee GitHub account breach](https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/)**  
-1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's…  
+**[North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware](https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html)**  
+The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the…  
+<sub>`The Hacker News`</sub>
+
+**[Critical Juniper Session Smart Conductor Flaw Exploited in Attacks](https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/)**  
+Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root. The post Critical Juniper Session Smart…  
+<sub>`SecurityWeek`</sub>
+
+**[SYS010 malware abuses browser management to spy on Gmail, Outlook](https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/)**  
+A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the…  
 <sub>`BleepingComputer`</sub>
 
-**[Microsoft: China’s Salt Typhoon hackers are using Artex](https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool)**  
-An AI tool implicated in several high-profile breaches is rapidly being integrated into the hacking suites of groups from China and North Korea…  
-<sub>`The Record`</sub>
+**[Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks](https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/)**  
+Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign. The post Mitel…  
+<sub>`SecurityWeek`</sub>
 
-**[FIFA says hackers accessed ‘limited set of personal and business information’](https://therecord.media/fifa-data-breach-limited)**  
-The Switzerland-based international governing body for soccer says it's working with relevant authorities and law enforcement to investigate a recent…  
-<sub>`The Record`</sub>
+**[Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls](https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html)**  
+Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more…  
+<sub>`The Hacker News`</sub>
 
-**[Italy and Switzerland warn of autonomous AI-driven cyberattacks](https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/)**  
-Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical…  
-<sub>`BleepingComputer`</sub>
+**[1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach](https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html)**  
+Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized…  
+<sub>`The Hacker News`</sub>
 
-**[Florida ransomware recovery CEO indicted for allegedly paying hacker ransoms](https://therecord.media/ransomware-doj-indictment-recovery)**  
-The CEO of a ransomware recovery firm was indicted by a federal grand jury over allegations he lied about his services and paid out ransoms to…  
-<sub>`The Record`</sub>
-
-**[Australia passes tough legislation requiring big tech to preempt foreseeable harms](https://therecord.media/australia-passes-online-safety-legislation-preempt-harms)**  
-The Digital Duty of Care Act sailed through Australia's Parliament. It will mandate that online providers establish protocols to protect users from…  
-<sub>`The Record`</sub>
-
-**[CISA warns of critical unpatched flaw in Danfoss refrigeration controllers](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/)**  
-The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers…  
-<sub>`BleepingComputer`</sub>
+**[Drupal Installer Patch Left a Gap Attackers Are Already Exploiting](https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/)**  
+Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap. The post Drupal…  
+<sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
 
