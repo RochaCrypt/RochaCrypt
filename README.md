@@ -60,37 +60,37 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/)**  
+Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces…  
+<sub>`BleepingComputer`</sub>
+
+**[1Password customer data stolen after employee GitHub account breach](https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/)**  
+1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's…  
+<sub>`BleepingComputer`</sub>
+
+**[Microsoft: China’s Salt Typhoon hackers are using Artex](https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool)**  
+An AI tool implicated in several high-profile breaches is rapidly being integrated into the hacking suites of groups from China and North Korea…  
+<sub>`The Record`</sub>
+
+**[FIFA says hackers accessed ‘limited set of personal and business information’](https://therecord.media/fifa-data-breach-limited)**  
+The Switzerland-based international governing body for soccer says it's working with relevant authorities and law enforcement to investigate a recent…  
+<sub>`The Record`</sub>
+
+**[Italy and Switzerland warn of autonomous AI-driven cyberattacks](https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/)**  
+Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical…  
+<sub>`BleepingComputer`</sub>
+
+**[Florida ransomware recovery CEO indicted for allegedly paying hacker ransoms](https://therecord.media/ransomware-doj-indictment-recovery)**  
+The CEO of a ransomware recovery firm was indicted by a federal grand jury over allegations he lied about his services and paid out ransoms to…  
+<sub>`The Record`</sub>
+
+**[Australia passes tough legislation requiring big tech to preempt foreseeable harms](https://therecord.media/australia-passes-online-safety-legislation-preempt-harms)**  
+The Digital Duty of Care Act sailed through Australia's Parliament. It will mandate that online providers establish protocols to protect users from…  
+<sub>`The Record`</sub>
+
 **[CISA warns of critical unpatched flaw in Danfoss refrigeration controllers](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/)**  
 The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers…  
 <sub>`BleepingComputer`</sub>
-
-**[Attackers Target .NET Developers With Poisoned Job Assessments](https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments)**  
-Researchers discovered 13 malicious NuGet packages as part of a fake recruitment campaign that spreads malware and gives attackers access to…  
-<sub>`Dark Reading`</sub>
-
-**[Two Newly Disclosed GeoServer Vulnerabilities Under Attack](https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/)**  
-Attackers are probing GeoServer instances for two high-severity flaws that can be chained with other bugs for unauthenticated RCE. The post Two Newly…  
-<sub>`SecurityWeek`</sub>
-
-**[It's a Bot World. We're Just Living in It](https://www.darkreading.com/cyber-risk/bot-world-just-living)**  
-Bot detection has become a losing game. Security teams need to limit privileged access for humans and their machine counterparts equally.  
-<sub>`Dark Reading`</sub>
-
-**[More Pentests Without More Pentesters: Where AI Safely Helps](https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/)**  
-Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad…  
-<sub>`BleepingComputer`</sub>
-
-**[InfraTrust warns of exploited supply chain flaws in network appliances](https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/)**  
-Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month…  
-<sub>`BleepingComputer`</sub>
-
-**[Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'](https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide)**  
-Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting…  
-<sub>`Dark Reading`</sub>
-
-**[ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties](https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/)**  
-An account tied to ShinyHunters announced the group’s return, as Okta spots possible links between Inception and ShinyHunters hackers. The post…  
-<sub>`SecurityWeek`</sub>
 
 <!-- CYBER-NEWS:END -->
 
