@@ -60,6 +60,26 @@ Throughout my career I have led programmes spanning SOC development, EDR/XDR dep
 
 <!-- CYBER-NEWS:START -->
 
+**[pCloud confirms password manager hack after suspicious login alerts](https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/)**  
+The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with…  
+<sub>`BleepingComputer`</sub>
+
+**[New Boston Scientific data breach exposes personal, medical info](https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/)**  
+Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]  
+<sub>`BleepingComputer`</sub>
+
+**[Unpatched Cacti zero-day with public PoC gives remote code execution](https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/)**  
+A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets…  
+<sub>`BleepingComputer`</sub>
+
+**[Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign](https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html)**  
+A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with…  
+<sub>`The Hacker News`</sub>
+
+**[Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks](https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks)**  
+The security startup consolidates four legacy security tools into an autonomous platform that uses context-aware AI to trace sensitive data lineage…  
+<sub>`Dark Reading`</sub>
+
 **[US Air Force cloud platform reportedly hacked in latest federal breach](https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/)**  
 Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government…  
 <sub>`BleepingComputer`</sub>
@@ -70,26 +90,6 @@ Forgotten virtual machines, unpatched servers, and excessive access permissions 
 
 **[Malwarebytes Antivirus: Get 50% off during Black Friday 2026](https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/)**  
 Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small…  
-<sub>`BleepingComputer`</sub>
-
-**[Japan’s education ministry discloses breach of government procurement system](https://therecord.media/japan-education-ministry-cyberattack)**  
-Japan’s education ministry disclosed earlier this week that hackers breached its government procurement system, potentially exposing records…  
-<sub>`The Record`</sub>
-
-**['God Mode' Flaws Could Wreak Border-Control Havoc](https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc)**  
-Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online…  
-<sub>`Dark Reading`</sub>
-
-**[Software giant SAP confirms cyber incident amid reports of source code breach](https://therecord.media/sap-germany-cyberattack-github)**  
-German software giant SAP confirmed a cybersecurity incident following reports that hackers infiltrated its software development infrastructure…  
-<sub>`The Record`</sub>
-
-**[Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control](https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html)**  
-Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a…  
-<sub>`The Hacker News`</sub>
-
-**[Microsoft removes WSUS server role in Windows Server 2028](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/)**  
-Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]  
 <sub>`BleepingComputer`</sub>
 
 <!-- CYBER-NEWS:END -->
